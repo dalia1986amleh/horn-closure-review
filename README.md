@@ -6,7 +6,7 @@ This package contains everything needed to audit the reported numbers without an
 ## Quick start (about 3 minutes, Python 3.10+)
     pip install -r requirements.txt
     bash reproduce_tables.sh
-The script rescores every stored answer, recomputes the tables below, runs the answer-key checks and ends with `All reproduced outputs match.` if the recomputed JSON files equal `expected_outputs/`. Every random step (bootstrap resamples, the choice of one run for a repeated cell) is seeded.
+The script rescores every stored answer, recomputes the tables below, runs the backward-search and prompt-text answer-key checks and ends with `All reproduced outputs match.` if the recomputed JSON files equal `expected_outputs/`. The Z3 check (`z3_check.py`) and the unique-support check (`derivation_graph.py`) are run separately. Every random step (bootstrap resamples, the choice of one run for a repeated cell) is seeded.
 
 ## What produces what
 | Paper item | Script | Output |
