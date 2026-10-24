@@ -12,16 +12,16 @@ The script rescores every stored answer, recomputes the tables below, runs the a
 | Paper item | Script | Output |
 |---|---|---|
 | Per-run scores (strict scorer) | `summarise_seeds.py` (uses `score_responses.py`) | `seeds_results.csv` |
-| Tables 3, 4 and A3 (t and Wilcoxon p-values), Figures 1 to 3 | `analysis_three_lengths.py`, `make_figs_three_lengths.py` | `three_lengths_stats.json` |
+| Tables 3, 4 and 4g (t and Wilcoxon p-values), Figures 1 to 4 | `analysis_three_lengths.py`, `make_figs_three_lengths.py` | `three_lengths_stats.json` |
 | Table 4b (analysis-choice sensitivity) | `sensitivity_table.py` | `sensitivity_stats.json` |
 | Tables 3b and 4c (GPT-5.5 strict vs article optional; unaffected problems) | `gpt55_scoring_sensitivity.py` | `gpt55_scoring_sensitivity.json` |
-| Table 5, Figure 4, fact-level counts | `depth_analysis.py` | `depth_stats.json` |
+| Table 5, fact-level counts | `depth_analysis.py` | `depth_stats.json` |
 | Tables 4d, 4e and 4f (DeepSeek-V4-Pro repeat study: three runs per problem at unpadded and 80k) | `repeat_analysis.py` (protocol and run plan in `repeat_study/`) | `repeat_stats.json` |
 | Post hoc checks of the repeat study (0.987 run replaced; runs of one session only) | `repeat_sensitivity.py` | `repeat_sensitivity.json` |
 | Spot check of 14 items (10 entailed, 4 not entailed); the sheet itself is for a human reader | `audit_sheet_make.py`, `audit_check.py`, `human_audit_sheet.md` | printed |
 | Appendix A | `appendix_deepseek.py`, `make_fig_deepseek_extra_lengths.py` | `appendix_deepseek_stats.json` |
 | Scorer check (strict vs article optional differ on exactly 3 runs) | `article_optional_check.py` | printed |
-| Answer-key checks | `backward_check.py` (59 instances), `prompt_text_check.py` (24 prompts), `derivation_graph.py` (unique support, 90 instances), `z3_check.py` (59 instances, needs `z3-solver`) | printed |
+| Answer-key checks | `backward_check.py` (59 instances), `prompt_text_check.py` (24 prompts), `derivation_graph.py` (unique support, 90 instances), `z3_check.py` (59 instances, needs `z3-solver`); Figure C1: `make_fig_key_checks.py` | printed |
 | Root versus downstream misses, conditional joins | `root_miss_analysis.py`, `per_run_report.py` | `root_miss_report.csv`, `per_run_report.csv` |
 
 ## Contents

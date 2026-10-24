@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Post hoc checks on the DeepSeek-V4-Pro repeat study (paper, Section 4.1). Reads repeat_stats.json (written by repeat_analysis.py).
+"""Post hoc checks on the DeepSeek-V4-Pro repeat study (paper, Section 4 and Appendix B). Reads repeat_stats.json (written by repeat_analysis.py).
 (1) Sensitivity: in the cell L4p80 problem 2, the run scoring 0.987 (repeat 1) is replaced by the extra run (x1); the three-run means are recomputed.
 (2) Same period: only runs sent on 22 October 2026 are used (repeats 1 and 2 of every cell, except repeat 1 of 80k problems 2 and 7, which was sent on 21 October).
 Bootstrap: percentile, 20,000 resamples of the 8 problems, random.seed(1). Writes repeat_sensitivity.json. Run from the package root after repeat_analysis.py."""
