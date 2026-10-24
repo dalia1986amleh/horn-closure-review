@@ -1,0 +1,13 @@
+{
+ "model": "gpt-5-mini",
+ "effort": "high",
+ "prompt_file": "prompts_v2/PROMPT_SEED_L4_s7_A.txt",
+ "tag": "r1",
+ "seconds": 555.0,
+ "status": "completed",
+ "incomplete": "None",
+ "input_tokens": 8320,
+ "output_tokens": 72467,
+ "reasoning_tokens": 71232,
+ "sent_utc": "2026-10-15 09:32:04"
+}

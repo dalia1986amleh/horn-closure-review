@@ -1,0 +1,776 @@
+{
+ "DeepSeek-V4-Pro|9k": {
+  "d|1": {
+   "mean": 0.995,
+   "n_problems": 8,
+   "found": 402.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.9947896840502475,
+   "n_problems": 8,
+   "found": 594.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.9986263736263736,
+   "n_problems": 8,
+   "found": 691.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.9892111758678962,
+   "n_problems": 8,
+   "found": 718.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.9924999999999999,
+   "n_problems": 8,
+   "found": 1588.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.9987745098039216,
+   "n_problems": 8,
+   "found": 817.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.995,
+   "n_problems": 8,
+   "found": 398.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.995,
+   "n_problems": 8,
+   "found": 398.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.9975,
+   "n_problems": 8,
+   "found": 399.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9825,
+   "n_problems": 8,
+   "found": 393.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.9940476190476191,
+   "n_problems": 8,
+   "found": 196.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 292.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 325.0,
+   "total": 325
+  }
+ },
+ "DeepSeek-V4-Pro|40k": {
+  "d|1": {
+   "mean": 0.9127450980392157,
+   "n_problems": 8,
+   "found": 369.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.8823536407052527,
+   "n_problems": 8,
+   "found": 528.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.8819660036769246,
+   "n_problems": 8,
+   "found": 604.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.8509364161000448,
+   "n_problems": 8,
+   "found": 622.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.915625,
+   "n_problems": 8,
+   "found": 1465.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.8021867019256261,
+   "n_problems": 8,
+   "found": 658.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.9125,
+   "n_problems": 8,
+   "found": 365.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.915,
+   "n_problems": 8,
+   "found": 366.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.9275,
+   "n_problems": 8,
+   "found": 371.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9075,
+   "n_problems": 8,
+   "found": 363.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.8139880952380952,
+   "n_problems": 8,
+   "found": 162.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 0.8252074280090402,
+   "n_problems": 8,
+   "found": 233.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.7675448193111236,
+   "n_problems": 8,
+   "found": 259.0,
+   "total": 325
+  }
+ },
+ "DeepSeek-V4-Pro|80k": {
+  "d|1": {
+   "mean": 0.843565233785822,
+   "n_problems": 8,
+   "found": 341.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.705079931290163,
+   "n_problems": 8,
+   "found": 419.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.6629514333934197,
+   "n_problems": 8,
+   "found": 467.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.6320931114529795,
+   "n_problems": 8,
+   "found": 448.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.818125,
+   "n_problems": 8,
+   "found": 1309.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.4502251591418631,
+   "n_problems": 8,
+   "found": 366.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.8475,
+   "n_problems": 8,
+   "found": 339.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.815,
+   "n_problems": 8,
+   "found": 326.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.8125,
+   "n_problems": 8,
+   "found": 325.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.7975,
+   "n_problems": 8,
+   "found": 319.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 0.5,
+   "n_problems": 3,
+   "found": 2.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.47886650386650387,
+   "n_problems": 8,
+   "found": 93.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 0.44498269663614515,
+   "n_problems": 8,
+   "found": 142.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.4381214934464241,
+   "n_problems": 8,
+   "found": 129.0,
+   "total": 325
+  }
+ },
+ "GPT-5.5|9k": {
+  "d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 404.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 597.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 692.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.9986111111111111,
+   "n_problems": 8,
+   "found": 724.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.999375,
+   "n_problems": 8,
+   "found": 1599.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 818.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9975,
+   "n_problems": 8,
+   "found": 399.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 197.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 292.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 325.0,
+   "total": 325
+  }
+ },
+ "GPT-5.5|40k": {
+  "d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 404.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.9919455544455544,
+   "n_problems": 8,
+   "found": 592.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 692.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.9987113402061856,
+   "n_problems": 8,
+   "found": 724.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.999375,
+   "n_problems": 8,
+   "found": 1599.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.9939196832579186,
+   "n_problems": 8,
+   "found": 813.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9975,
+   "n_problems": 8,
+   "found": 399.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.9773478835978836,
+   "n_problems": 8,
+   "found": 192.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 292.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 325.0,
+   "total": 325
+  }
+ },
+ "GPT-5.5|80k": {
+  "d|1": {
+   "mean": 0.9875,
+   "n_problems": 8,
+   "found": 399.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.9457967940640291,
+   "n_problems": 8,
+   "found": 564.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.9166161908779222,
+   "n_problems": 8,
+   "found": 633.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.8756066790414222,
+   "n_problems": 8,
+   "found": 635.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.9625,
+   "n_problems": 8,
+   "found": 1540.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.8442921951120101,
+   "n_problems": 8,
+   "found": 691.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.9875,
+   "n_problems": 8,
+   "found": 395.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.9675,
+   "n_problems": 8,
+   "found": 387.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.95,
+   "n_problems": 8,
+   "found": 380.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9450000000000001,
+   "n_problems": 8,
+   "found": 378.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.9055059523809523,
+   "n_problems": 8,
+   "found": 177.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 0.8742072799608094,
+   "n_problems": 8,
+   "found": 253.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.7886191593732355,
+   "n_problems": 8,
+   "found": 257.0,
+   "total": 325
+  }
+ },
+ "Gemini 3.1 Pro|9k": {
+  "d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 404.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.9582872233400402,
+   "n_problems": 8,
+   "found": 572.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.9983974358974359,
+   "n_problems": 8,
+   "found": 691.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.9956625597183807,
+   "n_problems": 8,
+   "found": 722.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.98625,
+   "n_problems": 8,
+   "found": 1578.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.9915478601391864,
+   "n_problems": 8,
+   "found": 811.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.9475,
+   "n_problems": 8,
+   "found": 379.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.9975,
+   "n_problems": 8,
+   "found": 399.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 400.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 1.0,
+   "n_problems": 3,
+   "found": 4.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.9828703703703704,
+   "n_problems": 8,
+   "found": 193.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 1.0,
+   "n_problems": 8,
+   "found": 292.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.9895279255319149,
+   "n_problems": 8,
+   "found": 322.0,
+   "total": 325
+  }
+ },
+ "Gemini 3.1 Pro|40k": {
+  "d|1": {
+   "mean": 0.9602450980392156,
+   "n_problems": 8,
+   "found": 388.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.9359303311004509,
+   "n_problems": 8,
+   "found": 560.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.8820281909182771,
+   "n_problems": 8,
+   "found": 610.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.9149835308193508,
+   "n_problems": 8,
+   "found": 664.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.9775,
+   "n_problems": 8,
+   "found": 1564.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.7974638707084631,
+   "n_problems": 8,
+   "found": 658.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.9625,
+   "n_problems": 8,
+   "found": 385.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.9875,
+   "n_problems": 8,
+   "found": 395.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.985,
+   "n_problems": 8,
+   "found": 394.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.975,
+   "n_problems": 8,
+   "found": 390.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 0.6666666666666666,
+   "n_problems": 3,
+   "found": 3.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.8231465770068711,
+   "n_problems": 8,
+   "found": 165.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 0.739962763285934,
+   "n_problems": 8,
+   "found": 216.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.8334856719367589,
+   "n_problems": 8,
+   "found": 274.0,
+   "total": 325
+  }
+ },
+ "Gemini 3.1 Pro|80k": {
+  "d|1": {
+   "mean": 0.9355769230769231,
+   "n_problems": 8,
+   "found": 378.0,
+   "total": 404
+  },
+  "d|6": {
+   "mean": 0.8821203330504201,
+   "n_problems": 8,
+   "found": 526.0,
+   "total": 597
+  },
+  "d|11": {
+   "mean": 0.8589638608499854,
+   "n_problems": 8,
+   "found": 590.0,
+   "total": 692
+  },
+  "d|16": {
+   "mean": 0.8257630218289398,
+   "n_problems": 8,
+   "found": 600.0,
+   "total": 725
+  },
+  "chain|0": {
+   "mean": 0.9375,
+   "n_problems": 8,
+   "found": 1500.0,
+   "total": 1600
+  },
+  "join|0": {
+   "mean": 0.7281450409749527,
+   "n_problems": 8,
+   "found": 594.0,
+   "total": 818
+  },
+  "chain_d|1": {
+   "mean": 0.9375,
+   "n_problems": 8,
+   "found": 375.0,
+   "total": 400
+  },
+  "chain_d|6": {
+   "mean": 0.9375,
+   "n_problems": 8,
+   "found": 375.0,
+   "total": 400
+  },
+  "chain_d|11": {
+   "mean": 0.9375,
+   "n_problems": 8,
+   "found": 375.0,
+   "total": 400
+  },
+  "chain_d|16": {
+   "mean": 0.9375,
+   "n_problems": 8,
+   "found": 375.0,
+   "total": 400
+  },
+  "join_d|1": {
+   "mean": 0.8333333333333334,
+   "n_problems": 3,
+   "found": 3.0,
+   "total": 4
+  },
+  "join_d|6": {
+   "mean": 0.7698158323158323,
+   "n_problems": 8,
+   "found": 151.0,
+   "total": 197
+  },
+  "join_d|11": {
+   "mean": 0.7563995893252125,
+   "n_problems": 8,
+   "found": 215.0,
+   "total": 292
+  },
+  "join_d|16": {
+   "mean": 0.680408661788027,
+   "n_problems": 8,
+   "found": 225.0,
+   "total": 325
+  }
+ }
+}

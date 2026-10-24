@@ -1,0 +1,81 @@
+Use only the premises below. All words are invented; do not use outside knowledge.
+Do NOT use code, tools, calculators or web search. Work it out yourself.
+"Every A is a B" means anything that is an A is also a B.
+"Every A that is also a B is a C" applies only to something that is both an A and a B.
+
+Premises:
+Every tujnavel is a votluluk.
+Every panzivab is a nardozid.
+Every warkejib is a dirdozam.
+Every dinkorin is a pimbukes.
+Every nankozat is a vajnibat.
+Every maltaxut is a jujnexol.
+Every razmumat is a panzivab.
+Every rekrijem is a lerzexik.
+Every pezmowul is a xirzitut.
+Every dakrilin is a nuskufaz.
+Every virdefin is a maltaxut.
+Every keskobuw is a tujnavel.
+Every toxtakir is a nankozat.
+Every kagnixas is a menzusib.
+Every tovkibox is a narkujen.
+Every kuzludux is a mojnuros.
+Every zizlikeg is a bilvilip.
+Every virkujez is a bugnikod.
+Every kumboduw is a jolvisab.
+Every bugnikod is a junzanuz.
+Every bilvilip is a maxtogil.
+Every zixtorel is a vurzovuk.
+Every wejnivob is a zerzesex.
+Every xultimog is a gajnadub.
+Every nuskufaz is a markesug.
+Every vaxtijis is a xordogaz.
+Every nerkufoj is a dadrewaw.
+Every sambawuv is a toxtakir.
+Every wurdujok is a kudrifon.
+Every dinkorin is a keskobuw.
+Every lerzexik is a virkujez.
+Every vajnibat is a zizlikeg.
+Rex is a rekrijem.
+Every lurkutis is a kumboduw.
+Every rekrijem is a wejnivob.
+Every pivkadan is a tovkibox.
+Every xordogaz is a koskefun.
+Every funkivul is a virdefin.
+Every narkujen is a warkejib.
+Every mojnuros is a vaxtijis.
+Every menzusib is a xirzekub.
+Every zerzesex is a kagnixas.
+Every gajnadub is a maxtepul.
+Every xirzekub is a razmumat.
+Every junzanuz is a jevkawig.
+Every pimbukes is a funkivul.
+Every dinkorin is a pivkadan.
+Every dugnetej is a moskowig.
+Every dirdozam is a xultimog.
+Every kudrifon is a bembibez.
+Every jevkawig is a giskosov.
+Every zarkevaw is a fembixij.
+Every dadrewaw is a kuzludux.
+Every giskosov is a fembekik.
+Orla is a dinkorin.
+Every zaskubof is a lurkutis.
+Every votluluk is a dugnetej.
+Every jujnexol is a dakrilin.
+Every moskowig is a bembibez.
+Every zenzozuz is a zixtorel.
+Every rekrijem is a sambawuv.
+Every xirzitut is a bilvilip.
+Every jolvisab is a rijnepeb.
+Every maxtogil is a volvamit.
+Every vurzovuk is a zaskubof.
+Every rolvazoj is a nerkufoj.
+Every bembibez is a zarkevaw.
+Every fembekik is a budrekos.
+Every dinkorin is a rolvazoj.
+Every rekrijem is a zenzozuz.
+
+Task: list every statement of the form "Orla is a ___" that follows from the premises.
+- Do not repeat the given fact about Orla.
+- Write one statement per line, exactly as "Orla is a word". No numbering, no explanations.
+- Include every statement that follows and no statement that does not follow.

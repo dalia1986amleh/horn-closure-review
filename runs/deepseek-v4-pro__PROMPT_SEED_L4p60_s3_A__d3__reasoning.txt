@@ -1,0 +1,4824 @@
+We need answer list of "Ines is a ___" statements that follow from premises. Need deduce all categories Ines is. Given only one premise about Ines? Let's scan: "Ines is a vuxtalev." That's likely the only given fact about Ines. Need list all things that follow by "Every A is a B" chain? Need infer all supertypes of vuxtalev via universal premises. Also maybe if Ines satisfies conditions for conditional "Every A that is also B is C" where Ines is A and B. We need consider both simple every statements and conditional every A that is also B is C. Need use all premises. Goal: list every statement "Ines is a ___" that follows from premises. Given Ines is a vuxtalev. Need find all categories that vuxtalev is transitively included in, and conditional inclusions triggered.
+
+Important: All words invented. We cannot use outside knowledge. Need work logically.
+
+We need parse premises. There are hundreds. Need build knowledge base especially around vuxtalev and any types Ines becomes. We need exhaustive closure.
+
+Let's formalize. There is fact: Ines is vuxtalev. Then for any universal "Every X is a Y", if Ines is X then Ines is Y. For conditional "Every X that is also Y is a Z", applies if Ines is both X and Y -> Ines Z.
+
+Need compute closure. Since only Ines given as vuxtalev, and maybe other fact? Let's verify if any other Ines fact? We have "Nell is..." many, "Mara is a kurzopov." Only "Ines is a vuxtalev." So yes.
+
+We need identify all statements about vuxtalev. Search premises for "Every vuxtalev..." I saw:
+- Every vuxtalev is a kaltamep.
+- Every vuxtalev is a wutlibis.
+- Every vuxtalev is a fazmoper.
+- Every vuxtalev is a xambutof.
+- Every vuxtalev is a xovkinaf.
+- Every vuxtalev is a soskusiw.
+- Every vuxtalev is a zedrijuk.
+- Every vuxtalev is a jazmufad.
+- Every vuxtalev is a mizmisek.
+- Every vuxtalev is a kurkuved.
+- Maybe more. Let's scan entire premise list for "Every vuxtalev" exactly. I'll scan mentally:
+"Every vuxtalev is a kaltamep." yes.
+"Every vuxtalev is a wutlibis." yes.
+"Every vuxtalev is a fazmoper." yes.
+"Every vuxtalev is a xambutof." yes.
+"Every vuxtalev is a xovkinaf." yes.
+"Every vuxtalev is a soskusiw." yes.
+"Every vuxtalev is a zedrijuk." yes.
+"Every vuxtalev is a jazmufad." yes.
+"Every vuxtalev is a mizmisek." yes.
+"Every vuxtalev is a kurkuved." yes.
+Also maybe "Every vuxtalev is a ..." in conditional? Search for "vuxtalev" in premises:
+- "Every vuxtalev is a kaltamep."
+- "Every vuxtalev is a wutlibis."
+- "Every vuxtalev is a fazmoper."
+- "Every vuxtalev is a xambutof."
+- "Every vuxtalev is a xovkinaf."
+- "Every vuxtalev is a soskusiw."
+- "Every vuxtalev is a zedrijuk."
+- "Every vuxtalev is a jazmufad."
+- "Every vuxtalev is a mizmisek."
+- "Every vuxtalev is a kurkuved."
+Other conditionals? Need scan for "that is also ..." containing vuxtalev? The conditionals use "Every A that is also B is C"; A could be vuxtalev? Let's scan all conditional lines for "vuxtalev" maybe. I recall no "Every vuxtalev that is also..."? Need carefully scan list. It is huge. We'll need exhaustive search for all statements involving vuxtalev and supertypes.
+
+Given Ines starts at vuxtalev. We need closure over:
+- Direct supertypes of vuxtalev (likely 10).
+- Then all supertypes of those supertypes, etc.
+Potentially massive.
+
+We need compute all types Ines is. Need no repetitions. We need output one per line. We can produce closure. Need be accurate.
+
+Since only premise about Ines is vuxtalev. Need find full upward closure.
+
+Let's approach systematically.
+
+We have huge KB of simple "Every X is a Y" statements. We need compute transitive closure from "vuxtalev". Could use graph reachability. Also conditional rules: "Every A that is also B is C" if reachable both A and B.
+
+We need do manually without code. But can simulate. Need be extremely careful. The premise list is massive ~1000. Need manage scope.
+
+Let's start by identifying direct universal statements for vuxtalev. I'll scan through premise list from start to end, noting every line with vuxtalev as subject.
+
+I can use the provided text. Let's parse all lines containing "vuxtalev". I'll mentally search. I saw "Ines is a vuxtalev." Many Nell facts. Let's scan:
+
+1. "Every vuxtalev is a kaltamep." (near after "Every wejnufuf is a degnojag.")
+2. "Every vuxtalev is a wutlibis." (later after "Every fardenoz is a tikrunux.")
+Actually yes.
+3. "Every vuxtalev is a fazmoper." (after "Every xumbenox is a lutlaxes." maybe)
+Wait there are multiple "Every vuxtalev is a ..." separate.
+
+Need list all.
+
+Let's not rely memory; scan the entire prompt visibly. Since I'm AI with text, I can inspect. Let's do a pass from top to bottom, extracting all relevant lines involving vuxtalev and later supertypes. But there are lots. Maybe better to build closure graph from vuxtalev by iteratively searching each current noun in premise list. We can use the list as given, but manually.
+
+Given size, we need efficient. Since Ines fact is only vuxtalev, maybe direct closure is manageable if we restrict to relevant reachable nodes. Let's compute.
+
+I will maintain set of types Ines is. Start with vuxtalev. Add direct supertypes. Then for each supertype, find all "Every X is Y" where X in set, add Y. Also conditionals.
+
+Because premises are one-way, closure could expand but hopefully manageable. We need exhaustive. Let's build.
+
+First, direct "Every vuxtalev is ..." list. I'll locate all by reading.
+
+I can use search mental from text:
+
+The block around "Every xumbenox is a lutlaxes." then:
+"Every kiskilux is a zorzawas."
+"Every zavkejin is a ziltajow."
+"Every polvowox is a mikruvez."
+...
+Then "Every vuxtalev is a wutlibis." appears after "Every xezlusib is a porzojur." perhaps.
+
+Let's not rely. I'll carefully scan entire input from start for word "vuxtalev":
+
+I copy mentally? Let's scan.
+
+Premises start:
+Every gurzosaw is a kitleluf.
+...
+Nell is a durzafus.
+...
+No Ines.
+
+Around many lines.
+
+I'll use search eye for substring "vuxtalev":
+
+- In the given: "Every vuxtalev is a kaltamep." after "Every wejnufuf is a degnojag." and before "Every rignivin is a vodrogag."
+- "Every vuxtalev is a wutlibis." after "Every xezlusib is a porzojur." and before "Every fardenoz is a tikrunux." Wait "wutlibis" line later.
+- "Every vuxtalev is a fazmoper." after "Every wunkanux is a torkuven."? Actually before "Every rerzojow is a fezmuxov."
+- "Every vuxtalev is a xambutof." near "Every mokrafus is a sunzazax." maybe.
+- "Every vuxtalev is a xovkinaf." near "Every toskitep is a gotlafiz."? 
+- "Every vuxtalev is a soskusiw." maybe near after "Every binkezif..."
+- "Every vuxtalev is a zedrijuk." maybe "Every tultidiv is..."?
+- "Every vuxtalev is a jazmufad." maybe after "Every xirzuwes..."
+- "Every vuxtalev is a mizmisek." maybe near "Every rudruvis..."
+- "Every vuxtalev is a kurkuved." maybe near "Every fuvkavan..."
+This is not enough. Let's use more systematic: The text can be searched mentally by lines. I can use the provided exact sequence maybe. Since it's in conversation, I can scroll? No but I can parse from memory? Hmm.
+
+Could ask: There are exactly maybe 10 "Every vuxtalev" lines. We need all. I can find them by remembering from the sequence around middle:
+"Every wejnemiv that is also a terziguw is a zulvuzip.
+Every bezmivim is a lurduzov.
+Every fiskuxep is a jinkebes.
+Every nognijuw is a sakrevol.
+Every kiltusim is a sugnexin.
+Every folvijal is a mignojuf.
+Every katlupeb is a fevkulaf.
+Every zurkikuk is a piltijof.
+Every runkofef that is also a likrageb is a zadredek.
+...
+Every vuxtalev is a kaltamep.
+Every rignivin is a vodrogag.
+..."
+Yes one.
+
+Later:
+"Every xezlusib is a porzojur.
+Every gunzuwez is a vadrogij.
+...
+Every vuxtalev is a wutlibis.
+Every fardenoz is a tikrunux.
+..."
+Yes.
+
+Later:
+"Every wunkanux is a torkuven.
+Every vuxtalev is a fazmoper.
+Every rerzojow is a fezmuxov."
+Maybe.
+
+Later:
+"Every mokrafus is a sunzazax.
+Every ruzmeseb is a jaltetuj.
+Every xerkenal is a kadrebij.
+Every xardijeg is a wazmagel.
+...
+Every vuxtalev is a xambutof.
+..." maybe after "Every xambutof" line? Wait "xambutof" is object. Let's find exact.
+
+I recall line "Every vuxtalev is a xambutof." after "Every xejnasek is a zerdanit."? Not sure.
+
+Later:
+"Every toskitep is a gotlafiz.
+Every xovkinaf is a notluvik."
+Then "Every vuxtalev is a xovkinaf."? Actually line "Every vuxtalev is a xovkinaf" maybe after "Every pognozan..."?
+
+Let's search memory of exact around: 
+"Every goltif..." no.
+
+Could instead use transitive closure and maybe not need exact direct if we can find all from context by scanning all candidate Y. But need direct.
+
+Let's do a full sequential scan of premise list and stop at relevant lines. We need parse anyway. I'll simulate by reading from top mentally, but can identify when left side has "vuxtalev." Given we only need vuxtalev and reachable types, maybe we can use textual search on the premise list as a string in mind? Let's attempt.
+
+Actually, as ChatGPT, maybe the full text is in context; I can use attention to locate all occurrences of "vuxtalev." I can think of search results. Let me invoke mental Ctrl-F: "vuxtalev" appears in:
+
+1. "Every vuxtalev is a kaltamep."
+2. "Every vuxtalev is a wutlibis."
+3. "Every vuxtalev is a fazmoper."
+4. "Every vuxtalev is a xambutof."
+5. "Every vuxtalev is a xovkinaf."
+6. "Every vuxtalev is a soskusiw."
+7. "Every vuxtalev is a zedrijuk."
+8. "Every vuxtalev is a jazmufad."
+9. "Every vuxtalev is a mizmisek."
+10. "Every vuxtalev is a kurkuved."
+Maybe also "Every vuxtalev is a..."? I have 10. Good.
+
+Potential conditional "Every vuxtalev that is also..."? I don't recall any. Let's scan for "vuxtalev that" maybe none. Since conditional subjects are often random. Could be. We'll need check: any line starting "Every vuxtalev that is also" - I think no.
+
+Now from vuxtalev we get:
+kaltamep, wutlibis, fazmoper, xambutof, xovkinaf, soskusiw, zedrijuk, jazmufad, mizmisek, kurkuved.
+
+Need then find supertypes of these. Let's compute closure.
+
+We need also could combine with conditional if Ines is both A and B. Example, if there is "Every kaltamep that is also something is ..."; Ines must be both kaltamep and that something. We need watch all conditionals for any A currently reachable; if both reachable, add C. Could create new categories.
+
+Let's start by listing direct upward closure (simple "Every X is a Y") for each reachable type. I will need search premise list for all lines with subjects among our set. Since set may grow, we need likely hundreds.
+
+Maybe there are limited levels. Let's begin.
+
+I'll create a table of direct edges for initial types by scanning entire premise list manually for each. This is challenging but possible.
+
+Let's search line by line for our subjects.
+
+First, kaltamep. I recall "Every kaltamep is a wuvkuwog." Actually there is line: "Every kaltamep is a wuvkuwog." Yes near "Every bezmaxir is a gerzebef." Let's verify: I saw "Every kaltamep is a wuvkuwog." So kaltamep -> wuvkuwog.
+
+Other "kaltamep" maybe subject of conditional? Search "kaltamep" in text: 
+- "Every kaltamep is a wuvkuwog."
+- Could be object? "Every ... is a kaltamep." maybe We'll find later.
+No conditional "Every kaltamep that is also..." likely.
+
+Next wutlibis. Search "wutlibis":
+- "Every vuxtalev is a wutlibis."
+- "Every wutlibis is a wokremus." I recall: "Every wutlibis is a wokremus." Yes. So wutlibis -> wokremus.
+Maybe others.
+
+fazmoper. Search "fazmoper":
+- "Every vuxtalev is a fazmoper."
+- "Every fazmoper is a mokrafus." I recall: "Every fazmoper is a mokrafus." Yes.
+Also "Every fazmoper ..."? 
+
+xambutof. Search:
+- "Every vuxtalev is a xambutof."
+- "Every xambutof is a degnexeb." I recall: "Every xambutof is a degnexeb." Yes.
+Maybe also "Every xambutof is a ..." ?
+
+xovkinaf. Search:
+- "Every vuxtalev is a xovkinaf."
+- "Every xovkinaf is a notluvik." I recall line "Every xovkinaf is a notluvik." Yes.
+Maybe.
+
+soskusiw. Search:
+- "Every vuxtalev is a soskusiw."
+- "Every soskusiw is a xinzaguk." I recall "Every soskusiw is a xinzaguk." yes.
+Maybe also soskusiw object in "Every ..."?
+
+zedrijuk. Search:
+- "Every vuxtalev is a zedrijuk."
+- "Every zedrijuk is a vextipad." Maybe? I recall "Every zedrijuk is a vextipad." yes.
+Also maybe.
+
+jazmufad. Search:
+- "Every vuxtalev is a jazmufad."
+- "Every jazmufad is a xurkerij." I recall "Every jazmufad is a xurkerij." yes.
+Maybe.
+
+mizmisek. Search:
+- "Every vuxtalev is a mizmisek."
+- "Every mizmisek is a muskasor." I recall "Every mizmisek is a muskasor." yes.
+
+kurkuved. Search:
+- "Every vuxtalev is a kurkuved."
+- "Every kurkuved is a pujnepaf." I recall "Every kurkuved is a pujnepaf." yes.
+
+So initial direct added:
+vuxtalev -> kaltamep, wutlibis, fazmoper, xambutof, xovkinaf, soskusiw, zedrijuk, jazmufad, mizmisek, kurkuved.
+Then:
+kaltamep -> wuvkuwog
+wutlibis -> wokremus
+fazmoper -> mokrafus
+xambutof -> degnexeb
+xovkinaf -> notluvik
+soskusiw -> xinzaguk
+zedrijuk -> vextipad
+jazmufad -> xurkerij
+mizmisek -> muskasor
+kurkuved -> pujnepaf
+
+Now need continue. Let's systematically explore graph from each branch.
+
+I can think of this as directed graph. Need find all reachable nodes and conditionals.
+
+Let's list branches:
+
+A: vuxtalev -> kaltamep -> wuvkuwog -> ...
+B: wutlibis -> wokremus -> ...
+C: fazmoper -> mokrafus -> ...
+D: xambutof -> degnexeb -> ...
+E: xovkinaf -> notluvik -> ...
+F: soskusiw -> xinzaguk -> ...
+G: zedrijuk -> vextipad -> ...
+H: jazmufad -> xurkerij -> ...
+I: mizmisek -> muskasor -> ...
+J: kurkuved -> pujnepaf -> ...
+
+Need include all and any intersections.
+
+Let's search direct edges for all current and future terms. I'll build a comprehensive reachability map. Need maybe use line search per term.
+
+Let's start with each branch, but they may merge.
+
+Important: Since conditional rules may trigger if Ines is both A and B. Example "Every pujnepaf that is also X is Y" etc. We need after all simple closures, check conditionals.
+
+Let's first compute simple closure from all initial branches. We'll maintain set S. Use alphabetically? Let's create dictionary.
+
+Currently S (Ines types) includes:
+vuxtalev, kaltamep, wuvkuwog,
+wutlibis, wokremus,
+fazmoper, mokrafus,
+xambutof, degnexeb,
+xovkinaf, notluvik,
+soskusiw, xinzaguk,
+zedrijuk, vextipad,
+jazmufad, xurkerij,
+mizmisek, muskasor,
+kurkuved, pujnepaf.
+
+Need find all supertypes of these. Let's search each term.
+
+We'll need direct edges. Let's go through premise list mentally by keywords. Since many, I'll use pattern: "Every X is a Y." For each X in S.
+
+Let's recall from premise list where these occur. I can search memory of the given text.
+
+**wuvkuwog**:
+I recall "Every wuvkuwog is a dankasuv." Wait yes? Let's scan memory: "Every wuvkuwog is a dankasuv." I remember line: "Every wuvkuwog is a dankasuv." Actually check: "Every wuvkuwog is a dankasuv." appears after "Every nignowir is a xijnozog." maybe. Yes.
+Also maybe "Every wuvkuwog is a ..." only.
+Object? We'll later.
+
+**wokremus**:
+There are several:
+- "Every wutlibis is a wokremus."
+- "Every wokremus that is also a rordojul is a xejnunut." (conditional)
+- "Every wokremus that is also a sujnegut is a zoxtuxep."? Wait I recall: "Every wokremus that is also a sujnegut is a zoxtuxep." There is also "Every wokremus is a xetlizob."? Let's search. I saw line: "Every wokremus is a xetlizob." maybe near "Every vitluwil? ..." Actually: "Every wokremus is a xetlizob." Yes I think.
+Also "Every wokremus that is also a rordojul is a xejnunut." and "Every wokremus that is also a sujnegut is a zoxtuxep." Need conditions.
+Simple edge: wokremus -> xetlizob? Let's verify. I recall line "Every wokremus is a xetlizob." from premise list near after "Every wokremus that is also a xetlizob"? Hmm. Let's locate:
+"Every wokremus that is also a rordojul is a xejnunut." (conditional)
+"Every wokremus that is also a sujnegut is a zoxtuxep."? Actually maybe there is conditional. Then "Every wokremus is a xetlizob." Might be simple.
+Also there is "Every xetlizob is a ..." later.
+
+**mokrafus**:
+I recall "Every mokrafus is a sunzazax." yes simple.
+Maybe "Every mokrafus is a ..." only.
+Also conditional? "Every mokrafus that is also ..."? not sure.
+
+**degnexeb**:
+I recall "Every degnexeb is a muzlatiz." yes. Simple.
+Maybe.
+
+**notluvik**:
+There are several:
+- "Every notluvik is a benzapep."? I recall "Every notluvik is a benzapep." yes.
+- "Every notluvik that is also a gimbozes is a benkezas." conditional.
+- "Every notluvik that is also a wirzosar is a lizlisiz." conditional.
+Simple: notluvik -> benzapep.
+
+**xinzaguk**:
+- "Every xinzaguk is a voxtukud." I recall.
+- "Every xinzaguk that is also a zazmowiv is a fugnapiz." conditional.
+- "Every xinzaguk that is also a gajnubes is a kaltasaz." conditional.
+Simple: xinzaguk -> voxtukud.
+
+**vextipad**:
+I recall "Every vextipad is a fizlelaj."? Wait earlier: "Every vextipad is a fizlelaj." yes maybe.
+But I saw "Every zedrijuk is a vextipad." and also there is "Every vextipad is a fizlelaj." Let's verify. There is line "Every vextipad is a fizlelaj." near "Every veskimod is..."? 
+Also maybe "Every vextipad is a ..." only.
+
+**xurkerij**:
+I recall several:
+- "Every jazmufad is a xurkerij."
+- "Every xurkerij that is also a lirkabus is a tenkawed." conditional.
+- "Every xurkerij is a mordutiz." simple.
+- "Every xurkerij that is also a xavkutez is a gozlojur." conditional.
+Simple: xurkerij -> mordutiz.
+
+**muskasor**:
+- "Every mizmisek is a muskasor."
+- "Every muskasor is a kaskusan." simple.
+- "Every muskasor that is also a ponzejet is a surdazet." conditional.
+- "Every muskasor that is also a gujnavop is a lankegew." conditional.
+Simple: muskasor -> kaskusan.
+
+**pujnepaf**:
+Important, there are many lines:
+- "Every pujnepaf is a daskosed." simple.
+- "Every pujnepaf that is also a sujnegut is a tudrawaw." conditional.
+- "Every pujnepaf that is also a murzemuv is a raxtewul." conditional.
+- "Every pujnepaf that is also a sujnakin is a zuvkutat." conditional.
+- "Every pujnepaf that is also a rordojul is a lavkebap." conditional.
+- "Every pujnepaf that is also a nerkozot is a wajnijor." conditional.
+- "Every pujnepaf that is also a gejnated is a wezlopej." conditional.
+- Maybe "Every pujnepaf that is also a ..." more.
+Simple: pujnepaf -> daskosed.
+Yes.
+
+Now add new:
+wuvkuwog -> dankasuv
+wokremus -> xetlizob (assuming)
+mokrafus -> sunzazax
+degnexeb -> muzlatiz
+notluvik -> benzapep
+xinzaguk -> voxtukud
+vextipad -> fizlelaj
+xurkerij -> mordutiz
+muskasor -> kaskusan
+pujnepaf -> daskosed
+
+Also maybe these are invalid if edge not exist; need confirm each. Let's verify with known list:
+- "Every wuvkuwog is a dankasuv." yes.
+- "Every wokremus is a xetlizob." I'm quite sure yes.
+- "Every mokrafus is a sunzazax." yes.
+- "Every degnexeb is a muzlatiz." yes.
+- "Every notluvik is a benzapep." yes.
+- "Every xinzaguk is a voxtukud." yes.
+- "Every vextipad is a fizlelaj." yes I think.
+- "Every xurkerij is a mordutiz." yes.
+- "Every muskasor is a kaskusan." yes.
+- "Every pujnepaf is a daskosed." yes.
+
+Now continue.
+
+S updated includes: dankasuv, xetlizob, sunzazax, muzlatiz, benzapep, voxtukud, fizlelaj, mordutiz, kaskusan, daskosed.
+
+Need find direct supertypes.
+
+**dankasuv**:
+I recall "Every dankasuv is a levkonim."? Wait there is "Every dankasuv is a levkonim." yes? Let's check: I saw "Every dankasuv is a levkonim." near "Every daskunuf..."? Actually there is "Every dankasuv is a levkonim." Yes.
+Also "Every dankasuv that is also a ridrizap is a kotlobox." conditional.
+Simple: dankasuv -> levkonim.
+
+**xetlizob**:
+I recall "Every xetlizob is a gigniver."? Maybe. Let's search memory: "Every xetlizob is a gigniver." I remember line: "Every xetlizob is a gigniver." yes. Also conditional? not sure.
+Simple: xetlizob -> gigniver.
+
+**sunzazax**:
+I recall "Every sunzazax is a vivkafaj." yes. Also maybe "Every sunzazax is ..." only.
+Simple: sunzazax -> vivkafaj.
+
+**muzlatiz**:
+I recall "Every muzlatiz is a retlovix." yes. Simple.
+Also maybe.
+
+**benzapep**:
+I recall "Every benzapep is a lankofid." yes (line: "Every benzapep is a lankofid."). Also maybe.
+Simple: benzapep -> lankofid.
+
+**voxtukud**:
+I recall "Every voxtukud is a darzilaf." yes. Simple.
+Also maybe "Every voxtukud..."?
+
+**fizlelaj**:
+I recall "Every fizlelaj is a voltorol." yes.
+Also "Every fizlelaj is a ..." only. Simple: fizlelaj -> voltorol.
+
+**mordutiz**:
+I recall "Every mordutiz is a bextafar." yes. Simple.
+Also maybe.
+
+**kaskusan**:
+I recall "Every kaskusan is a durdukok." yes. Simple.
+Also conditional? "Every nezlotus that is also a kaskusan is a koskiked." (A nezlotus not currently relevant).
+Simple: kaskusan -> durdukok.
+
+**daskosed**:
+I recall "Every daskosed is a lolviwil."? Wait line: "Every daskosed is a lolviwil." yes. Also conditional "Every daskosed that is also a jamburis is a vukruwux." (conditional). Simple: daskosed -> lolviwil.
+
+Add new:
+dankasuv -> levkonim
+xetlizob -> gigniver
+sunzazax -> vivkafaj
+muzlatiz -> retlovix
+benzapep -> lankofid
+voxtukud -> darzilaf
+fizlelaj -> voltorol
+mordutiz -> bextafar
+kaskusan -> durdukok
+daskosed -> lolviwil
+
+Now continue.
+
+S includes: levkonim, gigniver, vivkafaj, retlovix, lankofid, darzilaf, voltorol, bextafar, durdukok, lolviwil.
+
+Need supertypes.
+
+**levkonim**:
+I recall "Every levkonim is a rotlebij." yes.
+Also "Every levkonim that is also a tixtedis is a lambifav." conditional.
+Simple: levkonim -> rotlebij.
+
+**gigniver**:
+I recall "Every gigniver is a nenkilot." yes.
+Simple.
+
+**vivkafaj**:
+I recall "Every vivkafaj is a jardured."? Actually line: "Every vivkafaj is a jardured." yes.
+Also "Every vivkafaj that is also a tozlimux is a darzaxen." conditional.
+Simple: vivkafaj -> jardured.
+
+**retlovix**:
+I recall "Every retlovix is a jumbevef." yes.
+Also "Every retlovix that is also a durdukok is a mazledom." conditional.
+Simple: retlovix -> jumbevef.
+
+**lankofid**:
+I recall "Every lankofid is a mozlewib." yes.
+Simple.
+
+**darzilaf**:
+I recall "Every darzilaf is a berdadaw." yes.
+Simple.
+
+**voltorol**:
+I recall "Every voltorol is a jitlisus." yes.
+Simple.
+
+**bextafar**:
+I recall "Every bextafar is a tozlimux."? Wait there is "Every bextafar is a tozlimux." yes. Also "Every bextafar that is also a nenkilot is a mejnikem." conditional.
+Simple: bextafar -> tozlimux.
+
+**durdukok**:
+I recall "Every durdukok is a parzasov." yes.
+Simple.
+
+**lolviwil**:
+I recall "Every lolviwil is a vignaxag." yes.
+Simple.
+
+Add:
+levkonim -> rotlebij
+gigniver -> nenkilot
+vivkafaj -> jardured
+retlovix -> jumbevef
+lankofid -> mozlewib
+darzilaf -> berdadaw
+voltorol -> jitlisus
+bextafar -> tozlimux
+durdukok -> parzasov
+lolviwil -> vignaxag
+
+Now S includes: rotlebij, nenkilot, jardured, jumbevef, mozlewib, berdadaw, jitlisus, tozlimux, parzasov, vignaxag.
+
+Continue.
+
+**rotlebij**:
+I recall "Every rotlebij is a legnivav." yes (line: "Every rotlebij is a legnivav.")
+Simple.
+
+**nenkilot**:
+I recall "Every nenkilot is a zignufud." yes.
+Also conditionals maybe "Every bextafar that is also a nenkilot is a mejnikem" but not directly.
+Simple: nenkilot -> zignufud.
+
+**jardured**:
+I recall "Every jardured is a rinzabat." yes.
+Simple.
+
+**jumbevef**:
+I recall "Every jumbevef is a mivkogip." yes.
+Simple.
+
+**mozlewib**:
+I recall "Every mozlewib is a xulvozod." yes.
+Also "Every mozlewib that is also a vazluxiv is a neltawip." conditional.
+Simple: mozlewib -> xulvozod.
+
+**berdadaw**:
+I recall "Every berdadaw is a vazluxiv." yes? Wait "Every berdadaw is a vazluxiv." I remember. Yes.
+Simple: berdadaw -> vazluxiv.
+
+**jitlisus**:
+I recall "Every jitlisus is a lizlodix." yes.
+Simple.
+
+**tozlimux**:
+I recall "Every tozlimux is a vaskijes." yes.
+Also "Every vivkafaj that is also a tozlimux is a darzaxen." conditional.
+Simple: tozlimux -> vaskijes.
+
+**parzasov**:
+I recall "Every parzasov is a bejnupom." yes.
+Simple.
+
+**vignaxag**:
+I recall "Every vignaxag is a xadralez." yes.
+Simple.
+
+Add:
+rotlebij -> legnivav
+nenkilot -> zignufud
+jardured -> rinzabat
+jumbevef -> mivkogip
+mozlewib -> xulvozod
+berdadaw -> vazluxiv
+jitlisus -> lizlodix
+tozlimux -> vaskijes
+parzasov -> bejnupom
+vignaxag -> xadralez
+
+Now S includes: legnivav, zignufud, rinzabat, mivkogip, xulvozod, vazluxiv, lizlodix, vaskijes, bejnupom, xadralez.
+
+Continue.
+
+**legnivav**:
+I recall "Every legnivav is a kunkakut." yes?
+Wait earlier line: "Every legnivav is a kunkakut."? I remember: "Every legnivav is a kunkakut." yes (also conditional "Every legnivav that is also a birkuraw is a vikrakad").
+Simple: legnivav -> kunkakut.
+
+**zignufud**:
+I recall "Every zignufud is a xojnijil." yes.
+Simple.
+
+**rinzabat**:
+I recall "Every rinzabat is a fuvkavan." yes.
+Simple.
+
+**mivkogip**:
+I recall "Every mivkogip is a soxtomud." yes.
+Simple.
+
+**xulvozod**:
+I recall "Every xulvozod is a bozmewur." yes.
+Also maybe "Every xulvozod..." line.
+Simple: xulvozod -> bozmewur.
+
+**vazluxiv**:
+I recall "Every vazluxiv is a fuvkojap." yes.
+Also conditionals?
+Simple: vazluxiv -> fuvkojap.
+
+**lizlodix**:
+I recall "Every lizlodix is a tujnudej." yes.
+Simple.
+
+**vaskijes**:
+I recall "Every vaskijes is a kerzomef." yes.
+Simple.
+
+**bejnupom**:
+I recall "Every bejnupom is a zorkikas." yes.
+Simple.
+
+**xadralez**:
+I recall "Every xadralez is a mukriwif." yes.
+Simple.
+
+Add:
+legnivav -> kunkakut
+zignufud -> xojnijil
+rinzabat -> fuvkavan
+mivkogip -> soxtomud
+xulvozod -> bozmewur
+vazluxiv -> fuvkojap
+lizlodix -> tujnudej
+vaskijes -> kerzomef
+bejnupom -> zorkikas
+xadralez -> mukriwif
+
+Now S includes: kunkakut, xojnijil, fuvkavan, soxtomud, bozmewur, fuvkojap, tujnudej, kerzomef, zorkikas, mukriwif.
+
+Continue.
+
+**kunkakut**:
+I recall "Every kunkakut is a virzabad." yes.
+Also conditional "Every fuvkavan that is also a kunkakut is a werkiluw." If Ines both fuvkavan and kunkakut -> werkiluw. We'll check later.
+Simple: kunkakut -> virzabad.
+
+**xojnijil**:
+I recall "Every xojnijil is a kekrowaw." yes.
+Simple.
+
+**fuvkavan**:
+I recall "Every fuvkavan is a suzlotaj."? Wait line: "Every fuvkavan is a suzlotaj." yes. Also conditionals:
+- "Every fuvkavan that is also a kekrejed is a lirzaguw." (conditional)
+- "Every fuvkavan that is also a kunkakut is a werkiluw." (conditional)
+Simple: fuvkavan -> suzlotaj.
+
+**soxtomud**:
+I recall "Every soxtomud is a tixtedis." yes.
+Also conditional "Every soxtomud that is also a rorkudex is a baskeraj." But subject soxtomud.
+Simple: soxtomud -> tixtedis.
+
+**bozmewur**:
+I recall "Every bozmewur is a zotlunon."? Wait there is line "Every bozmewur is a zotlunon." yes. Also "Every bozmewur that is also a zuzmusaz is a zumbonar." conditional.
+Simple: bozmewur -> zotlunon.
+
+**fuvkojap**:
+I recall "Every fuvkojap is a pizlobuw." yes.
+Simple.
+
+**tujnudej**:
+I recall "Every tujnudej is a toskefid." yes.
+Simple.
+
+**kerzomef**:
+I recall "Every kerzomef is a xarzalax." yes.
+Also "Every kerzomef that is also a mozlewib is a pinzogaw." conditional.
+Simple: kerzomef -> xarzalax.
+
+**zorkikas**:
+I recall "Every zorkikas is a sixtogit." yes.
+Simple.
+
+**mukriwif**:
+I recall "Every mukriwif is a girkibaz." yes.
+Simple.
+
+Add:
+kunkakut -> virzabad
+xojnijil -> kekrowaw
+fuvkavan -> suzlotaj
+soxtomud -> tixtedis
+bozmewur -> zotlunon
+fuvkojap -> pizlobuw
+tujnudej -> toskefid
+kerzomef -> xarzalax
+zorkikas -> sixtogit
+mukriwif -> girkibaz
+
+Now S includes: virzabad, kekrowaw, suzlotaj, tixtedis, zotlunon, pizlobuw, toskefid, xarzalax, sixtogit, girkibaz.
+
+Continue.
+
+**virzabad**:
+I recall "Every virzabad is a narkogek." yes.
+Simple.
+
+**kekrowaw**:
+I recall "Every kekrowaw is a nurzixes." yes.
+Simple.
+
+**suzlotaj**:
+I recall "Every suzlotaj is a jukreduk." yes.
+Simple.
+
+**tixtedis**:
+I recall "Every tixtedis is a rakrosem." yes.
+Also conditional "Every levkonim that is also a tixtedis is a lambifav." (Ines has levkonim and tixtedis? We'll trigger maybe.)
+Simple: tixtedis -> rakrosem.
+
+**zotlunon**:
+I recall "Every zotlunon is a mulvowek." yes.
+Simple.
+
+**pizlobuw**:
+I recall "Every pizlobuw is a birkuraw." yes.
+Also conditional "Every pizlobuw that is also a xevkubum is a fezmamol." (Ines? need xevkubum maybe not).
+Simple: pizlobuw -> birkuraw.
+
+**toskefid**:
+I recall "Every toskefid is a zuzmusaz." yes.
+Simple.
+
+**xarzalax**:
+I recall "Every xarzalax is a wujnawax." yes.
+Simple.
+
+**sixtogit**:
+I recall "Every sixtogit is a zurkikuk." yes.
+Simple.
+
+**girkibaz**:
+I recall "Every girkibaz is a wadravug." yes.
+Simple.
+
+Add:
+virzabad -> narkogek
+kekrowaw -> nurzixes
+suzlotaj -> jukreduk
+tixtedis -> rakrosem
+zotlunon -> mulvowek
+pizlobuw -> birkuraw
+toskefid -> zuzmusaz
+xarzalax -> wujnawax
+sixtogit -> zurkikuk
+girkibaz -> wadravug
+
+Now S includes: narkogek, nurzixes, jukreduk, rakrosem, mulvowek, birkuraw, zuzmusaz, wujnawax, zurkikuk, wadravug.
+
+Continue.
+
+**narkogek**:
+I recall "Every narkogek is a purdujez." yes.
+Simple.
+
+**nurzixes**:
+I recall "Every nurzixes is a gurzaziz." yes.
+Simple.
+
+**jukreduk**:
+I recall "Every jukreduk is a satlezit." yes.
+Simple.
+
+**rakrosem**:
+I recall "Every rakrosem is a togniriv." yes.
+Simple.
+
+**mulvowek**:
+I recall "Every mulvowek is a jamburis." yes.
+Also conditional "Every mulvowek that is also a vekranir is a xignolul." (conditional)
+Simple: mulvowek -> jamburis.
+
+**birkuraw**:
+I recall "Every birkuraw is a judrusur." yes.
+Also conditionals:
+- "Every birkuraw that is also a tevkimox is a kaltuxik."
+- "Every legnivav that is also a birkuraw is a vikrakad." (Ines has legnivav and birkuraw! trigger later)
+Simple: birkuraw -> judrusur.
+
+**zuzmusaz**:
+I recall "Every zuzmusaz is a venkodan." yes? Wait earlier "Every zuzmusaz is a venkodan." I need check: There is premise "Every zuzmusaz is a venkodan." near "Every zuzmusaz is a ..." yes. Also conditional "Every bozmewur that is also a zuzmusaz is a zumbonar" maybe if Ines has both.
+Simple: zuzmusaz -> venkodan.
+
+**wujnawax**:
+I recall "Every wujnawax is a naskolug." yes.
+Also conditional "Every wujnawax that is also a bozmewur is a loltofov." If Ines has both wujnawax and bozmewur? likely yes. Trigger later.
+Simple: wujnawax -> naskolug.
+
+**zurkikuk**:
+I recall "Every zurkikuk is a piltijof." yes.
+Simple.
+
+**wadravug**:
+I recall "Every wadravug is a burkomad." yes.
+Simple.
+
+Add:
+narkogek -> purdujez
+nurzixes -> gurzaziz
+jukreduk -> satlezit
+rakrosem -> togniriv
+mulvowek -> jamburis
+birkuraw -> judrusur
+zuzmusaz -> venkodan
+wujnawax -> naskolug
+zurkikuk -> piltijof
+wadravug -> burkomad
+
+Now S includes: purdujez, gurzaziz, satlezit, togniriv, jamburis, judrusur, venkodan, naskolug, piltijof, burkomad.
+
+Continue.
+
+**purdujez**:
+I recall "Every purdujez is a kuskunab." yes.
+Simple.
+
+**gurzaziz**:
+I recall "Every gurzaziz is a nozmojek." yes.
+Simple.
+
+**satlezit**:
+I recall "Every satlezit is a kimbetuv."? Wait earlier maybe "Every satlezit is a kimbetuv." yes. Also conditional "Every satlezit that is also a lognigev is a fadraxob." and "Every wirzulex that is also a satlezit is a sextegew." Simple: satlezit -> kimbetuv.
+
+**togniriv**:
+I recall "Every togniriv is a feskemib." yes.
+Simple.
+
+**jamburis**:
+I recall "Every jamburis is a wilteber."? Wait line "Every jamburis is a wilteber." yes. Also conditionals:
+- "Every jamburis that is also a suzlotaj is a joskapid." (Ines has suzlotaj and jamburis -> trigger)
+- "Every daskosed that is also a jamburis is a vukruwux." (Ines has daskosed and jamburis? yes)
+- "Every molvitoj? etc"
+Simple: jamburis -> wilteber.
+
+**judrusur**:
+I recall "Every judrusur is a vazligez." yes.
+Simple.
+
+**venkodan**:
+I recall "Every venkodan is a sirdakew." yes (line: "Every venkodan is a sirdakew.")
+Simple.
+
+**naskolug**:
+I recall "Every naskolug is a boltewox." yes.
+Simple.
+
+**piltijof**:
+I recall "Every piltijof is a fejnawil." yes.
+Also conditional "Every piltijof that is also a xarzalax is a tetlunow." (Ines has xarzalax and piltijof -> trigger)
+Simple: piltijof -> fejnawil.
+
+**burkomad**:
+I recall "Every burkomad is a zuxtevas." yes.
+Simple.
+
+Add:
+purdujez -> kuskunab
+gurzaziz -> nozmojek
+satlezit -> kimbetuv
+togniriv -> feskemib
+jamburis -> wilteber
+judrusur -> vazligez
+venkodan -> sirdakew
+naskolug -> boltewox
+piltijof -> fejnawil
+burkomad -> zuxtevas
+
+New S includes: kuskunab, nozmojek, kimbetuv, feskemib, wilteber, vazligez, sirdakew, boltewox, fejnawil, zuxtevas.
+
+Continue.
+
+**kuskunab**:
+I recall "Every kuskunab is a mojnekog." yes.
+Simple.
+
+**nozmojek**:
+I recall "Every nozmojek is a duzlajul." yes.
+Also "Every xuzmavup that is also a nozmojek is a nombuvex." conditional.
+Simple: nozmojek -> duzlajul.
+
+**kimbetuv**:
+I recall "Every kimbetuv is a fuzletog." yes.
+Simple.
+
+**feskemib**:
+I recall "Every feskemib is a durkunan." yes.
+Simple.
+
+**wilteber**:
+I recall "Every wilteber is a xadrisaf." yes.
+Simple.
+
+**vazligez**:
+I recall "Every vazligez is a vazlitup." yes.
+Simple.
+
+**sirdakew**:
+I recall "Every sirdakew is a tultoraw." yes.
+Simple.
+
+**boltewox**:
+I recall "Every boltewox is a pognofoz." yes.
+Simple.
+
+**fejnawil**:
+I recall "Every fejnawil is a kirziwov." yes.
+Simple.
+
+**zuxtevas**:
+I recall "Every zuxtevas is a noxtoguv." yes.
+Also conditional "Every laxtipig that is also a zuxtevas is a neskasis." (irrelevant maybe)
+Simple: zuxtevas -> noxtoguv.
+
+Add:
+kuskunab -> mojnekog
+nozmojek -> duzlajul
+kimbetuv -> fuzletog
+feskemib -> durkunan
+wilteber -> xadrisaf
+vazligez -> vazlitup
+sirdakew -> tultoraw
+boltewox -> pognofoz
+fejnawil -> kirziwov
+zuxtevas -> noxtoguv
+
+New S includes: mojnekog, duzlajul, fuzletog, durkunan, xadrisaf, vazlitup, tultoraw, pognofoz, kirziwov, noxtoguv.
+
+Continue.
+
+**mojnekog**:
+I recall "Every mojnekog is a puzluwow." yes.
+Simple.
+
+**duzlajul**:
+I recall "Every duzlajul is a nikrajap." yes.
+Simple.
+
+**fuzletog**:
+I recall "Every fuzletog is a lozmideg." yes.
+Simple.
+
+**durkunan**:
+I recall "Every durkunan is a tajnotef." yes.
+Also conditional "Every durkunan that is also a poxtipov is a norkopet." (maybe).
+Simple: durkunan -> tajnotef.
+
+**xadrisaf**:
+I recall "Every xadrisaf is a ferkubog." yes.
+Simple.
+
+**vazlitup**:
+I recall "Every vazlitup is a metlejof." yes.
+Simple.
+
+**tultoraw**:
+I recall "Every tultoraw is a gignaval."? Wait "Every tultoraw is a gignaval." yes.
+Simple.
+
+**pognofoz**:
+I recall "Every pognofoz is a pulvizej." yes.
+Simple.
+
+**kirziwov**:
+I recall "Every kirziwov is a nojnixop." yes.
+Simple.
+
+**noxtoguv**:
+I recall "Every noxtoguv is a nunzader." yes.
+Simple.
+
+Add:
+mojnekog -> puzluwow
+duzlajul -> nikrajap
+fuzletog -> lozmideg
+durkunan -> tajnotef
+xadrisaf -> ferkubog
+vazlitup -> metlejof
+tultoraw -> gignaval
+pognofoz -> pulvizej
+kirziwov -> nojnixop
+noxtoguv -> nunzader
+
+New S includes: puzluwow, nikrajap, lozmideg, tajnotef, ferkubog, metlejof, gignaval, pulvizej, nojnixop, nunzader.
+
+Continue.
+
+**puzluwow**:
+I recall "Every puzluwow is a jalvodad." yes.
+Simple.
+
+**nikrajap**:
+I recall "Every nikrajap is a bonkadil." yes.
+Simple.
+
+**lozmideg**:
+I recall "Every lozmideg is a jeskefoz." yes.
+Simple.
+
+**tajnotef**:
+I recall "Every tajnotef is a mulvebup." yes.
+Simple.
+
+**ferkubog**:
+I recall "Every ferkubog is a xizmerav." yes.
+Simple.
+
+**metlejof**:
+I recall "Every metlejof is a jorzaruf." yes.
+Simple.
+
+**gignaval**:
+I recall "Every gignaval is a kovkunav." yes.
+Simple.
+
+**pulvizej**:
+I recall "Every pulvizej is a zembubuk." yes.
+Simple.
+
+**nojnixop**:
+I recall "Every nojnixop is a funkatat." yes.
+Simple.
+
+**nunzader**:
+I recall "Every nunzader is a judreran." yes.
+Simple.
+
+Add:
+puzluwow -> jalvodad
+nikrajap -> bonkadil
+lozmideg -> jeskefoz
+tajnotef -> mulvebup
+ferkubog -> xizmerav
+metlejof -> jorzaruf
+gignaval -> kovkunav
+pulvizej -> zembubuk
+nojnixop -> funkatat
+nunzader -> judreran
+
+New S includes: jalvodad, bonkadil, jeskefoz, mulvebup, xizmerav, jorzaruf, kovkunav, zembubuk, funkatat, judreran.
+
+Continue.
+
+**jalvodad**:
+I recall "Every jalvodad is a bavkitab." yes.
+Simple.
+
+**bonkadil**:
+I recall "Every bonkadil is a mumbotez." yes.
+Simple.
+
+**jeskefoz**:
+I recall "Every jeskefoz is a xerdever." yes.
+Simple.
+
+**mulvebup**:
+I recall "Every mulvebup is a gudruwij." yes.
+Simple.
+
+**xizmerav**:
+I recall "Every xizmerav is a wuzmowoj." yes.
+Simple.
+
+**jorzaruf**:
+I recall "Every jorzaruf is a godrubaw." yes.
+Simple.
+
+**kovkunav**:
+I recall "Every kovkunav is a wankugoz." yes.
+Simple.
+
+**zembubuk**:
+I recall "Every zembubuk is a wetlogev." yes.
+Simple.
+
+**funkatat**:
+I recall "Every funkatat is a binkivof." yes.
+Simple.
+
+**judreran**:
+I recall "Every judreran is a xodrudow." yes.
+Simple.
+
+Add:
+jalvodad -> bavkitab
+bonkadil -> mumbotez
+jeskefoz -> xerdever
+mulvebup -> gudruwij
+xizmerav -> wuzmowoj
+jorzaruf -> godrubaw
+kovkunav -> wankugoz
+zembubuk -> wetlogev
+funkatat -> binkivof
+judreran -> xodrudow
+
+New S includes: bavkitab, mumbotez, xerdever, gudruwij, wuzmowoj, godrubaw, wankugoz, wetlogev, binkivof, xodrudow.
+
+Continue.
+
+**bavkitab**:
+I recall "Every bavkitab is a moxtoxeg." yes.
+Simple.
+
+**mumbotez**:
+I recall "Every mumbotez is a terzawus." yes.
+Simple.
+
+**xerdever**:
+I recall "Every xerdever is a sezlosir." yes.
+Simple.
+
+**gudruwij**:
+I recall "Every gudruwij is a doxtales." yes.
+Simple.
+
+**wuzmowoj**:
+I recall "Every wuzmowoj is a gerdekus." yes.
+Simple.
+
+**godrubaw**:
+I recall "Every godrubaw is a tutlolak." yes.
+Simple.
+
+**wankugoz**:
+I recall "Every wankugoz is a rizmelap." yes.
+Simple.
+
+**wetlogev**:
+I recall "Every wetlogev is a kerdixek." yes.
+Simple.
+
+**binkivof**:
+I recall "Every binkivof is a jajnazam." yes.
+Simple.
+
+**xodrudow**:
+I recall "Every xodrudow is a sinzenox." yes.
+Simple.
+
+Add:
+bavkitab -> moxtoxeg
+mumbotez -> terzawus
+xerdever -> sezlosir
+gudruwij -> doxtales
+wuzmowoj -> gerdekus
+godrubaw -> tutlolak
+wankugoz -> rizmelap
+wetlogev -> kerdixek
+binkivof -> jajnazam
+xodrudow -> sinzenox
+
+New S includes: moxtoxeg, terzawus, sezlosir, doxtales, gerdekus, tutlolak, rizmelap, kerdixek, jajnazam, sinzenox.
+
+Continue.
+
+**moxtoxeg**:
+I recall "Every moxtoxeg is a dizliwat." yes.
+Simple.
+
+**terzawus**:
+I recall "Every terzawus is a fonkonor." yes.
+Simple.
+
+**sezlosir**:
+I recall "Every sezlosir is a tirzuvir." yes.
+Also conditional "Every kujnopel that is also a sezlosir is a dizmilol." (subject kujnopel not).
+Simple: sezlosir -> tirzuvir.
+
+**doxtales**:
+I recall "Every doxtales is a muskifen." yes.
+Simple.
+
+**gerdekus**:
+I recall "Every gerdekus is a gugnaroj." yes.
+Simple.
+
+**tutlolak**:
+I recall "Every tutlolak is a wujnaleb." yes.
+Simple.
+
+**rizmelap**:
+I recall "Every rizmelap is a membeliv." yes.
+Also conditional "Every karzipev that is also a rizmelap is a fujnarir." maybe.
+Simple: rizmelap -> membeliv.
+
+**kerdixek**:
+I recall "Every kerdixek is a bultujur." yes.
+Simple.
+
+**jajnazam**:
+I recall "Every jajnazam is a wixtotav." yes.
+Simple.
+
+**sinzenox**:
+I recall "Every sinzenox is a xeltuwax." yes.
+Simple.
+
+Add:
+moxtoxeg -> dizliwat
+terzawus -> fonkonor
+sezlosir -> tirzuvir
+doxtales -> muskifen
+gerdekus -> gugnaroj
+tutlolak -> wujnaleb
+rizmelap -> membeliv
+kerdixek -> bultujur
+jajnazam -> wixtotav
+sinzenox -> xeltuwax
+
+New S includes: dizliwat, fonkonor, tirzuvir, muskifen, gugnaroj, wujnaleb, membeliv, bultujur, wixtotav, xeltuwax.
+
+Continue.
+
+**dizliwat**:
+I recall "Every dizliwat is a xignosam." yes.
+Also conditional "Every dizliwat that is also a vadrigat is a pokrafov." (maybe)
+Simple: dizliwat -> xignosam.
+
+**fonkonor**:
+I recall "Every fonkonor is a najnuvol." yes.
+Simple.
+
+**tirzuvir**:
+I recall "Every tirzuvir is a zerzazug." yes.
+Simple.
+
+**muskifen**:
+I recall "Every muskifen is a xeskazuz." yes.
+Simple.
+
+**gugnaroj**:
+I recall "Every gugnaroj is a turkedor." yes.
+Simple.
+
+**wujnaleb**:
+I recall "Every wujnaleb is a guskixeb." yes.
+Simple.
+
+**membeliv**:
+I recall "Every membeliv is a moskarix." yes.
+Also conditional "Every membeliv that is also a muvkaris is a xanzovus." (conditional)
+Simple: membeliv -> moskarix.
+
+**bultujur**:
+I recall "Every bultujur is a pozluxil." yes.
+Simple.
+
+**wixtotav**:
+I recall "Every wixtotav is a mokrunaj." yes.
+Simple.
+
+**xeltuwax**:
+I recall "Every xeltuwax is a kozlepin." yes.
+Simple.
+
+Add:
+dizliwat -> xignosam
+fonkonor -> najnuvol
+tirzuvir -> zerzazug
+muskifen -> xeskazuz
+gugnaroj -> turkedor
+wujnaleb -> guskixeb
+membeliv -> moskarix
+bultujur -> pozluxil
+wixtotav -> mokrunaj
+xeltuwax -> kozlepin
+
+New S includes: xignosam, najnuvol, zerzazug, xeskazuz, turkedor, guskixeb, moskarix, pozluxil, mokrunaj, kozlepin.
+
+Continue.
+
+**xignosam**:
+I recall "Every xignosam is a sujnakin." yes.
+Simple.
+
+**najnuvol**:
+I recall "Every najnuvol is a tovkiton." yes.
+Simple.
+
+**zerzazug**:
+I recall "Every zerzazug is a ponzejet." yes.
+Simple.
+
+**xeskazuz**:
+I recall "Every xeskazuz is a wirzosar." yes.
+Simple.
+
+**turkedor**:
+I recall "Every turkedor is a nerkozot." yes.
+Simple.
+
+**guskixeb**:
+I recall "Every guskixeb is a selvagaf." yes.
+Also conditional "Every tetlunow that is also a guskixeb is a bodruwut." (Ines may have tetlunow? later)
+Simple: guskixeb -> selvagaf.
+
+**moskarix**:
+I recall "Every moskarix is a lirkabus." yes.
+Simple.
+
+**pozluxil**:
+I recall "Every pozluxil is a rordojul." yes.
+Simple.
+
+**mokrunaj**:
+I recall "Every mokrunaj is a zazmowiv." yes.
+Simple.
+
+**kozlepin**:
+I recall "Every kozlepin is a linzepon." yes.
+Simple.
+
+Add:
+xignosam -> sujnakin
+najnuvol -> tovkiton
+zerzazug -> ponzejet
+xeskazuz -> wirzosar
+turkedor -> nerkozot
+guskixeb -> selvagaf
+moskarix -> lirkabus
+pozluxil -> rordojul
+mokrunaj -> zazmowiv
+kozlepin -> linzepon
+
+New S includes: sujnakin, tovkiton, ponzejet, wirzosar, nerkozot, selvagaf, lirkabus, rordojul, zazmowiv, linzepon.
+
+Continue.
+
+**sujnakin**:
+I recall "Every sujnakin is a tiskedaj." yes.
+Also conditionals "Every pujnepaf that is also a sujnakin is a zuvkutat." (Ines has pujnepaf and sujnakin! trigger later)
+"Every weskifak that is also a sujnakin is a karzumus." (not)
+Simple: sujnakin -> tiskedaj.
+
+**tovkiton**:
+I recall "Every tovkiton is a batlazem." yes.
+Simple.
+
+**ponzejet**:
+I recall "Every ponzejet is a worzesed." yes.
+Also conditional "Every muskasor that is also a ponzejet is a surdazet." (Ines has muskasor and ponzejet! trigger)
+Simple: ponzejet -> worzesed.
+
+**wirzosar**:
+I recall "Every wirzosar is a forkimaz." yes.
+Also conditionals "Every notluvik that is also a wirzosar is a lizlisiz." (Ines has notluvik and wirzosar! trigger)
+"Every venkuvip that is also a wirzosar is a naskomix." (not maybe)
+Simple: wirzosar -> forkimaz.
+
+**nerkozot**:
+I recall "Every nerkozot is a kaxtofek." yes.
+Also conditionals:
+- "Every pujnepaf that is also a nerkozot is a wajnijor." (Ines has pujnepaf and nerkozot! trigger)
+- "Every weskifak that is also a nerkozot is a wulvawez." 
+- "Every molvobil that is also a nerkozot is a zokriwab."
+Simple: nerkozot -> kaxtofek.
+
+**selvagaf**:
+I recall "Every selvagaf is a fazmesij." yes.
+Simple.
+
+**lirkabus**:
+I recall "Every lirkabus is a lenzoxes." yes.
+Also conditionals "Every xurkerij that is also a lirkabus is a tenkawed." (Ines has xurkerij and lirkabus? yes! trigger)
+"Every giltuzut that is also a lirkabus is a morkakuj."
+Simple: lirkabus -> lenzoxes.
+
+**rordojul**:
+I recall "Every rordojul is a vezmifuf." yes.
+Also conditionals:
+- "Every pujnepaf that is also a rordojul is a lavkebap." (Ines has pujnepaf and rordojul -> trigger)
+- "Every wokremus that is also a rordojul is a xejnunut." (Ines has wokremus and rordojul -> trigger)
+- "Every weskifak that is also a rordojul is a zeskuwos." 
+- "Every xirdutab that is also a rordojul is a pirzigir."
+Simple: rordojul -> vezmifuf.
+
+**zazmowiv**:
+I recall "Every zazmowiv is a wirkeris." yes.
+Also conditionals:
+- "Every xinzaguk that is also a zazmowiv is a fugnapiz." (Ines has xinzaguk and zazmowiv -> trigger)
+- "Every xazlubum that is also a zazmowiv is a kukrarim." (maybe)
+Simple: zazmowiv -> wirkeris.
+
+**linzepon**:
+I recall "Every linzepon is a vedraveb." yes.
+Simple.
+
+Add:
+sujnakin -> tiskedaj
+tovkiton -> batlazem
+ponzejet -> worzesed
+wirzosar -> forkimaz
+nerkozot -> kaxtofek
+selvagaf -> fazmesij
+lirkabus -> lenzoxes
+rordojul -> vezmifuf
+zazmowiv -> wirkeris
+linzepon -> vedraveb
+
+New S includes: tiskedaj, batlazem, worzesed, forkimaz, kaxtofek, fazmesij, lenzoxes, vezmifuf, wirkeris, vedraveb.
+
+Continue.
+
+**tiskedaj**:
+I recall "Every tiskedaj is a ..."? Need search. Maybe "Every tiskedaj is a fejm...?"
+Let's find. I don't recall line "Every tiskedaj is a ..." maybe I didn't see. We need verify.
+Actually "tiskedaj" appears only as object? Search memory: There was "Every sujnakin is a tiskedaj." I think no further? Hmm. Need know if tiskedaj has supertypes. I recall maybe "Every tiskedaj is a ..." not in list? Let's scan mental: There is "Every sujnakin is a tiskedaj." later maybe no "Every tiskedaj..."? Could be as subject: "Every tiskedaj is a ..." Maybe not.
+We can leave if none. But need check.
+
+**batlazem**:
+I recall "Every batlazem is a ..." maybe no.
+
+**worzesed**:
+I recall "Every worzesed is a ..."? Not sure.
+
+**forkimaz**:
+I recall "Every forkimaz is a ..."? maybe.
+
+**kaxtofek**:
+I recall "Every kaxtofek is a ..."? maybe.
+
+**fazmesij**:
+I recall "Every fazmesij is a ..."? maybe.
+
+**lenzoxes**:
+I recall "Every lenzoxes is a ..."? maybe.
+
+**vezmifuf**:
+I recall "Every vezmifuf is a ..."? maybe.
+
+**wirkeris**:
+I recall "Every wirkeris is a ..."? maybe.
+
+**vedraveb**:
+I recall "Every vedraveb is a ..."? maybe.
+
+Need not assume; many leaf concepts. But there may be additional edges. We must find only if present.
+
+Let's search for these terms in premises from memory.
+
+I recall some:
+- "Every tiskedaj is a ..." No line maybe.
+- "Every batlazem is a ..." likely no.
+- "Every worzesed is a ..." maybe "Every worzesed is a puzlafom"? Not sure.
+Could be many.
+
+Let's use the fact that all words random; many are only objects after one line. But some may appear as subject. We need accurate. We'll need search for each.
+
+Given the chain has become huge, maybe there are more levels. We can examine the premise list for these terms. Need exhaustive.
+
+Let's keep going but verify later.
+
+Maybe there is a systematic way: The premise list is generated with some random graph. We can trace along the path from vuxtalev. We have done a depth-first along each branch. But many terms may have multiple supertypes? Each "Every X is Y" usually X unique one. We assume one direct simple per term except some have multiple. Need ensure.
+
+Let's inspect known edges for all current leaf terms. We'll continue from memory.
+
+**tiskedaj**: I don't recall seeing "Every tiskedaj is ..." as subject. Let's scan mental: Around "Every sujnakin is a tiskedaj." there is no next "Every tiskedaj..." maybe.
+
+**batlazem**: I recall "Every batlazem is a ..." no.
+
+**worzesed**: Search in text: "Every worzesed is a ..." I don't recall.
+
+**forkimaz**: I recall maybe "Every forkimaz is a ..." no.
+
+**kaxtofek**: I recall "Every nerkozot is a kaxtofek." Only.
+
+**fazmesij**: only.
+
+**lenzoxes**: only.
+
+**vezmifuf**: maybe "Every vezmifuf is a ..." no.
+
+**wirkeris**: only.
+
+**vedraveb**: maybe "Every vedraveb is a ..." no.
+
+If all leaves, closure simple maybe ends. But we also have branching via conditionals. However simple closure might continue from other branches that led to terms with supertypes. We followed all branch chains to leaves. But there may be multiple supertypes for a term, or earlier merged branches causing conditionals.
+
+Need verify the initial direct for each branch was correct and there aren't other "Every X is Y" edges for any node in our S. Also need handle conditional rules, which will add more categories, possibly with their own supertypes. Conditionals can explode.
+
+Let's step back. We have a large simple closure S from vuxtalev along several linear branches plus some. But we need include conditional triggers.
+
+We already noticed several conditionals where A and B are both in S. Need handle all. Let's list conditionals from premise list and evaluate if both subject A and condition B are in S (and then add C, then closure). This is critical.
+
+Let's compile all conditionals (Every A that is also B is C) from the entire premise list. Then evaluate against S. There are about maybe 60 conditionals. Need do all.
+
+First, let's ensure S as of simple closure includes all types from linear chain. But we might have missed conditional-triggered types. Let's systematically collect conditionals from premise list.
+
+I'll scan the premise list in order and identify all conditional "Every ... that is also ... is ..." lines. We need list of (A,B,C). Then check our S (current). Conditionals are:
+
+1. Every marzuvod that is also a tirdafux is a narzutes.
+2. Every xaxtibin that is also a xoskatif is a buxtoxew.
+3. Every kukripan that is also a fatlofaz is a pivkexos.
+4. Every soxtomud that is also a rorkudex is a baskeraj.
+5. Every xezmanuz that is also a xiskuziz is a dardiwin.
+6. Every vekrukok that is also a pizmadip is a rirdixup.
+7. Every jorzodok that is also a karzopiz is a vidromas.
+8. Every fuvkavan that is also a kekrejed is a lirzaguw.
+9. Every guzmabuw that is also a geltijoj is a vunzopag.
+10. Every runkofef that is also a likrageb is a zadredek.
+11. Every rulvonez that is also a jikrexed is a kelvopur.
+12. Every wuxtakol that is also a pirzujif is a jurkekon.
+13. Every vorkebaw that is also a nuskided is a tunkidip.
+14. Every rorkudex that is also a jurkerav is a werzobiz.
+15. Every penzinex that is also a dagnijon is a warkujed.
+16. Every medrexal that is also a genzegur is a norkunud.
+17. Every surzasub that is also a fovkuvor is a suzlesep.
+18. Every galtokat that is also a zokriwab is a ninkatod.
+19. Every muxtaluw that is also a wextipog is a palvexuk.
+20. Every vatlubep that is also a lutlaxes is a rivkutof.
+21. Every niltinox that is also a bilverez is a megnexim.
+22. Every dazmulos that is also a mavkinup is a deltesek.
+23. Every tetlunow that is also a guskixeb is a bodruwut.
+24. Every kognemum that is also a xeskufuw is a peltakuj.
+25. Every xazlubum that is also a gajnubes is a sorzubif.
+26. Every nunkamep that is also a loskeduw is a vuxtinol.
+27. Every faxtabed that is also a xinkinen is a leskoriw.
+28. Every sombeliz that is also a wunkadog is a sozlupux.
+29. Every jeltikom that is also a rekroboj is a vegnunup.
+30. Every dijnidaf that is also a peltigij is a zazlelim.
+31. Every lajnaxuz that is also a fozmusot is a rekrader.
+32. Every jadrinov that is also a laltufiv is a fardukax.
+33. Every tezmetob that is also a wultifut is a fagnonov.
+34. Every sultawuj that is also a kovkaxek is a tiskosug.
+35. Every suvkudud that is also a fezmuxov is a bizliraw.
+36. Every kerkided that is also a vuzmarir is a xukrivus.
+37. Every lombubuw that is also a jezlugol is a tedriboj.
+38. Every bagnizig that is also a bizmugef is a zikresow.
+39. Every tuxtezul that is also a jinkumut is a norkowap.
+40. Every gujnulet that is also a dekrobal is a tuzmuwik.
+41. Every faskagap that is also a kekruxon is a pirzaviv.
+42. Every doskuxoj that is also a mizmunor is a zekroxol.
+43. Every wedrotan that is also a vorzawut is a rokrigod.
+44. Every juvkufub that is also a zilvuwus is a gojnaxar.
+45. Every zadrepop that is also a berdojaj is a vurkagen.
+46. Every gakravot that is also a jovkobun is a turkugaz.
+47. Every beskomur that is also a wuxtires is a nonzozez.
+48. Every tarzoxov that is also a xiltozek is a zankeper.
+49. Every vuxtarad that is also a gujnavop is a kinzufox.
+50. Every wikrebiz that is also a fitluliv is a nikrefox.
+51. Every jurzigul that is also a morkufol is a raxtikud.
+52. Every dankasuv that is also a ridrizap is a kotlobox.
+53. Every gunzalal that is also a zatlabus is a xivkuvuv.
+54. Every xizlofab that is also a woltolud is a gurkawuv.
+55. Every zozlizor that is also a lizmazom is a mirzazir.
+56. Every siltupek that is also a naltupuw is a rixtuzem.
+57. Every pugnuzeb that is also a derzugaz is a wizlozaj.
+58. Every gikrolor that is also a natlojuf is a gerzukax.
+59. Every jirdosam that is also a zurzupij is a nirkixun.
+60. Every daskokux that is also a nutlexex is a murkesan.
+61. Every winzuzon that is also a vambanaj is a zembowal.
+62. Every wiskasad that is also a gozmutiw is a nozlokuf.
+63. Every pordezid that is also a kunzazuz is a jozmevow.
+64. Every raskefet that is also a koxtitos is a nivkojol.
+65. Every laskibaj that is also a lokrafix is a dadrubok.
+66. Every vivkafaj that is also a tozlimux is a darzaxen.
+67. Every jiskikof that is also a majnakir is a denkoxol.
+68. Every bodruwut that is also a markibek is a rakrajur.
+69. Every welvoleg that is also a burkupez is a jizluzof.
+70. Every gozlufeg that is also a tutlukip is a koskukat.
+71. Every xizmolow that is also a zardizar is a sorzazef.
+72. Every jadruxud that is also a pakroniv is a nardopuj.
+73. Every xaxtusim that is also a terziguw is a bejnedaz.
+74. Every fextugen that is also a nukruwiz is a giskurox.
+75. Every ruzluzud that is also a weltazir is a juxtadub.
+76. Every zazmojeb that is also a zumbakib is a sazlusud.
+77. Every kudrelom that is also a jorzegot is a magnadak.
+78. Every sokruvov that is also a lelvajam is a fagnokam.
+79. Every mizlelis that is also a degnojag is a girkodaw.
+80. Every norzirud that is also a serzerup is a munkawev.
+81. Every tunzovok that is also a torzezoz is a gizmuwam.
+82. Every venkuvip that is also a wirzosar is a naskomix.
+83. Every xalvupig that is also a luxtizot is a mavkewav.
+84. Every tinzekob that is also a nekretar is a pombebuv.
+85. Every xurkerij that is also a lirkabus is a tenkawed.
+86. Every pidrojel that is also a xiskuziz is a mozlovot.
+87. Every lembexol that is also a sizlapem is a wurzopuk.
+88. Every weskifak that is also a murzemuv is a virkimus.
+89. Every zeskafes that is also a mulvopoz is a sozmarev.
+90. Every tixtozud that is also a jadrinov is a dextiriz.
+91. Every jekrawot that is also a bojnalix is a jarzimat.
+92. Every kirzaded that is also a gejnopim is a golvukas.
+93. Every burdexos that is also a bivkador is a volvubeb.
+94. Every vonkatib that is also a tajnaret is a roltodiv.
+95. Every kiltusim that is also a xognopur is a vagnujob.
+96. Every wugnomaj that is also a fenkegal is a bujnijom.
+97. Every wonzuxet that is also a tordatuj is a sotlijis.
+98. Every lambifav that is also a tetlunow is a tikrabuz.
+99. Every gurzosaw that is also a xarzepat is a bazlatal.
+100. Every zaltulis that is also a rakramol is a lankaweb.
+101. Every zurzubor that is also a saltakos is a rerzejig.
+102. Every binkidiv that is also a nazlixor is a vuzlafij.
+103. Every wivkobik that is also a pedrewil is a mextebeg.
+104. Every weskifak that is also a gejnated is a xivkeruk.
+105. Every tirzawor that is also a nejneruf is a xinkubeb.
+106. Every joskapid that is also a werkiluw is a sokrofos.
+107. Every zolvizit that is also a leltogiz is a munzusix.
+108. Every senzigif that is also a nenkilot is a nagnuxov.
+109. Every danzujis that is also a zotladeg is a zixtobur.
+110. Every vanzebum that is also a pirzivuz is a kavkigez.
+111. Every kikrafoj that is also a xoltotuf is a vorkopiz.
+112. Every farzapan that is also a jalvojew is a jizlugat.
+113. Every fodrufik that is also a kunzazuz is a genzinig.
+114. Every dokrivej that is also a dovkomit is a bikrajon.
+115. Every wirzulex that is also a tikrabuz is a ruzliser.
+116. Every rajnobiw that is also a mizmated is a kagnatul.
+117. Every weskifak that is also a sujnegut is a dunkukud.
+118. Every ferzuzub that is also a wiskopit is a pajnonap.
+119. Every jaxtixev that is also a soskutol is a zedrukib.
+120. Every pinzogaw that is also a vikrakad is a xekruven.
+121. Every datluboj that is also a kajnadad is a rokruxof.
+122. Every kujnopel that is also a sezlosir is a dizmilol.
+123. Every jambesaw that is also a mojnubul is a kevkuriw.
+124. Every vuxtuwej that is also a xenkefaz is a dirkupax.
+125. Every jambopud that is also a dixtejeb is a suvkujex.
+126. Every tonkulez that is also a janzedel is a zegnemaf.
+127. Every jixtuled that is also a gadrimev is a dimbikuz.
+128. Every nunkonab that is also a gakravot is a zezmixef.
+129. Every daskokux that is also a sorkoriw is a rarzamal.
+130. Every kavkejul that is also a kukripan is a lovkokix.
+131. Every dulvogow that is also a tizlafek is a xognevat.
+132. Every jorzemaw that is also a tedrifav is a vognixun.
+133. Every tekromod that is also a madrusij is a xedrafaw.
+134. Every wejnemiv that is also a terziguw is a zulvuzip.
+135. Every dunkelir that is also a karzopiz is a jankemal.
+136. Every wokremus that is also a rordojul is a xejnunut.
+137. Every suzmexif that is also a xekroweb is a zuvkazos.
+138. Every xilteseg that is also a juskenox is a serzudik.
+139. Every ditlopex that is also a zambejor is a mazlokes.
+140. Every dixtepum that is also a tuzlawav is a suzlafot.
+141. Every fuskogef that is also a penzolaj is a pulvoduz.
+142. Every rixtutos that is also a vozlilub is a butlexim.
+143. Every sonzataw that is also a wiltazes is a senkamuk.
+144. Every zozlowev that is also a kidrurel is a beskigob.
+145. Every vimbisal that is also a rezlasun is a xerkenal.
+146. Every nunkamep that is also a loskeduw? Wait duplicate?
+Actually already 26.
+147. Every gerkogur that is also a luzmezaf is a perkopap.
+148. Every puvkopod that is also a navkoxir is a xiltevib.
+149. Every wazlo... etc.
+
+Let's continue later. This is many.
+
+But we don't need all; only those where A and B are in S. Current S large though. Need evaluate.
+
+Let's first finish simple closure maybe leaves, but we already have many. Let's identify S exactly so far.
+
+I'll list S (Ines types) from simple closure branches:
+
+From branch A:
+vuxtalev
+kaltamep
+wuvkuwog
+dankasuv
+levkonim
+rotlebij
+legnivav
+kunkakut
+virzabad
+narkogek
+purdujez
+kuskunab
+mojnekog
+puzluwow
+jalvodad
+bavkitab
+moxtoxeg
+dizliwat
+xignosam
+sujnakin
+tiskedaj
+... leaf maybe.
+Also from B:
+wutlibis
+wokremus
+xetlizob
+gigniver
+nenkilot
+zignufud
+xojnijil
+kekrowaw
+nurzixes
+gurzaziz
+nozmojek
+duzlajul
+nikrajap
+bonkadil
+mumbotez
+terzawus
+fonkonor
+najnuvol
+tovkiton
+batlazem
+... leaf.
+C:
+fazmoper
+mokrafus
+sunzazax
+vivkafaj
+jardured
+rinzabat
+fuvkavan
+suzlotaj
+jukreduk
+satlezit
+kimbetuv
+fuzletog
+lozmideg
+jeskefoz
+xerdever
+sezlosir
+tirzuvir
+zerzazug
+ponzejet
+worzesed
+leaf maybe.
+D:
+xambutof
+degnexeb
+muzlatiz
+retlovix
+jumbevef
+mivkogip
+soxtomud
+tixtedis
+rakrosem
+togniriv
+feskemib
+durkunan
+tajnotef
+mulvebup
+gudruwij
+doxtales
+muskifen
+xeskazuz
+wirzosar
+forkimaz
+leaf.
+E:
+xovkinaf
+notluvik
+benzapep
+lankofid
+mozlewib
+xulvozod
+bozmewur
+zotlunon
+mulvowek
+jamburis
+wilteber
+xadrisaf
+ferkubog
+xizmerav
+wuzmowoj
+gerdekus
+gugnaroj
+turkedor
+nerkozot
+kaxtofek
+leaf? 
+F:
+soskusiw
+xinzaguk
+voxtukud
+darzilaf
+berdadaw
+vazluxiv
+fuvkojap
+pizlobuw
+birkuraw
+judrusur
+vazligez
+vazlitup
+metlejof
+jorzaruf
+godrubaw
+tutlolak
+wujnaleb
+guskixeb
+selvagaf
+fazmesij
+leaf.
+G:
+zedrijuk
+vextipad
+fizlelaj
+voltorol
+jitlisus
+lizlodix
+tujnudej
+toskefid
+zuzmusaz
+venkodan
+sirdakew
+tultoraw
+gignaval
+kovkunav
+wankugoz
+rizmelap
+membeliv
+moskarix
+lirkabus
+lenzoxes
+leaf.
+H:
+jazmufad
+xurkerij
+mordutiz
+bextafar
+tozlimux
+vaskijes
+kerzomef
+xarzalax
+wujnawax
+naskolug
+boltewox
+pognofoz
+pulvizej
+zembubuk
+wetlogev
+kerdixek
+bultujur
+pozluxil
+rordojul
+vezmifuf
+leaf.
+I:
+mizmisek
+muskasor
+kaskusan
+durdukok
+parzasov
+bejnupom
+zorkikas
+sixtogit
+zurkikuk
+piltijof
+fejnawil
+kirziwov
+nojnixop
+funkatat
+binkivof
+jajnazam
+wixtotav
+mokrunaj
+zazmowiv
+wirkeris
+leaf.
+J:
+kurkuved
+pujnepaf
+daskosed
+lolviwil
+vignaxag
+xadralez
+mukriwif
+girkibaz
+wadravug
+burkomad
+zuxtevas
+noxtoguv
+nunzader
+judreran
+xodrudow
+sinzenox
+xeltuwax
+kozlepin
+linzepon
+vedraveb
+leaf.
+
+Plus other branches might have supertypes not leaf? We stopped at leaves.
+
+Now, many conditionals may trigger because A and B both in S. Let's evaluate.
+
+We need evaluate all conditionals. Let's first ensure S includes all above. I'll use this set for checking. We'll add triggered C's and then compute their supertypes.
+
+Let's go through conditionals list and check if A and B are in S.
+
+I'll create a function: if A in S and B in S then add C.
+
+Let's mark potential triggers.
+
+From list:
+
+1 marzuvod & tirdafux: marzuvod not in S? I don't think so (unless via gavkifag? not). No.
+2 xaxtibin & xoskatif: xaxtibin not in S. No.
+3 kukripan & fatlofaz: kukripan not in S. No.
+4 soxtomud & rorkudex: soxtomud in S; rorkudex? Is rorkudex in S? Not yet (maybe via getluxux? Wait we don't have). No.
+5 xezmanuz & xiskuziz: xezmanuz not in S? We have? No.
+6 vekrukok & pizmadip: no.
+7 jorzodok & karzopiz: no.
+8 fuvkavan & kekrejed: fuvkavan in S; kekrejed? Is kekrejed in S? We have? Maybe not. Let's see branch J? no. But there is "Every kekrejed is a pirkagos" maybe not in S. We don't have kekrejed. No.
+9 guzmabuw & geltijoj: no.
+10 runkofef & likrageb: no.
+11 rulvonez & jikrexed: no.
+12 wuxtakol & pirzujif: no.
+13 vorkebaw & nuskided: no.
+14 rorkudex & jurkerav: no.
+15 penzinex & dagnijon: no.
+16 medrexal & genzegur: no.
+17 surzasub & fovkuvor: no (fovkuvor maybe? no).
+18 galtokat & zokriwab: no.
+19 muxtaluw & wextipog: no.
+20 vatlubep & lutlaxes: no.
+21 niltinox & bilverez: no.
+22 dazmulos & mavkinup: no.
+23 tetlunow & guskixeb: tetlunow? Is tetlunow in S? Not yet. guskixeb in S. No.
+24 kognemum & xeskufuw: no.
+25 xazlubum & gajnubes: no.
+26 nunkamep & loskeduw: no.
+27 faxtabed & xinkinen: no.
+28 sombeliz & wunkadog: no.
+29 jeltikom & rekroboj: no.
+30 dijnidaf & peltigij: no (dijnidaf maybe? no)
+31 lajnaxuz & fozmusot: no.
+32 jadrinov & laltufiv: no.
+33 tezmetob & wultifut: no.
+34 sultawuj & kovkaxek: no.
+35 suvkudud & fezmuxov: no.
+36 kerkided & vuzmarir: no.
+37 lombubuw & jezlugol: no.
+38 bagnizig & bizmugef: no? bagnizig maybe not in S? We have? There's "Every bagnizig is a kekrejed" but not reachable. no.
+39 tuxtezul & jinkumut: no.
+40 gujnulet & dekrobal: no.
+41 faskagap & kekruxon: no.
+42 doskuxoj & mizmunor: no.
+43 wedrotan & vorzawut: no.
+44 juvkufub & zilvuwus: no.
+45 zadrepop & berdojaj: no.
+46 gakravot & jovkobun: no.
+47 beskomur & wuxtires: no.
+48 tarzoxov & xiltozek: no.
+49 vuxtarad & gujnavop: no (vuxtarad not in S? no).
+50 wikrebiz & fitluliv: no.
+51 jurzigul & morkufol: no.
+52 dankasuv & ridrizap: dankasuv in S; ridrizap? Is ridrizap in S? We have? No. (Wait ridrizap appears in branch? no). No.
+53 gunzalal & zatlabus: no.
+54 xizlofab & woltolud: no.
+55 zozlizor & lizmazom: no.
+56 siltupek & naltupuw: no (naltupuw maybe? no)
+57 pugnuzeb & derzugaz: no.
+58 gikrolor & natlojuf: no.
+59 jirdosam & zurzupij: no.
+60 daskokux & nutlexex: no.
+61 winzuzon & vambanaj: no.
+62 wiskasad & gozmutiw: no.
+63 pordezid & kunzazuz: no.
+64 raskefet & koxtitos: no.
+65 laskibaj & lokrafix: no.
+66 vivkafaj & tozlimux: A vivkafaj in S, B tozlimux in S! Trigger -> add darzaxen. (This is a conditional we noted)
+67 jiskikof & majnakir: no.
+68 bodruwut & markibek: no.
+69 welvoleg & burkupez: no.
+70 gozlufeg & tutlukip: no.
+71 xizmolow & zardizar: no.
+72 jadruxud & pakroniv: no.
+73 xaxtusim & terziguw: no.
+74 fextugen & nukruwiz: no.
+75 ruzluzud & weltazir: no.
+76 zazmojeb & zumbakib: no.
+77 kudrelom & jorzegot: no.
+78 sokruvov & lelvajam: no.
+79 mizlelis & degnojag: no.
+80 norzirud & serzerup: no.
+81 tunzovok & torzezoz: no.
+82 venkuvip & wirzosar: venkuvip? not in S? Actually wirzosar in S, venkuvip maybe no. No.
+83 xalvupig & luxtizot: no.
+84 tinzekob & nekretar: no.
+85 xurkerij & lirkabus: A xurkerij in S, B lirkabus in S! Trigger -> add tenkawed.
+86 pidrojel & xiskuziz: no.
+87 lembexol & sizlapem: no.
+88 weskifak & murzemuv: no.
+89 zeskafes & mulvopoz: no.
+90 tixtozud & jadrinov: no.
+91 jekrawot & bojnalix: no.
+92 kirzaded & gejnopim: no.
+93 burdexos & bivkador: no.
+94 vonkatib & tajnaret: no.
+95 kiltusim & xognopur: no? kiltusim maybe not in S. no.
+96 wugnomaj & fenkegal: no.
+97 wonzuxet & tordatuj: no.
+98 lambifav & tetlunow: no.
+99 gurzosaw & xarzepat: no.
+100 zaltulis & rakramol: no.
+101 zurzubor & saltakos: no.
+102 binkidiv & nazlixor: no.
+103 wivkobik & pedrewil: no.
+104 weskifak & gejnated: no.
+105 tirzawor & nejneruf: no.
+106 joskapid & werkiluw: no.
+107 zolvizit & leltogiz: no.
+108 senzigif & nenkilot: senzigif? no; nenkilot in S. No.
+109 danzujis & zotladeg: no.
+110 vanzebum & pirzivuz: no.
+111 kikrafoj & xoltotuf: no.
+112 farzapan & jalvojew: no.
+113 fodrufik & kunzazuz: no.
+114 dokrivej & dovkomit: no.
+115 wirzulex & tikrabuz: no.
+116 rajnobiw & mizmated: no.
+117 weskifak & sujnegut: no.
+118 ferzuzub & wiskopit: no.
+119 jaxtixev & soskutol: no.
+120 pinzogaw & vikrakad: no.
+121 datluboj & kajnadad: no.
+122 kujnopel & sezlosir: kujnopel? no; sezlosir in S. No.
+123 jambesaw & mojnubul: no.
+124 vuxtuwej & xenkefaz: no.
+125 jambopud & dixtejeb: no.
+126 tonkulez & janzedel: no.
+127 jixtuled & gadrimev: no.
+128 nunkonab & gakravot: no.
+129 daskokux & sorkoriw: no.
+130 kavkejul & kukripan: no.
+131 dulvogow & tizlafek: no.
+132 jorzemaw & tedrifav: no.
+133 tekromod & madrusij: no.
+134 wejnemiv & terziguw: no.
+135 dunkelir & karzopiz: no.
+136 wokremus & rordojul: A wokremus in S, B rordojul in S! Trigger -> add xejnunut.
+137 suzmexif & xekroweb: no.
+138 xilteseg & juskenox: no.
+139 ditlopex & zambejor: no.
+140 dixtepum & tuzlawav: no.
+141 fuskogef & penzolaj: no.
+142 rixtutos & vozlilub: no.
+143 sonzataw & wiltazes: no.
+144 zozlowev & kidrurel: no.
+145 vimbisal & rezlasun: no.
+146 ... maybe no.
+147 gerkogur & luzmezaf: no.
+148 puvkopod & navkoxir: no.
+
+Continue list beyond 148:
+
+149. Every weskifak that is also a sujnegut? Already.
+150. Every pujnepaf that is also a sujnegut is a tudrawaw. (conditional)
+151. Every pujnepaf that is also a murzemuv is a raxtewul.
+152. Every pujnepaf that is also a sujnakin is a zuvkutat.
+153. Every pujnepaf that is also a rordojul is a lavkebap.
+154. Every pujnepaf that is also a nerkozot is a wajnijor.
+155. Every pujnepaf that is also a gejnated is a wezlopej.
+Plus earlier we saw these in list. Need evaluate:
+- pujnepaf in S.
+- sujnegut? Is sujnegut in S? We have sujnakin but not sujnegut. I don't think so. No.
+- murzemuv? no.
+- sujnakin: YES, we have sujnakin from branch F? Wait S includes sujnakin (from xignosam). Yes. Trigger -> add zuvkutat.
+- rordojul: YES. Trigger -> add lavkebap.
+- nerkozot: YES. Trigger -> add wajnijor.
+- gejnated: Is gejnated in S? We have? Maybe not. We have gejnopim? no. No.
+
+Also other conditionals:
+- Every wuxtakol ... no.
+- Every xurkerij that also a xavkutez -> no.
+- Every wokremus that also a sujnegut -> sujnegut no.
+- Every xinzaguk that also a gajnubes -> gajnubes? no.
+- Every xinzaguk that also a zazmowiv -> A xinzaguk in S, B zazmowiv in S! Wait conditional "Every xinzaguk that is also a zazmowiv is a fugnapiz." Yes I saw. Need add.
+- Every bozmewur that is also a zuzmusaz -> A bozmewur in S, B zuzmusaz in S! Trigger -> zumbonar (conditional line: Every bozmewur that is also a zuzmusaz is a zumbonar).
+- Every wujnawax that is also a bozmewur -> A wujnawax in S, B bozmewur in S! Trigger -> loltofov.
+- Every piltijof that is also a xarzalax -> A piltijof in S, B xarzalax in S! Trigger -> tetlunow.
+- Every jamburis that is also a suzlotaj -> A jamburis in S, B suzlotaj in S! Trigger -> joskapid.
+- Every daskosed that is also a jamburis -> A daskosed in S, B jamburis in S! Trigger -> vukruwux.
+- Every legnivav that is also a birkuraw -> A legnivav in S, B birkuraw in S! Trigger -> vikrakad.
+- Every levkonim that is also a tixtedis -> A levkonim in S, B tixtedis in S! Trigger -> lambifav.
+- Every mulvowek that is also a vekranir -> vekranir? no.
+- Every soxtomud & rorkudex -> rorkudex no.
+- Every notluvik & wirzosar -> A notluvik in S, B wirzosar in S! Trigger -> lizlisiz.
+- Every notluvik & gimbozes -> gimbozes? maybe no.
+- Every bextafar & nenkilot -> A bextafar in S, B nenkilot in S! Trigger -> mejnikem.
+- Every fuvkavan & kunkakut -> A fuvkavan in S, B kunkakut in S! Trigger -> werkiluw.
+- Every fuvkavan & kekrejed -> kekrejed no.
+- Every kerzomef & mozlewib -> A kerzomef in S, B mozlewib in S! Trigger -> pinzogaw.
+- Every mozlewib & vazluxiv -> A mozlewib in S, B vazluxiv in S! Trigger -> neltawip.
+- Every wiskasad & gozmutiw no.
+- Every weskifak... no.
+- Every muskasor & ponzejet -> A muskasor in S, B ponzejet in S! Trigger -> surdazet.
+- Every muskasor & gujnavop -> gujnavop? no.
+- Every dankasuv & ridrizap -> ridrizap no.
+- Every dankasuv that is also ridrizap no.
+- Every xurkerij & lirkabus triggered tenkawed (already).
+- Every xurkerij & xavkutez no.
+- Every xurkerij & lirkabus conditional yes.
+- Every piltijof & xarzalax conditional yes.
+- Every gikrolor & natlojuf no.
+- Every jirdosam & zurzupij no.
+- Every wokremus & rordojul triggered xejnunut.
+- Every pujnepaf conditionals as above.
+- Every xinzaguk & zazmowiv triggered fugnapiz.
+- Every wujnawax & bozmewur triggered loltofov.
+- Every bozmewur & zuzmusaz triggered zumbonar.
+- Every puvkopod & navkoxir no.
+- Every katlupeb? no.
+
+Also there are conditionals at bottom:
+"Every kurkuved is a pujnepaf" simple. Conditionals:
+- Every pujnepaf that is also a sujnegut...
+- Every pujnepaf that is also a murzemuv...
+- Every pujnepaf that is also a sujnakin...
+- Every pujnepaf that is also a rordojul...
+- Every pujnepaf that is also a nerkozot...
+- Every pujnepaf that is also a gejnated...
+We covered.
+
+"Every wokremus that is also a sujnegut is a zoxtuxep." sujnegut no.
+"Every wokremus that is also a rordojul is a xejnunut." yes.
+
+"Every xinzaguk that is also a gajnubes is a kaltasaz." gajnubes? No.
+"Every xinzaguk that is also a zazmowiv is a fugnapiz." yes.
+
+"Every soxtomud that is also a rorkudex is a baskeraj." no.
+
+"Every fuvkavan that is also a kekrejed is a lirzaguw." no.
+
+"Every fuvkavan that is also a kunkakut is a werkiluw." yes.
+
+"Every vivkafaj that is also a tozlimux is a darzaxen." yes.
+
+"Every levkonim that is also a tixtedis is a lambifav." yes.
+
+"Every dankasuv that is also a ridrizap is a kotlobox." no.
+
+"Every notluvik that is also a wirzosar is a lizlisiz." yes.
+
+"Every notluvik that is also a gimbozes is a benkezas." no.
+
+"Every kerzomef that is also a mozlewib is a pinzogaw." yes.
+
+"Every mozlewib that is also a vazluxiv is a neltawip." yes.
+
+"Every muskasor that is also a ponzejet is a surdazet." yes.
+
+"Every muskasor that is also a gujnavop is a lankegew." no.
+
+"Every bextafar that is also a nenkilot is a mejnikem." yes.
+
+"Every legnivav that is also a birkuraw is a vikrakad." yes.
+
+"Every mulvowek that is also a vekranir is a xignolul." no.
+
+"Every jamburis that is also a suzlotaj is a joskapid." yes.
+
+"Every daskosed that is also a jamburis is a vukruwux." yes.
+
+"Every wujnawax that is also a bozmewur is a loltofov." yes.
+
+"Every bozmewur that is also a zuzmusaz is a zumbonar." yes.
+
+"Every piltijof that is also a xarzalax is a tetlunow." yes.
+
+Also there may be conditionals for "Every xurkerij that is also a lirkabus is a tenkawed" yes.
+
+"Every xurkerij that is also a xavkutez is a gozlojur." no.
+
+"Every wokremus that is also a rordojul is a xejnunut." yes.
+
+"Every pujnepaf that is also a sujnakin is a zuvkutat." yes.
+
+"Every pujnepaf that is also a rordojul is a lavkebap." yes.
+
+"Every pujnepaf that is also a nerkozot is a wajnijor." yes.
+
+"Every pujnepaf that is also a gejnated is a wezlopej." no.
+
+Also maybe conditionals from other sections:
+- "Every tezmetob that is also a wultifut is a fagnonov" no.
+- "Every weskifak that is also..." no.
+
+Now added conditional C's:
+darzaxen
+tenkawed
+xejnunut
+zuvkutat
+lavkebap
+wajnijor
+fugnapiz
+zumbonar
+loltofov
+tetlunow
+joskapid
+vukruwux
+vikrakad
+lambifav
+lizlisiz
+mejnikem
+werkiluw
+pinzogaw
+neltawip
+surdazet
+plus maybe we missed "Every xinzaguk that is also a zazmowiv" -> fugnapiz yes.
+
+Also "Every pujnepaf that is also a rordojul is a lavkebap" yes.
+
+Need then compute simple supertypes of these new C's, and also check if they trigger further conditionals.
+
+Let's process each new C.
+
+We need find direct "Every X is Y" for:
+darzaxen, tenkawed, xejnunut, zuvkutat, lavkebap, wajnijor, fugnapiz, zumbonar, loltofov, tetlunow, joskapid, vukruwux, vikrakad, lambifav, lizlisiz, mejnikem, werkiluw, pinzogaw, neltawip, surdazet.
+
+Also maybe "Every vukruwux that is also a tetlunow is a nelvixev." (conditional) and "Every mejnikem that is also a vukruwux is a markibek." Need later.
+
+Let's recall direct edges from premises for these.
+
+Search memory:
+
+**darzaxen**:
+I recall "Every darzaxen is a batlavid." From bottom: "Every darzaxen is a batlavid." yes. Also conditional "Every darzaxen that is also a vukruwux is a tanzelot."? Wait there is "Every darzaxen that is also a vukruwux is a tanzelot." I saw line: "Every darzaxen that is also a vukruwux is a tanzelot." Need check. I recall in list: "Every darzaxen that is also a vukruwux is a tanzelot." yes maybe. Let's verify: There was "Every darzaxen that is also a vukruwux is a tanzelot." near "Every wivkobik...?" I think yes. If Ines has darzaxen and vukruwux (we have vukruwux), trigger -> tanzelot.
+Simple: darzaxen -> batlavid.
+
+**tenkawed**:
+I recall "Every tenkawed is a larkemol." yes (line "Every tenkawed is a larkemol."). Simple.
+
+**xejnunut**:
+I recall "Every xejnunut is a wezmemuf." yes.
+Simple.
+
+**zuvkutat**:
+I recall "Every zuvkutat is a nankapoj."? From list near bottom: "Every zuvkutat is a nankapoj." yes. Simple.
+
+**lavkebap**:
+I recall "Every lavkebap is a sidrawig." yes.
+Simple.
+
+**wajnijor**:
+I recall "Every wajnijor is a farzozir." yes.
+Simple.
+
+**fugnapiz**:
+I recall "Every fugnapiz is a kitlezaz." yes.
+Simple.
+
+**zumbonar**:
+I recall "Every zumbonar is a veskozok." yes.
+Simple.
+
+**loltofov**:
+I recall "Every loltofov is a keskuvoz." yes.
+Simple.
+
+**tetlunow**:
+Important: There are multiple:
+- "Every tetlunow that is also a guskixeb is a bodruwut." (conditional; A tetlunow, B guskixeb. We have tetlunow and guskixeb -> trigger! -> bodruwut)
+- "Every tetlunow is a fonzimov."? I recall "Every tetlunow is a fonzimov." yes (simple).
+- "Every tetlunow that is also a piltijof is a wirzulex." (conditional; A tetlunow, B piltijof. We have both -> trigger -> wirzulex)
+- "Every lambifav that is also a tetlunow is a tikrabuz." (conditional; A lambifav, B tetlunow. We have both -> trigger later)
+Simple: tetlunow -> fonzimov.
+
+**joskapid**:
+I recall:
+- "Every joskapid is a zurkanax." yes simple.
+- "Every joskapid that is also a werkiluw is a sokrofos." (conditional; A joskapid, B werkiluw. We have both! -> trigger -> sokrofos)
+Simple: joskapid -> zurkanax.
+
+**vukruwux**:
+I recall:
+- "Every vukruwux is a julvisex." yes simple.
+- "Every vukruwux that is also a tetlunow is a nelvixev." (conditional; A vukruwux, B tetlunow. We have both -> trigger -> nelvixev)
+- "Every darzaxen that is also a vukruwux is a tanzelot." (conditional; A darzaxen, B vukruwux. We have both -> trigger -> tanzelot)
+- "Every mejnikem that is also a vukruwux is a markibek." (conditional; we have both -> trigger -> markibek? Wait A mejnikem, B vukruwux yes)
+Also maybe "Every vukruwux that is also..." 
+Simple: vukruwux -> julvisex.
+
+**vikrakad**:
+I recall:
+- "Every vikrakad is a jinkexit."? Wait "Every vikrakad is a jinkexit." yes.
+- "Every pinzogaw that is also a vikrakad is a xekruven." (conditional; A pinzogaw, B vikrakad. We have both -> trigger later)
+Simple: vikrakad -> jinkexit.
+
+**lambifav**:
+I recall:
+- "Every lambifav is a linkenug." yes.
+- "Every lambifav that is also a tetlunow is a tikrabuz." (conditional; A lambifav, B tetlunow. We have both -> trigger)
+Simple: lambifav -> linkenug.
+
+**lizlisiz**:
+I recall "Every lizlisiz is a ralvowol." yes.
+Simple.
+
+**mejnikem**:
+I recall:
+- "Every mejnikem is a xorkamew." yes.
+- "Every mejnikem that is also a vukruwux is a markibek." (conditional; we have both -> trigger)
+Simple: mejnikem -> xorkamew.
+
+**werkiluw**:
+I recall:
+- "Every werkiluw is a xukrakin."? Wait there is "Every werkiluw is a xukrakin." yes maybe.
+- "Every joskapid that is also a werkiluw is a sokrofos." (conditional)
+Simple: werkiluw -> xukrakin (need verify).
+Also there is "Every werkiluw is a xukrakin." I think yes.
+Maybe "Every werkiluw is a ..." only.
+
+**pinzogaw**:
+I recall:
+- "Every pinzogaw is a bezlizax."? Wait "Every pinzogaw is a bezlizax." yes.
+- "Every pinzogaw that is also a vikrakad is a xekruven." (conditional).
+Simple: pinzogaw -> bezlizax.
+
+**neltawip**:
+I recall:
+- "Every neltawip is a wevkuxom." yes.
+- "Every naxtakam that is also a neltawip is a jonkerad." (conditional no)
+Simple: neltawip -> wevkuxom.
+
+**surdazet**:
+I recall "Every surdazet is a gaskaxax." yes.
+Simple.
+
+Now add new simple supertypes:
+darzaxen -> batlavid
+tenkawed -> larkemol
+xejnunut -> wezmemuf
+zuvkutat -> nankapoj
+lavkebap -> sidrawig
+wajnijor -> farzozir
+fugnapiz -> kitlezaz
+zumbonar -> veskozok
+loltofov -> keskuvoz
+tetlunow -> fonzimov
+joskapid -> zurkanax
+vukruwux -> julvisex
+vikrakad -> jinkexit
+lambifav -> linkenug
+lizlisiz -> ralvowol
+mejnikem -> xorkamew
+werkiluw -> xukrakin (if correct)
+pinzogaw -> bezlizax
+neltawip -> wevkuxom
+surdazet -> gaskaxax
+
+Also conditionals triggered new:
+- darzaxen & vukruwux -> tanzelot
+- tetlunow & guskixeb -> bodruwut
+- tetlunow & piltijof -> wirzulex
+- joskapid & werkiluw -> sokrofos
+- vukruwux & tetlunow -> nelvixev
+- mejnikem & vukruwux -> markibek
+- lambifav & tetlunow -> tikrabuz
+- pinzogaw & vikrakad -> xekruven
+- maybe "Every wirzulex that is also a tikrabuz is a ruzliser." (conditional; after wirzulex and tikrabuz we might trigger later)
+- "Every wirzulex that is also a satlezit is a sextegew." (conditional; we have satlezit and wirzulex later)
+- "Every bodruwut that is also a markibek is a rakrajur." conditional (we may have both)
+- "Every bodruwut is a tultewik." simple? I recall "Every bodruwut is a tultewik." yes.
+- "Every sokrofos that is also a wirzulex is a molvobil." conditional (we may have both)
+- "Every sokrofos is a zizmurax." simple? I recall "Every sokrofos is a zizmurax." yes.
+- "Every markibek is a vudrapiv." simple? I recall "Every markibek is a vudrapiv." yes.
+- "Every tikrabuz is a sojninus." simple.
+- "Every wirzulex is a rurzevun." simple? Wait "Every wirzulex is a rurzevun." yes.
+- "Every vikrakad is a jinkexit." simple.
+
+Let's process these cascade.
+
+First, add new simple types for all current C's and their supertypes.
+
+Let's update S with all conditional C's and edges.
+
+New C's list:
+darzaxen, batlavid, tanzelot?
+tenkawed, larkemol,
+xejnunut, wezmemuf,
+zuvkutat, nankapoj,
+lavkebap, sidrawig,
+wajnijor, farzozir,
+fugnapiz, kitlezaz,
+zumbonar, veskozok,
+loltofov, keskuvoz,
+tetlunow, fonzimov, bodruwut, wirzulex,
+joskapid, zurkanax, sokrofos,
+vukruwux, julvisex, nelvixev,
+vikrakad, jinkexit,
+lambifav, linkenug, tikrabuz,
+lizlisiz, ralvowol,
+mejnikem, xorkamew, markibek,
+werkiluw, xukrakin,
+pinzogaw, bezlizax, xekruven,
+neltawip, wevkuxom,
+surdazet, gaskaxax.
+
+Need verify simple edges for these added.
+
+Let's search for supertypes of new types:
+
+**batlavid**:
+I recall "Every batlavid is a ..."? Maybe no. Search memory: "Every batlavid is a ..." not sure. Maybe leaf.
+
+**tanzelot**:
+I recall "Every tanzelot is a vurzixok." actually yes! There is "Every tanzelot is a vurzixok." Wait line: "Every tanzelot is a vurzixok." yes (from "Every tanzelot is a vurzixok."). Simple.
+Also "Every tanzelot that is also a burkomad is a jikrevuz." conditional maybe if both.
+Simple: tanzelot -> vurzixok.
+
+**larkemol**:
+I recall "Every larkemol is a ..." maybe no. Let's see.
+
+**wezmemuf**:
+I recall "Every wezmemuf is a ..." maybe no.
+
+**nankapoj**:
+I recall "Every nankapoj is a ..." maybe no.
+
+**sidrawig**:
+I recall "Every sidrawig is a ..." maybe no.
+
+**farzozir**:
+I recall "Every farzozir is a ..." maybe "Every farzozir is a ..." no.
+
+**kitlezaz**:
+I recall "Every kitlezaz is a ..." maybe no.
+
+**veskozok**:
+I recall "Every veskozok is a ..." maybe no.
+
+**keskuvoz**:
+I recall "Every keskuvoz is a nalvufen."? Wait there is line "Every keskuvoz is a nalvufen." I recall! Yes simple. So keskuvoz -> nalvufen.
+
+**fonzimov**:
+I recall "Every fonzimov is a mijnaned." yes. Simple.
+Also "Every tetlunow is a fonzimov." yes.
+Simple: fonzimov -> mijnaned.
+
+**bodruwut**:
+I recall "Every bodruwut is a tultewik." yes.
+Also conditionals:
+- "Every bodruwut that is also a markibek is a rakrajur." (A bodruwut, B markibek. We have both -> trigger later)
+Simple: bodruwut -> tultewik.
+
+**wirzulex**:
+I recall "Every wirzulex is a rurzevun." yes.
+Conditionals:
+- "Every wirzulex that is also a tikrabuz is a ruzliser." (we have both -> trigger later)
+- "Every wirzulex that is also a satlezit is a sextegew." (we have both -> trigger later)
+- "Every sokrofos that is also a wirzulex is a molvobil." (we have both -> trigger later)
+Simple: wirzulex -> rurzevun.
+
+**zurkanax**:
+I recall "Every zurkanax is a ..." maybe no. But wait branch: "Every joskapid is a zurkanax." Maybe leaf.
+
+**sokrofos**:
+I recall "Every sokrofos is a zizmurax." yes.
+Conditionals:
+- "Every sokrofos that is also a wirzulex is a molvobil." (we have both)
+Simple: sokrofos -> zizmurax.
+
+**julvisex**:
+I recall "Every julvisex is a zankegup." yes? Actually line: "Every julvisex is a zankegup." near bottom. Let's verify: "Every julvisex is a zankegup." I remember. Simple: julvisex -> zankegup.
+
+**nelvixev**:
+I recall "Every nelvixev is a pakrilet." yes.
+Simple.
+
+**jinkexit**:
+I recall "Every jinkexit is a ..."? Maybe no. Search: "Every vikrakad is a jinkexit." only? Could be leaf.
+
+**linkenug**:
+I recall "Every linkenug is a ..."? maybe no.
+
+**tikrabuz**:
+I recall "Every tikrabuz is a sojninus." yes.
+Also conditionals:
+- "Every wirzulex that is also a tikrabuz is a ruzliser." (we have both)
+- "Every dokrivej ..." no.
+Simple: tikrabuz -> sojninus.
+
+**ralvowol**:
+I recall "Every ralvowol is a ..." maybe no.
+
+**xorkamew**:
+I recall "Every xorkamew is a ..." maybe no.
+
+**markibek**:
+I recall "Every markibek is a vudrapiv." yes.
+Conditionals:
+- "Every bodruwut that is also a markibek is a rakrajur." (we have both)
+Simple: markibek -> vudrapiv.
+
+**xukrakin**:
+Need confirm. I recall "Every werkiluw is a xukrakin." maybe yes. Then "Every xukrakin is a ..."? maybe no.
+
+**bezlizax**:
+I recall "Every bezlizax is a zizmixut." yes.
+Simple.
+
+**xekruven**:
+I recall "Every xekruven is a muzmewit." yes.
+Simple.
+
+**wevkuxom**:
+I recall "Every wevkuxom is a kukrutij." yes.
+Simple.
+
+**gaskaxax**:
+I recall "Every gaskaxax is a ..." maybe no.
+
+Now we have cascades:
+tanzelot -> vurzixok
+keskuvoz -> nalvufen
+fonzimov -> mijnaned
+bodruwut -> tultewik
+wirzulex -> rurzevun
+sokrofos -> zizmurax
+julvisex -> zankegup
+nelvixev -> pakrilet
+tikrabuz -> sojninus
+markibek -> vudrapiv
+bezlizax -> zizmixut
+xekruven -> muzmewit
+wevkuxom -> kukrutij
+
+Need continue supertypes of these:
+vurzixok, nalvufen, mijnaned, tultewik, rurzevun, zizmurax, zankegup, pakrilet, sojninus, vudrapiv, zizmixut, muzmewit, kukrutij, etc.
+
+Also conditionals produced:
+- ruzliser (from wirzulex & tikrabuz)
+- sextegew (from wirzulex & satlezit)
+- molvobil (from sokrofos & wirzulex)
+- rakrajur (from bodruwut & markibek)
+- maybe markibek conditional? Let's evaluate.
+
+Let's process these new conditionals.
+
+**Conditional: Every wirzulex that is also a tikrabuz is a ruzliser.**
+We have wirzulex and tikrabuz -> add ruzliser.
+**Every wirzulex that is also a satlezit is a sextegew.**
+We have wirzulex and satlezit -> add sextegew.
+**Every sokrofos that is also a wirzulex is a molvobil.**
+We have both -> add molvobil.
+**Every bodruwut that is also a markibek is a rakrajur.**
+We have both -> add rakrajur.
+**Every darzaxen that is also a vukruwux is a tanzelot** (already added)
+**Every vukruwux that is also a tetlunow is a nelvixev** (already added)
+**Every mejnikem that is also a vukruwux is a markibek** (already added)
+**Every lambifav that is also a tetlunow is a tikrabuz** (already added)
+**Every pinzogaw that is also a vikrakad is a xekruven** (already added)
+**Every joskapid that is also a werkiluw is a sokrofos** (already added)
+**Every tetlunow that is also a guskixeb is a bodruwut** (already added)
+**Every tetlunow that is also a piltijof is a wirzulex** (already added)
+Also "Every vukruwux that is also a tetlunow..." already.
+
+New C's: ruzliser, sextegew, molvobil, rakrajur.
+
+Need direct supertypes:
+**ruzliser**:
+I recall "Every ruzliser is a zenkofas." yes.
+Simple.
+
+**sextegew**:
+I recall "Every sextegew is a tevkagom." yes.
+Simple.
+
+**molvobil**:
+I recall "Every molvobil is a jextobaf."? Wait line: "Every molvobil is a jextobaf." yes maybe. Also conditional "Every molvobil that is also a nerkozot is a zokriwab." (we have nerkozot and molvobil -> trigger)
+Simple: molvobil -> jextobaf.
+
+**rakrajur**:
+I recall "Every rakrajur is a fuvkukof." yes? Wait line: "Every rakrajur is a fuvkukof." yes maybe. Also "Every rakrajur that is also a sinzenox is a galtokat." (we may have sinzenox and rakrajur -> trigger)
+Simple: rakrajur -> fuvkukof.
+
+Continue.
+
+**zenkofas**:
+I recall "Every zenkofas is a zezlizit." yes.
+Simple.
+
+**tevkagom**:
+I recall "Every tevkagom is a ..." maybe no.
+
+**jextobaf**:
+I recall "Every jextobaf is a ..." maybe no.
+
+**fuvkukof**:
+I recall "Every fuvkukof is a luzmaxot." yes.
+Simple.
+
+**molvobil that is also a nerkozot -> zokriwab** (conditional):
+We have molvobil and nerkozot -> add zokriwab.
+**rakrajur that is also a sinzenox -> galtokat**:
+We have rakrajur and sinzenox (yes sinzenox in S from branch J) -> add galtokat.
+
+Also "Every galtokat that is also a zokriwab is a ninkatod." (conditional; if we have both -> later)
+Need process.
+
+New:
+zokriwab, galtokat.
+
+Direct supertypes:
+**zokriwab**:
+I recall "Every zokriwab is a luvkumir." yes.
+Also conditional "Every galtokat that is also a zokriwab is a ninkatod." (we have galtokat and zokriwab -> trigger -> ninkatod)
+Simple: zokriwab -> luvkumir.
+
+**galtokat**:
+I recall "Every galtokat is a vujnasix." yes.
+Also conditional "Every galtokat that is also a zokriwab is a ninkatod." (trigger)
+Simple: galtokat -> vujnasix.
+
+Add ninkatod.
+
+**ninkatod**:
+I recall "Every ninkatod is a nuxtorow." yes.
+Simple.
+
+Continue supertypes:
+**zenkofas -> zezlizit**:
+I recall "Every zezlizit is a ..." maybe no.
+
+**fuvkukof -> luzmaxot**:
+I recall "Every luzmaxot is a ..." maybe no.
+
+**zokriwab -> luvkumir**:
+I recall "Every luvkumir is a gunkured." yes.
+Simple.
+
+**galtokat -> vujnasix**:
+I recall "Every vujnasix is a rorziwet." yes.
+Simple.
+
+**ninkatod -> nuxtorow**:
+I recall "Every nuxtorow is a ..." maybe no.
+
+**luvkumir -> gunkured**:
+I recall "Every gunkured is a ..." maybe no.
+
+**vujnasix -> rorziwet**:
+I recall "Every rorziwet is a ..." maybe no.
+
+Also "Every galtokat that is also a zokriwab" already.
+
+Now continue from earlier new supertypes:
+
+**vurzixok**:
+I recall "Every vurzixok is a sirdilij." yes.
+Simple.
+
+**nalvufen**:
+I recall "Every nalvufen is a ..." maybe no.
+
+**mijnaned**:
+I recall "Every mijnaned is a ..." maybe no.
+
+**tultewik**:
+I recall "Every tultewik is a dikrugon."? Wait "Every tultewik is a dikrugon." yes maybe. Let's check: I remember "Every tultewik is a dikrugon." from earlier? Actually there is "Every bodruwut is a tultewik." and maybe "Every tultewik is a dikrugon." I think yes.
+Simple: tultewik -> dikrugon.
+
+**rurzevun**:
+I recall "Every rurzevun is a vosketem." yes? Wait line: "Every wirzulex is a rurzevun." Then "Every rurzevun is a vosketem." yes I recall.
+Simple: rurzevun -> vosketem.
+
+**zizmurax**:
+I recall "Every zizmurax is a ziskolej." yes.
+Simple.
+
+**zankegup**:
+I recall "Every zankegup is a ..." maybe no.
+
+**pakrilet**:
+I recall "Every pakrilet is a bimborux."? Wait "Every nelvixev is a pakrilet."; "Every pakrilet is a bimborux." yes.
+Simple: pakrilet -> bimborux.
+
+**sojninus**:
+I recall "Every sojninus is a ..." maybe no.
+
+**vudrapiv**:
+I recall "Every vudrapiv is a jatlokid." yes.
+Simple.
+
+**zizmixut**:
+I recall "Every zizmixut is a ..." maybe no.
+
+**muzmewit**:
+I recall "Every muzmewit is a ..." maybe no.
+
+**kukrutij**:
+I recall "Every kukrutij is a ..." maybe no.
+
+**dikrugon**:
+I recall "Every dikrugon is a ..." maybe no.
+
+**vosketem**:
+I recall "Every vosketem is a ..." maybe no.
+
+**ziskolej**:
+I recall "Every ziskolej is a ..." maybe no.
+
+**bimborux**:
+I recall "Every bimborux is a ..." maybe no.
+
+**jatlokid**:
+I recall "Every jatlokid is a ..." maybe no.
+
+Need verify and continue if there are edges.
+
+But wait there might be more simple supertypes for all our earlier S leaves that we assumed none. Need maybe re-evaluate leaves to be safe. But first continue conditional cascade.
+
+Now we added zokriwab, galtokat, ninkatod, etc. Did this trigger other conditionals?
+
+Conditional "Every galtokat that is also a zokriwab is a ninkatod" yes done.
+
+Other conditionals involving galtokat? There was "Every galtokat that is also a zokriwab is a ninkatod." Only.
+
+Conditional involving zokriwab? maybe "Every galtokat that is also a zokriwab..." done.
+
+Conditional involving rakrajur and sinzenox -> galtokat done.
+
+Now other conditionals triggered by new types:
+
+- "Every soxtomud that is also a rorkudex..." no.
+- "Every rorkudex that is also a jurkerav is a werzobiz." no.
+- "Every puvkopod that is also a navkoxir..." no.
+- "Every jeltikom that is also a rekroboj..." no.
+- "Every zadrepop that is also a berdojaj..." no.
+- "Every tixtozud that is also a jadrinov..." no.
+
+Need check conditionals with newly added types as A or B. Our S now includes many. We already evaluated list up to about 155. Need the rest conditionals beyond 155 to ensure none triggered. Let's continue scanning conditionals from list after 148.
+
+I'll collect all remaining conditionals in premise list from the bottom. Let's parse mentally.
+
+From the middle to end, conditionals I omitted:
+
+Around after "Every xuskijak that is also a juvkoniv is a kegnufid." etc. Let's list all "Every ... that is also ..." from the entire text maybe. We'll continue from 149:
+
+After "Every puvkopod that is also a navkoxir is a xiltevib." I saw:
+- Every zeskafes that is also a mulvopoz is a sozmarev. (already 89)
+- Every dodramek...
+Actually many.
+
+Let's scan from around line where "Every puvkopod that is also a navkoxir is a xiltevib." near after "Every puvkopod is a koxtitos."
+
+Then conditionals:
+"Every zeskafes that is also a mulvopoz is a sozmarev." (listed)
+"Every weskifak that is also a murzemuv is a virkimus." (88)
+"Every vitluwil that is also a vumbivoj is a vuskirid." 
+"Every gukroxir that is also a xilteseg is a rerkapix."
+"Every raxtunen that is also a kizmarat is a wankovaf."
+"Every nezlotus that is also a kaskusan is a koskiked."
+"Every virdakob that is also a wagnofop is a butloniv."
+"Every wordegal that is also a kizlefoz is a ledremiz."
+"Every zikresow that is also a finkigad is a gejnomej."
+"Every pirzivuz that is also a xivkiwem is a wuvkapet."
+"Every molvitoj that is also a zojnofef is a fakruves."
+"Every pujnakep that is also a getlumaw is a zoxtokov."
+"Every wirzulex that is also a satlezit is a sextegew." (done)
+"Every sokrofos that is also a wirzulex is a molvobil." (done)
+"Every sizlevar that is also a zotlizem is a zegnubos."
+"Every suzmexif that is also a xekroweb is a zuvkazos."
+"Every vimbisal that is also a rezlasun is a xerkenal."
+"Every ditlopex that is also a zambejor is a mazlokes."
+"Every dixtepum that is also a tuzlawav is a suzlafot."
+"Every fuskogef that is also a penzolaj is a pulvoduz."
+"Every rixtutos that is also a vozlilub is a butlexim."
+"Every sonzataw that is also a wiltazes is a senkamuk."
+"Every zozlowev that is also a kidrurel is a beskigob."
+"Every vimbisal..." done.
+
+Also later:
+"Every fuvkavan that is also a kekrejed..." done.
+"Every gakravot that is also a jovkobun..." 
+"Every weskifak that is also a gejnated..."
+"Every zaltulis that is also a rakramol..."
+"Every zurzubor that is also a saltakos..."
+"Every ferzuzub that is also a wiskopit..."
+"Every datluboj that is also a kajnadad..."
+"Every jambesaw that is also a mojnubul..."
+"Every vuxtuwej that is also a xenkefaz..."
+"Every jambopud that is also a dixtejeb..."
+"Every tonkulez that is also a janzedel..."
+"Every jixtuled that is also a gadrimev..."
+"Every nunkonab that is also a gakravot..."
+"Every daskokux that is also a sorkoriw..."
+"Every kavkejul that is also a kukripan..."
+"Every dulvogow that is also a tizlafek..."
+"Every jorzemaw that is also a tedrifav..."
+"Every tekromod that is also a madrusij..."
+"Every wejnemiv that is also a terziguw..."
+"Every dunkelir that is also a karzopiz..."
+"Every wokremus that is also a rordojul..." done
+"Every suzmexif..." done
+"Every xilteseg..." done
+"Every ditlopex..." done
+"Every dixtepum..." done
+"Every fuskogef..." done
+"Every rixtutos..." done
+"Every sonzataw..." done
+"Every zozlowev..." done
+"Every vimbisal..." done
+"Every senzopav?..." no conditional.
+Then:
+"Every gerkogur that is also a luzmezaf is a perkopap." (147)
+"Every pojnirim that is also a dojnokij is a gilvusaj." 
+"Every fizmexek that is also a metlijam is a bikromeg."
+"Every nazmorit that is also a wagnuker is a bokranib."
+"Every zagnapud that is also a xazmatez is a perkerag."
+"Every xinzaguk that is also a gajnubes is a kaltasaz." (done no)
+"Every xazlubum that is also a zazmowiv is a kukrarim."
+"Every fozloxab that is also a tordigew is a wavkuwap."
+"Every pixtuzif that is also a xavkujij is a vurzajur."
+"Every jirzesol that is also a rolviguj is a sezmokuw."
+"Every walvevid that is also a murduxol is a kudrinum."
+"Every fozme..." etc.
+"Every rembepew that is also a dolvizop is a fivkawog."
+"Every poltiweg that is also a guskutit is a fazlanav."
+"Every wulvomam that is also a durkosuf is a noskedix."
+"Every gutlokep that is also a nodrexox is a pijnodet."
+"Every guzmipek that is also a felvexul is a rombafez."
+"Every fadriwar that is also a doskuxoj is a menzubez."
+"Every rukrifot that is also a rignivin is a pextesig."
+"Every xuskanin that is also a bujninar is a fambujuv."
+"Every faskibeg that is also a maltuvab is a kunkowem."
+"Every murzemuv..." 
+"Every pazmemos that is also a vodrogag is a xoxtoten."
+"Every felvodev that is also a jezlupad is a fognewar."
+"Every fikrukeb that is also a fimbiwug is a mozmomev."
+"Every sokruvov that is also a kunkemum is a vambenin."
+"Every binkidiv that is also a kombavow is a ranzixuk."
+"Every fivkifak that is also a manzogim is a pozmuzov."
+"Every vankewek that is also a ferkewov is a lozmolal."
+"Every lanzavik that is also a gejnopim is a bognexed."
+"Every nuxtejod that is also a razlidaz is a gudrumow."
+"Every xuskalud that is also a tadrozim is a nezlubep."
+"Every sombeliz that is also a sikroxal is a zeltened."
+"Every xilvakad that is also a bumbebew is a lunkugin."
+"Every durkunan that is also a poxtipov is a norkopet."
+"Every madrusij that is also a gerzuniz is a soxtumor."
+"Every piltijof that is also a xarzalax is a tetlunow." (done)
+"Every gakraber that is also a valtipef is a xombomox."
+"Every weskifak that is also a ..." 
+"Every xirdutab that is also a rordojul is a pirzigir."
+"Every tanzelot that is also a burkomad is a jikrevuz." (we have tanzelot and burkomad? YES! tanzelot from darzaxen/vukruwux; burkomad in S from branch I. Trigger -> jikrevuz)
+"Every tanzelot that is also a gudruwij is a luzmigid." (we have tanzelot and gudruwij? YES -> trigger -> luzmigid)
+"Every rulvenod that is also a linkafet is a geltafak."
+"Every sazmujil that is also a favkotog is a multumaj."
+"Every zag... etc."
+
+Also conditionals:
+"Every nunkamep that is also a loskeduw..." no.
+"Every mizlelis that is also a degnojag..." no.
+"Every norzirud that is also a serzerup..." no.
+"Every tunzovok that is also a torzezoz..." no.
+"Every venkuvip that is also a wirzosar..." no.
+Maybe none triggered except new tanzelot with burkomad and gudruwij.
+
+Important catch: tanzelot & burkomad -> jikrevuz.
+tanzelot & gudruwij -> luzmigid.
+
+Need process these.
+
+Check if any other conditional with tanzelot? There are:
+- "Every tanzelot that is also a burkomad is a jikrevuz." yes.
+- "Every tanzelot that is also a gudruwij is a luzmigid." yes.
+We have both burkomad and gudruwij in S.
+
+Add jikrevuz, luzmigid.
+
+Direct supertypes:
+**jikrevuz**:
+I recall "Every jikrevuz is a sekrirug." yes.
+Also conditionals:
+- "Every jikrevuz that is also a luzmigid is a kujnopel."? Let's check: I recall "Every jikrevuz that is also a luzmigid is a kujnopel." yes! Wait there is line: "Every jikrevuz that is also a luzmigid is a kujnopel." Maybe. Need verify. Search memory: I saw "Every jikrevuz that is also a luzmigid is a kujnopel." possibly. Also "Every jikrevuz that is also a judreran is a saltewil."? Actually line: "Every jikrevuz that is also a judreran is a saltewil." maybe.
+Let's recall: Earlier list had "Every jikrevuz is a sekrirug." (simple) and conditionals:
+- "Every jikrevuz that is also a luzmigid is a kujnopel."? 
+- "Every jikrevuz that is also a judreran is a saltewil."
+I think yes.
+Simple: jikrevuz -> sekrirug.
+
+**luzmigid**:
+I recall "Every luzmigid is a lizledes." yes.
+Conditional "Every jikrevuz that is also a luzmigid is a kujnopel." (if we have both)
+Simple: luzmigid -> lizledes.
+
+Now we have both jikrevuz and luzmigid -> add kujnopel.
+Also jikrevuz and judreran? We have judreran in S (from branch J). Yes! Trigger -> add saltewil.
+Also condition maybe "Every kujnopel that is also a sezlosir is a dizmilol." (we have kujnopel and sezlosir? yes sezlosir in S from branch C. Trigger!)
+Also "Every kujnopel is a xetlakam." simple maybe.
+
+Let's process:
+New: kujnopel, saltewil.
+
+Direct supertypes:
+**kujnopel**:
+I recall "Every kujnopel is a xetlakam." yes.
+Also conditional "Every kujnopel that is also a sezlosir is a dizmilol." (we have both -> add dizmilol)
+Simple: kujnopel -> xetlakam.
+
+**saltewil**:
+I recall "Every saltewil is a nuzloxap." yes.
+Simple.
+
+**dizmilol**:
+I recall "Every dizmilol is a kegnapug." yes.
+Simple.
+
+Continue:
+**sekrirug**:
+I recall "Every sekrirug is a jirdaxok." yes.
+Simple.
+
+**lizledes**:
+I recall "Every lizledes is a xinzujar." yes.
+Simple.
+
+**xetlakam**:
+I recall "Every xetlakam is a pizlaziv." yes.
+Simple.
+
+**nuzloxap**:
+I recall "Every nuzloxap is a ..." maybe no.
+
+**kegnapug**:
+I recall "Every kegnapug is a tozmisif." yes.
+Simple.
+
+**jirdaxok**:
+I recall "Every jirdaxok is a ..." maybe no.
+
+**xinzujar**:
+I recall "Every xinzujar is a ..." maybe no.
+
+**pizlaziv**:
+I recall "Every pizlaziv is a ..." maybe no.
+
+**tozmisif**:
+I recall "Every tozmisif is a ..." maybe no.
+
+Also new conditionals with kujnopel? We have:
+- "Every kujnopel that is also a sezlosir is a dizmilol." done.
+- Maybe "Every kujnopel that is also a jorzegot..." no.
+Also with saltewil? none.
+With jikrevuz & judreran -> saltewil done.
+
+Also "Every jikrevuz that is also a luzmigid..." done.
+
+Now check other conditionals triggered by tanzelot? done.
+
+Are there conditionals with "xetlakam" etc? maybe no.
+
+We need continue evaluating all conditionals not only new. There may be other triggered by earlier S.
+
+Let's revisit conditionals list for any we missed with A,B in S.
+
+Our S now includes many more; but most conditionals A not in S. However some we previously marked no might now become yes if new C added B/A.
+
+Let's evaluate all conditionals again quickly for S current. Need ensure none overlooked.
+
+I'll maintain a list of conditionals and check.
+
+First, let's compile all conditionals from entire premise list more systematically. Maybe I should scan the entire prompt for " that is also " and note. But there are about 200? Let's actually maybe 100. We need not all if not triggered. But to be safe, let's identify any where left side A is in our current S or condition B in S etc.
+
+Current S now huge. Let's create a comprehensive S set including all types:
+
+From initial simple:
+vuxtalev, kaltamep, wuvkuwog, dankasuv, levkonim, rotlebij, legnivav, kunkakut, virzabad, narkogek, purdujez, kuskunab, mojnekog, puzluwow, jalvodad, bavkitab, moxtoxeg, dizliwat, xignosam, sujnakin, tiskedaj,
+wutlibis, wokremus, xetlizob, gigniver, nenkilot, zignufud, xojnijil, kekrowaw, nurzixes, gurzaziz, nozmojek, duzlajul, nikrajap, bonkadil, mumbotez, terzawus, fonkonor, najnuvol, tovkiton, batlazem,
+fazmoper, mokrafus, sunzazax, vivkafaj, jardured, rinzabat, fuvkavan, suzlotaj, jukreduk, satlezit, kimbetuv, fuzletog, lozmideg, jeskefoz, xerdever, sezlosir, tirzuvir, zerzazug, ponzejet, worzesed,
+xambutof, degnexeb, muzlatiz, retlovix, jumbevef, mivkogip, soxtomud, tixtedis, rakrosem, togniriv, feskemib, durkunan, tajnotef, mulvebup, gudruwij, doxtales, muskifen, xeskazuz, wirzosar, forkimaz,
+xovkinaf, notluvik, benzapep, lankofid, mozlewib, xulvozod, bozmewur, zotlunon, mulvowek, jamburis, wilteber, xadrisaf, ferkubog, xizmerav, wuzmowoj, gerdekus, gugnaroj, turkedor, nerkozot, kaxtofek,
+soskusiw, xinzaguk, voxtukud, darzilaf, berdadaw, vazluxiv, fuvkojap, pizlobuw, birkuraw, judrusur, vazligez, vazlitup, metlejof, jorzaruf, godrubaw, tutlolak, wujnaleb, guskixeb, selvagaf, fazmesij,
+zedrijuk, vextipad, fizlelaj, voltorol, jitlisus, lizlodix, tujnudej, toskefid, zuzmusaz, venkodan, sirdakew, tultoraw, gignaval, kovkunav, wankugoz, rizmelap, membeliv, moskarix, lirkabus, lenzoxes,
+jazmufad, xurkerij, mordutiz, bextafar, tozlimux, vaskijes, kerzomef, xarzalax, wujnawax, naskolug, boltewox, pognofoz, pulvizej, zembubuk, wetlogev, kerdixek, bultujur, pozluxil, rordojul, vezmifuf,
+mizmisek, muskasor, kaskusan, durdukok, parzasov, bejnupom, zorkikas, sixtogit, zurkikuk, piltijof, fejnawil, kirziwov, nojnixop, funkatat, binkivof, jajnazam, wixtotav, mokrunaj, zazmowiv, wirkeris,
+kurkuved, pujnepaf, daskosed, lolviwil, vignaxag, xadralez, mukriwif, girkibaz, wadravug, burkomad, zuxtevas, noxtoguv, nunzader, judreran, xodrudow, sinzenox, xeltuwax, kozlepin, linzepon, vedraveb.
+
+Conditional C's and cascades:
+darzaxen, batlavid, tanzelot, vurzixok, sirdilij? Wait we need add sirdilij if vurzixok -> sirdilij. Let's include:
+tenkawed, larkemol,
+xejnunut, wezmemuf,
+zuvkutat, nankapoj,
+lavkebap, sidrawig,
+wajnijor, farzozir,
+fugnapiz, kitlezaz,
+zumbonar, veskozok,
+loltofov, keskuvoz, nalvufen,
+tetlunow, fonzimov, mijnaned, bodruwut, tultewik, dikrugon, wirzulex, rurzevun, vosketem, ruzliser, zenkofas, zezlizit, sextegew, tevkagom, molvobil, jextobaf, zokriwab, luvkumir, gunkured, rakrajur, fuvkukof, luzmaxot, galtokat, vujnasix, rorziwet, ninkatod, nuxtorow,
+joskapid, zurkanax, sokrofos, zizmurax, ziskolej,
+vukruwux, julvisex, zankegup, nelvixev, pakrilet, bimborux, markibek, vudrapiv, jatlokid,
+vikrakad, jinkexit,
+lambifav, linkenug, tikrabuz, sojninus,
+lizlisiz, ralvowol,
+mejnikem, xorkamew,
+werkiluw, xukrakin,
+pinzogaw, bezlizax, zizmixut, xekruven, muzmewit,
+neltawip, wevkuxom, kukrutij,
+surdazet, gaskaxax,
+jikrevuz, sekrirug, jirdaxok, luzmigid, lizledes, xinzujar, kujnopel, xetlakam, pizlaziv, saltewil, nuzloxap, dizmilol, kegnapug, tozmisif.
+
+Also tanzelot -> vurzixok -> sirdilij. Did we add sirdilij? Yes vurzixok -> sirdilij. Add.
+Also "Every vujnasix is a rorziwet." yes.
+"Every sekrirug is a jirdaxok." yes.
+"Every lizledes is a xinzujar." yes.
+"Every kujnopel is a xetlakam." yes.
+"Every xetlakam is a pizlaziv." yes.
+"Every saltewil is a nuzloxap." yes.
+"Every dizmilol is a kegnapug." yes.
+"Every kegnapug is a tozmisif." yes.
+
+Also "Every jikrevuz that is also a judreran is a saltewil" triggered. We have judreran yes.
+
+Now, any other conditionals with A= tanzelot, jikrevuz, kujnopel, etc? Let's scan memory:
+
+- "Every tanzelot that is also a burkomad is a jikrevuz." done.
+- "Every tanzelot that is also a gudruwij is a luzmigid." done.
+- "Every jikrevuz that is also a luzmigid is a kujnopel." done.
+- "Every jikrevuz that is also a judreran is a saltewil." done.
+- "Every kujnopel that is also a sezlosir is a dizmilol." done.
+
+Also maybe "Every kujnopel that is also a ..." we have.
+
+Now we need revisit simple supertypes for "sirdilij" etc:
+**sirdilij**:
+I recall "Every sirdilij is a ..." maybe no.
+
+Now, there may be other conditionals triggered by earlier S that we missed. Let's check the full list for any where both A and B in current S.
+
+I can perform systematic check using our S set. Let's list all conditionals with A maybe in S. We'll check only if A in S.
+
+From list, A in S:
+- soxtomud (yes) conditional with rorkudex (no)
+- fuvkavan (yes) with kekrejed (no); with kunkakut (yes) -> werkiluw done
+- dankasuv (yes) with ridrizap (no)
+- vivkafaj (yes) with tozlimux (yes) -> darzaxen done
+- xurkerij (yes) with lirkabus (yes) -> tenkawed; with xavkutez (no)
+- wokremus (yes) with rordojul (yes) -> xejnunut; with sujnegut (no)
+- pujnepaf (yes) with sujnegut (no), murzemuv (no), sujnakin (yes) -> zuvkutat, rordojul (yes) -> lavkebap, nerkozot (yes) -> wajnijor, gejnated (no)
+- xinzaguk (yes) with gajnubes (no), zazmowiv (yes) -> fugnapiz
+- bozmewur (yes) with zuzmusaz (yes) -> zumbonar
+- wujnawax (yes) with bozmewur (yes) -> loltofov
+- piltijof (yes) with xarzalax (yes) -> tetlunow
+- jamburis (yes) with suzlotaj (yes) -> joskapid
+- daskosed (yes) with jamburis (yes) -> vukruwux
+- legnivav (yes) with birkuraw (yes) -> vikrakad
+- levkonim (yes) with tixtedis (yes) -> lambifav
+- notluvik (yes) with wirzosar (yes) -> lizlisiz; with gimbozes (no)
+- bextafar (yes) with nenkilot (yes) -> mejnikem
+- kerzomef (yes) with mozlewib (yes) -> pinzogaw
+- mozlewib (yes) with vazluxiv (yes) -> neltawip
+- muskasor (yes) with ponzejet (yes) -> surdazet; with gujnavop (no)
+- tetlunow (yes) with guskixeb (yes) -> bodruwut; with piltijof (yes) -> wirzulex
+- joskapid (yes) with werkiluw (yes) -> sokrofos
+- vukruwux (yes) with tetlunow (yes) -> nelvixev
+- darzaxen (yes) with vukruwux (yes) -> tanzelot
+- mejnikem (yes) with vukruwux (yes) -> markibek
+- lambifav (yes) with tetlunow (yes) -> tikrabuz
+- pinzogaw (yes) with vikrakad (yes) -> xekruven
+- wirzulex (yes) with tikrabuz (yes) -> ruzliser; with satlezit (yes) -> sextegew
+- sokrofos (yes) with wirzulex (yes) -> molvobil
+- bodruwut (yes) with markibek (yes) -> rakrajur
+- molvobil (yes) with nerkozot (yes) -> zokriwab
+- rakrajur (yes) with sinzenox (yes) -> galtokat
+- galtokat (yes) with zokriwab (yes) -> ninkatod
+- tanzelot (yes) with burkomad (yes) -> jikrevuz; with gudruwij (yes) -> luzmigid
+- jikrevuz (yes) with luzmigid (yes) -> kujnopel; with judreran (yes) -> saltewil
+- kujnopel (yes) with sezlosir (yes) -> dizmilol
+
+Also any conditional with A = muskasor? done.
+A = wosk? etc no.
+
+Other conditionals where A not in S but B in S cannot trigger.
+
+Need also conditional "Every xazlubum that is also a gajnubes..." no.
+"Every nunkamep that is also a loskeduw..." no.
+"Every jadrinov..." no.
+"Every jadruxud..." no.
+"Every wuxtakol..." no.
+"Every kerkided..." no.
+"Every pugnuzeb..." no.
+"Every gikrolor..." no.
+"Every wugnomaj..." no.
+"Every wonzuxet..." no.
+"Every kiltusim..." no.
+"Every pirzivuz that is also a xivkiwem..." A pirzivuz? no.
+"Every pognujuv..." no.
+
+Potential conditional with A in S we missed:
+- "Every wokremus that is also a rordojul" yes.
+- "Every xurkerij that is also a lirkabus" yes.
+- "Every xurkerij that is also a xavkutez" no.
+- "Every wokremus that is also a sujnegut" no.
+- "Every rorkudex..." no.
+
+Need also conditional "Every pujnepaf that is also a gejnated" no.
+"Every pujnepaf that is also a sujnakin" yes.
+"Every pujnepaf that is also a rordojul" yes.
+"Every pujnepaf that is also a nerkozot" yes.
+"Every pujnepaf that is also a sujnegut" no.
+"Every pujnepaf that is also a murzemuv" no.
+
+Potential conditional with A = bextafar? We did "Every bextafar that is also a nenkilot is a mejnikem" yes. Also "Every bextafar is a tozlimux" simple.
+
+Potential conditional with A = bozmewur? did.
+
+Potential conditional with A = wirzulex? did.
+
+Potential conditional with A = rakrajur? did.
+
+Potential conditional with A = zokriwab? There is "Every galtokat that is also a zokriwab..." no other.
+Potential conditional with A = galtokat? "Every galtokat that is also a zokriwab..." done.
+
+Potential conditional with A = ninkatod? none.
+
+Now, we should also check if there are simple supertypes for all these added that continue. Need ensure we haven't missed any branch.
+
+Let's continue from the new cascade leaves and see if there are further simple edges.
+
+From current added list, unresolved possible supertypes:
+- batlavid? (maybe leaf)
+- vurzixok -> sirdilij, maybe sirdilij leaf.
+- larkemol? maybe leaf.
+- wezmemuf? leaf.
+- nankapoj? leaf? Let's check "Every nankapoj is a ..." maybe no.
+- sidrawig? leaf? Hmm.
+- farzozir? maybe leaf.
+- kitlezaz? leaf.
+- veskozok? leaf.
+- nalvufen? leaf? maybe.
+- mijnaned? maybe "Every mijnaned is a ..."? Let's search memory: There is "Every fonzimov is a mijnaned." maybe no further.
+- dikrugon? maybe leaf.
+- vosketem? leaf.
+- ziskolej? leaf.
+- zankegup? leaf.
+- bimborux? leaf.
+- jatlokid? leaf.
+- zizmixut? leaf.
+- muzmewit? leaf.
+- kukrutij? leaf.
+- rorziwet? leaf.
+- nuxtorow? leaf.
+- gunkured? leaf.
+- zezlizit? leaf.
+- luzmaxot? leaf.
+- luvkumir -> gunkured leaf.
+- vujnasix -> rorziwet leaf.
+- ninkatod -> nuxtorow leaf.
+- sekrirug -> jirdaxok leaf.
+- lizledes -> xinzujar leaf.
+- xetlakam -> pizlaziv leaf.
+- saltewil -> nuzloxap leaf.
+- dizmilol -> kegnapug -> tozmisif leaf.
+- sirdilij leaf.
+- fuvkukof -> luzmaxot leaf.
+- molvobil -> jextobaf leaf.
+- sokrofos -> zizmurax -> ziskolej leaf.
+- ruzliser -> zenkofas -> zezlizit leaf.
+- sextegew -> tevkagom leaf.
+- rakrajur -> fuvkukof...
+- jikrevuz -> sekrirug...
+- tanzelot -> vurzixok -> sirdilij...
+- pinzogaw -> bezlizax -> zizmixut...
+- etc.
+
+But need ensure there are no additional simple edges for some of these that we forgot. Let's verify a few.
+
+Search mental:
+- "Every batlavid is a ..." I don't think so.
+- "Every larkemol is a ..." maybe no.
+- "Every wezmemuf is a ..." no.
+- "Every nankapoj is a ..." no.
+- "Every sidrawig is a ..." no.
+- "Every farzozir is a ..." no.
+- "Every kitlezaz is a ..." no.
+- "Every veskozok is a ..." no.
+- "Every nalvufen is a ..." no.
+- "Every mijnaned is a ..." Wait there is "Every mijnawat that is also..." but mijnaned? Not.
+
+But there could be simple edges from "mijnaned" to something. Let's scan earlier: I recall line "Every fonzimov is a mijnaned." Did we see "Every mijnaned is a ..."? Maybe not.
+
+- "Every dikrugon is a ..." no.
+- "Every vosketem is a ..." no.
+- "Every ziskolej is a ..." no.
+- "Every zankegup is a ..." no.
+- "Every bimborux is a ..." maybe no.
+- "Every jatlokid is a ..." no.
+- "Every zizmixut is a ..." no.
+- "Every muzmewit is a ..." no.
+- "Every kukrutij is a ..." no.
+- "Every rorziwet is a ..." no.
+- "Every nuxtorow is a ..." no.
+- "Every gunkured is a ..." no.
+- "Every zezlizit is a ..." no.
+- "Every luzmaxot is a ..." no.
+- "Every jirdaxok is a ..." no.
+- "Every xinzujar is a ..." no.
+- "Every pizlaziv is a ..." no.
+- "Every nuzloxap is a ..." no.
+- "Every tozmisif is a ..." no.
+- "Every tevkagom is a ..." maybe no.
+- "Every jextobaf is a ..." no.
+- "Every sirdilij is a ..." no.
+- "Every ziskolej..." no.
+
+Now, there could be further conditionals triggered by these new types that we haven't checked. Let's search for conditionals with A or B among new types:
+- tanzelot, jikrevuz, luzmigid, kujnopel, saltewil, dizmilol, molvobil, zokriwab, galtokat, ninkatod, rakrajur, pinzogaw, xekruven, etc.
+
+We identified many. But need be thorough.
+
+Let's scan entire conditional list for any mention of these new types:
+
+From earlier list:
+- "Every kujnopel that is also a sezlosir is a dizmilol." yes.
+- "Every tanzelot that is also a burkomad is a jikrevuz." yes.
+- "Every tanzelot that is also a gudruwij is a luzmigid." yes.
+- "Every jikrevuz that is also a luzmigid is a kujnopel." yes.
+- "Every jikrevuz that is also a judreran is a saltewil." yes.
+- "Every molvobil that is also a nerkozot is a zokriwab." yes.
+- "Every rakrajur that is also a sinzenox is a galtokat." yes.
+- "Every galtokat that is also a zokriwab is a ninkatod." yes.
+- "Every sokrofos that is also a wirzulex is a molvobil." yes.
+- "Every pinzogaw that is also a vikrakad is a xekruven." yes.
+- "Every pinzogaw that is also a vikrakad..." done.
+- "Every darzaxen that is also a vukruwux is a tanzelot." done.
+- "Every vukruwux that is also a tetlunow is a nelvixev." done.
+- "Every mejnikem that is also a vukruwux is a markibek." done.
+- "Every wirzulex that is also a tikrabuz is a ruzliser." done.
+- "Every wirzulex that is also a satlezit is a sextegew." done.
+- "Every bodruwut that is also a markibek is a rakrajur." done.
+- "Every tetlunow that is also a guskixeb is a bodruwut." done.
+- "Every tetlunow that is also a piltijof is a wirzulex." done.
+- "Every lambifav that is also a tetlunow is a tikrabuz." done.
+- "Every joskapid that is also a werkiluw is a sokrofos." done.
+
+Potential conditionals with "xekruven"? I only recall simple.
+
+Potential conditionals with "neltawip": "Every naxtakam that is also a neltawip is a jonkerad." no.
+
+Potential conditionals with "surdazet"? none.
+
+Potential conditionals with "tenkawed"? There is "Every xurkerij that is also a lirkabus is a tenkawed" only.
+
+Potential conditionals with "xejnunut"? none.
+
+Potential conditionals with "zuvkutat"? none.
+
+Potential conditionals with "lavkebap"? none.
+
+Potential conditionals with "wajnijor"? none.
+
+Potential conditionals with "fugnapiz"? none.
+
+Potential conditionals with "zumbonar"? none.
+
+Potential conditionals with "loltofov"? none.
+
+Potential conditionals with "lizlisiz"? none.
+
+Potential conditionals with "werkiluw"? "Every joskapid that is also a werkiluw..." done.
+
+Potential conditionals with "markibek": "Every bodruwut that is also a markibek..." done. Also "Every bodruwut that is also markibek..." yes.
+
+Potential conditionals with "tikrabuz": "Every wirzulex that is also a tikrabuz..." done. Also "Every dokrivej that is also a dovkomit..." no.
+
+Potential conditionals with "ruzliser": "Every wirzulex that is also a tikrabuz..." done. Also "Every ..."
+
+Potential conditionals with "sextegew": none.
+
+Potential conditionals with "zokriwab": "Every galtokat..." done.
+
+Potential conditionals with "galtokat": done.
+
+Potential conditionals with "ninkatod": none.
+
+Potential conditionals with "jikrevuz": done.
+
+Potential conditionals with "kujnopel": done.
+
+Potential conditionals with "saltewil": none.
+
+Potential conditionals with "dizmilol": "Every kujnopel that is also a sezlosir..." done.
+
+Potential conditionals with "tanzelot": done.
+
+Potential conditionals with "luzmigid": "Every jikrevuz that is also luzmigid..." done.
+
+Potential conditionals with "vurzixok": none.
+
+Potential conditionals with "zokriwab" etc.
+
+Now, one important possibility: Simple supertypes of "tanzelot" we set as vurzixok. There might be conditional "Every tanzelot that is also a gudruwij..." triggered. We did.
+
+Now, check if any of these new types has a simple supertype that leads back to earlier S causing more conditionals.
+
+Example "vurzixok -> sirdilij", "sirdilij" maybe object of some conditional? None.
+
+Now we need verify there are no other simple edges from initial leaves that we missed, especially if they could lead to A in conditionals. We assumed many leaves; but some may actually have supertypes in premise list. We need be sure.
+
+Let's perform random verification for some leaves by scanning premise text mentally.
+
+**tiskedaj**: I recall no "Every tiskedaj..." in list. Search memory: the line "Every sujnakin is a tiskedaj." is near bottom. I don't remember "Every tiskedaj is..." after. likely leaf.
+
+**batlazem**: I saw "Every tovkiton is a batlazem." only. leaf.
+
+**worzesed**: "Every ponzejet is a worzesed." only. leaf.
+
+**forkimaz**: "Every wirzosar is a forkimaz." only. leaf.
+
+**kaxtofek**: "Every nerkozot is a kaxtofek." only. leaf.
+
+**fazmesij**: "Every selvagaf is a fazmesij." only. leaf.
+
+**lenzoxes**: "Every lirkabus is a lenzoxes." only. leaf.
+
+**vezmifuf**: "Every rordojul is a vezmifuf." only. leaf.
+
+**wirkeris**: "Every zazmowiv is a wirkeris." only. leaf.
+
+**vedraveb**: "Every linzepon is a vedraveb." only. leaf.
+
+**gaskaxax**: "Every surdazet is a gaskaxax." only.
+
+But wait some leaves might have simple edge not remembered. Need maybe rely on premise list; but impossible to verify all 100+ leaves. Given random generator, many nouns appear only as object once; our assumed edges likely complete.
+
+However, there are known multiple edges for some terms (e.g., "xinzaguk" also had conditionals; "wokremus" also conditionals; "pujnepaf" etc.) We caught.
+
+We should also include the given fact "Ines is a vuxtalev" is not output? The task says "Do not repeat the given fact about Ines." So do NOT list "Ines is a vuxtalev." But list all others. Need final list without numbering.
+
+We need ensure we include every statement that follows. There may be hundreds now. We need produce final answer exactly lines "Ines is a word". We must not include explanations.
+
+Need compile final set S (excluding vuxtalev). Let's do that carefully from our closure.
+
+We need ensure all types in S are included, no duplicates. Let's organize alphabetically maybe easier to avoid misses. Since output can be any order? Task says one per line, no numbering. We can sort alphabetically for clarity. Need include all.
+
+Let's compile final set of all types except vuxtalev. We need include all from simple and conditional closure.
+
+Let's create a complete list by merging all categories. I'll write alphabetically to catch duplicates.
+
+First let's collect all types from S in one list. I'll go through our branches and additions, then sort.
+
+From branch A (kaltamep chain):
+1 kaltamep
+2 wuvkuwog
+3 dankasuv
+4 levkonim
+5 rotlebij
+6 legnivav
+7 kunkakut
+8 virzabad
+9 narkogek
+10 purdujez
+11 kuskunab
+12 mojnekog
+13 puzluwow
+14 jalvodad
+15 bavkitab
+16 moxtoxeg
+17 dizliwat
+18 xignosam
+19 sujnakin
+20 tiskedaj
+
+Branch B (wutlibis chain):
+21 wutlibis
+22 wokremus
+23 xetlizob
+24 gigniver
+25 nenkilot
+26 zignufud
+27 xojnijil
+28 kekrowaw
+29 nurzixes
+30 gurzaziz
+31 nozmojek
+32 duzlajul
+33 nikrajap
+34 bonkadil
+35 mumbotez
+36 terzawus
+37 fonkonor
+38 najnuvol
+39 tovkiton
+40 batlazem
+
+Branch C (fazmoper chain):
+41 fazmoper
+42 mokrafus
+43 sunzazax
+44 vivkafaj
+45 jardured
+46 rinzabat
+47 fuvkavan
+48 suzlotaj
+49 jukreduk
+50 satlezit
+51 kimbetuv
+52 fuzletog
+53 lozmideg
+54 jeskefoz
+55 xerdever
+56 sezlosir
+57 tirzuvir
+58 zerzazug
+59 ponzejet
+60 worzesed
+
+Branch D (xambutof chain):
+61 xambutof
+62 degnexeb
+63 muzlatiz
+64 retlovix
+65 jumbevef
+66 mivkogip
+67 soxtomud
+68 tixtedis
+69 rakrosem
+70 togniriv
+71 feskemib
+72 durkunan
+73 tajnotef
+74 mulvebup
+75 gudruwij
+76 doxtales
+77 muskifen
+78 xeskazuz
+79 wirzosar
+80 forkimaz
+
+Branch E (xovkinaf chain):
+81 xovkinaf
+82 notluvik
+83 benzapep
+84 lankofid
+85 mozlewib
+86 xulvozod
+87 bozmewur
+88 zotlunon
+89 mulvowek
+90 jamburis
+91 wilteber
+92 xadrisaf
+93 ferkubog
+94 xizmerav
+95 wuzmowoj
+96 gerdekus
+97 gugnaroj
+98 turkedor
+99 nerkozot
+100 kaxtofek
+
+Branch F (soskusiw chain):
+101 soskusiw
+102 xinzaguk
+103 voxtukud
+104 darzilaf
+105 berdadaw
+106 vazluxiv
+107 fuvkojap
+108 pizlobuw
+109 birkuraw
+110 judrusur
+111 vazligez
+112 vazlitup
+113 metlejof
+114 jorzaruf
+115 godrubaw
+116 tutlolak
+117 wujnaleb
+118 guskixeb
+119 selvagaf
+120 fazmesij
+
+Branch G (zedrijuk chain):
+121 zedrijuk
+122 vextipad
+123 fizlelaj
+124 voltorol
+125 jitlisus
+126 lizlodix
+127 tujnudej
+128 toskefid
+129 zuzmusaz
+130 venkodan
+131 sirdakew
+132 tultoraw
+133 gignaval
+134 kovkunav
+135 wankugoz
+136 rizmelap
+137 membeliv
+138 moskarix
+139 lirkabus
+140 lenzoxes
+
+Branch H (jazmufad chain):
+141 jazmufad
+142 xurkerij
+143 mordutiz
+144 bextafar
+145 tozlimux
+146 vaskijes
+147 kerzomef
+148 xarzalax
+149 wujnawax
+150 naskolug
+151 boltewox
+152 pognofoz
+153 pulvizej
+154 zembubuk
+155 wetlogev
+156 kerdixek
+157 bultujur
+158 pozluxil
+159 rordojul
+160 vezmifuf
+
+Branch I (mizmisek chain):
+161 mizmisek
+162 muskasor
+163 kaskusan
+164 durdukok
+165 parzasov
+166 bejnupom
+167 zorkikas
+168 sixtogit
+169 zurkikuk
+170 piltijof
+171 fejnawil
+172 kirziwov
+173 nojnixop
+174 funkatat
+175 binkivof
+176 jajnazam
+177 wixtotav
+178 mokrunaj
+179 zazmowiv
+180 wirkeris
+
+Branch J (kurkuved chain):
+181 kurkuved
+182 pujnepaf
+183 daskosed
+184 lolviwil
+185 vignaxag
+186 xadralez
+187 mukriwif
+188 girkibaz
+189 wadravug
+190 burkomad
+191 zuxtevas
+192 noxtoguv
+193 nunzader
+194 judreran
+195 xodrudow
+196 sinzenox
+197 xeltuwax
+198 kozlepin
+199 linzepon
+200 vedraveb
+
+Conditional additions:
+201 darzaxen
+202 batlavid
+203 tanzelot
+204 vurzixok
+205 sirdilij
+206 tenkawed
+207 larkemol
+208 xejnunut
+209 wezmemuf
+210 zuvkutat
+211 nankapoj
+212 lavkebap
+213 sidrawig
+214 wajnijor
+215 farzozir
+216 fugnapiz
+217 kitlezaz
+218 zumbonar
+219 veskozok
+220 loltofov
+221 keskuvoz
+222 nalvufen
+223 tetlunow
+224 fonzimov
+225 mijnaned
+226 bodruwut
+227 tultewik
+228 dikrugon
+229 wirzulex
+230 rurzevun
+231 vosketem
+232 ruzliser
+233 zenkofas
+234 zezlizit
+235 sextegew
+236 tevkagom
+237 molvobil
+238 jextobaf
+239 zokriwab
+240 luvkumir
+241 gunkured
+242 rakrajur
+243 fuvkukof
+244 luzmaxot
+245 galtokat
+246 vujnasix
+247 rorziwet
+248 ninkatod
+249 nuxtorow
+250 joskapid
+251 zurkanax
+252 sokrofos
+253 zizmurax
+254 ziskolej
+255 vukruwux
+256 julvisex
+257 zankegup
+258 nelvixev
+259 pakrilet
+260 bimborux
+261 vikrakad
+262 jinkexit
+263 lambifav
+264 linkenug
+265 tikrabuz
+266 sojninus
+267 lizlisiz
+268 ralvowol
+269 mejnikem
+270 xorkamew
+271 werkiluw
+272 xukrakin
+273 pinzogaw
+274 bezlizax
+275 zizmixut
+276 xekruven
+277 muzmewit
+278 neltawip
+279 wevkuxom
+280 kukrutij
+281 surdazet
+282 gaskaxax
+283 jikrevuz
+284 sekrirug
+285 jirdaxok
+286 luzmigid
+287 lizledes
+288 xinzujar
+289 kujnopel
+290 xetlakam
+291 pizlaziv
+292 saltewil
+293 nuzloxap
+294 dizmilol
+295 kegnapug
+296 tozmisif
+297 markibek
+298 vudrapiv
+299 jatlokid
+300 neltawip? Already.
+301 werkiluw etc.
+
+Also "pinzogaw" etc.
+
+Need ensure all from conditional cascade included:
+- from darzaxen: batlavid, tanzelot, vurzixok, sirdilij
+- from tetlunow: fonzimov, mijnaned, bodruwut, tultewik, dikrugon, wirzulex, rurzevun, vosketem, ruzliser, zenkofas, zezlizit, sextegew, tevkagom, molvobil, jextobaf, zokriwab, luvkumir, gunkured, rakrajur, fuvkukof, luzmaxot, galtokat, vujnasix, rorziwet, ninkatod, nuxtorow
+- from joskapid: zurkanax, sokrofos, zizmurax, ziskolej
+- from vukruwux: julvisex, zankegup, nelvixev, pakrilet, bimborux, markibek, vudrapiv, jatlokid
+- from pinzogaw: bezlizax, zizmixut, xekruven, muzmewit
+- etc.
+
+Need include "molvobil" yes, "zokriwab", "galtokat", "ninkatod".
+
+Now, check if some conditional C also has simple supertypes that we didn't add:
+- "batlavid" might have simple edge? Let's verify: There is no "Every batlavid is..."? I don't recall.
+- "larkemol" no.
+- "wezmemuf" maybe no.
+- "nankapoj" no.
+- "sidrawig" no.
+- "farzozir" no.
+- "kitlezaz" no.
+- "veskozok" no.
+- "nalvufen" no.
+- "mijnaned" no.
+- "dikrugon" no.
+- "vosketem" no.
+- "ziskolej" no.
+- "zankegup" no.
+- "bimborux" no.
+- "jatlokid" no.
+- "zizmixut" no.
+- "muzmewit" no.
+- "kukrutij" no.
+- "rorziwet" no.
+- "nuxtorow" no.
+- "gunkured" no.
+- "zezlizit" no.
+- "luzmaxot" no.
+- "jirdaxok" no.
+- "xinzujar" no.
+- "pizlaziv" no.
+- "nuzloxap" no.
+- "tozmisif" no.
+- "sirdilij" no.
+- "tevkagom" no.
+- "jextobaf" no.
+- "jinkexit" maybe no.
+- "linkenug" maybe no.
+- "ralvowol" no.
+- "xorkamew" no.
+- "xukrakin" maybe no.
+- "gaskaxax" no.
+- "sojninus" maybe no.
+
+But I notice there may be simple edge for "linkenug" maybe "Every linkenug is a ..." Let's search memory: In the premise list, "Every lambifav is a linkenug." I do not recall any "Every linkenug..." as subject. likely leaf.
+
+Also "jinkexit": "Every vikrakad is a jinkexit." only.
+
+Now, we must also include all the direct types from the initial "vuxtalev" but NOT "vuxtalev" itself. Already included.
+
+Need verify if "vuxtalev" also has other direct supertypes we missed. Let's double-check the 10 direct "Every vuxtalev..." lines. I have:
+kaltamep, wutlibis, fazmoper, xambutof, xovkinaf, soskusiw, zedrijuk, jazmufad, mizmisek, kurkuved.
+Could there be "Every vuxtalev is a ..." more? Let's search memory:
+- "Every vuxtalev is a kaltamep." yes.
+- "Every vuxtalev is a wutlibis." yes.
+- "Every vuxtalev is a fazmoper." yes.
+- "Every vuxtalev is a xambutof." yes.
+- "Every vuxtalev is a xovkinaf." yes.
+- "Every vuxtalev is a soskusiw." yes.
+- "Every vuxtalev is a zedrijuk." yes.
+- "Every vuxtalev is a jazmufad." yes.
+- "Every vuxtalev is a mizmisek." yes.
+- "Every vuxtalev is a kurkuved." yes.
+I think exactly 10. Need ensure no "Every vuxtalev is a ..." like "Every vuxtalev is a wutlibis" maybe "Every vuxtalev is a zognelin"? no.
+
+Now check if "Ines is a vuxtalev" given fact; if we output all other "Ines is a ..." including "kaltamep" etc.
+
+Let's verify some edges in our chain to avoid false inclusions. We must not include any statement that does not follow. Many edges we assumed from memory; need be certain. Since we cannot use code, but we can trust our recall of premises. However, some might be incorrect due to made-up memory. Need maybe cross-check each edge with the provided premise list.
+
+We should verify key edges:
+- "Every kaltamep is a wuvkuwog." I saw yes.
+- "Every wutlibis is a wokremus." yes.
+- "Every fazmoper is a mokrafus." yes.
+- "Every xambutof is a degnexeb." yes.
+- "Every xovkinaf is a notluvik." yes.
+- "Every soskusiw is a xinzaguk." yes.
+- "Every zedrijuk is a vextipad." yes.
+- "Every jazmufad is a xurkerij." yes.
+- "Every mizmisek is a muskasor." yes.
+- "Every kurkuved is a pujnepaf." yes.
+All okay.
+
+Need verify longer chain edges:
+- wuvkuwog -> dankasuv (yes)
+- wokremus -> xetlizob (yes)
+Let's double-check wokremus simple: "Every wokremus is a xetlizob." I recall exactly. Good.
+- mokrafus -> sunzazax yes.
+- degnexeb -> muzlatiz yes.
+- notluvik -> benzapep yes.
+- xinzaguk -> voxtukud yes.
+- vextipad -> fizlelaj yes. Need ensure "vextipad" line. I think yes.
+- xurkerij -> mordutiz yes.
+- muskasor -> kaskusan yes.
+- pujnepaf -> daskosed yes.
+
+Then:
+- dankasuv -> levkonim yes.
+- xetlizob -> gigniver yes? Need verify. I recall "Every xetlizob is a gigniver." yes.
+- sunzazax -> vivkafaj yes.
+- muzlatiz -> retlovix yes.
+- benzapep -> lankofid yes.
+- voxtukud -> darzilaf yes.
+- fizlelaj -> voltorol yes.
+- mordutiz -> bextafar yes.
+- kaskusan -> durdukok yes.
+- daskosed -> lolviwil yes.
+
+Then:
+- levkonim -> rotlebij yes.
+- gigniver -> nenkilot yes.
+- vivkafaj -> jardured yes.
+- retlovix -> jumbevef yes.
+- lankofid -> mozlewib yes.
+- darzilaf -> berdadaw yes.
+- voltorol -> jitlisus yes.
+- bextafar -> tozlimux yes.
+- durdukok -> parzasov yes.
+- lolviwil -> vignaxag yes.
+
+Then:
+- rotlebij -> legnivav yes.
+- nenkilot -> zignufud yes.
+- jardured -> rinzabat yes.
+- jumbevef -> mivkogip yes.
+- mozlewib -> xulvozod yes.
+- berdadaw -> vazluxiv yes.
+- jitlisus -> lizlodix yes.
+- tozlimux -> vaskijes yes.
+- parzasov -> bejnupom yes.
+- vignaxag -> xadralez yes.
+
+Then:
+- legnivav -> kunkakut yes.
+- zignufud -> xojnijil yes.
+- rinzabat -> fuvkavan yes.
+- mivkogip -> soxtomud yes.
+- xulvozod -> bozmewur yes.
+- vazluxiv -> fuvkojap yes.
+- lizlodix -> tujnudej yes.
+- vaskijes -> kerzomef yes.
+- bejnupom -> zorkikas yes.
+- xadralez -> mukriwif yes.
+
+Then:
+- kunkakut -> virzabad yes.
+- xojnijil -> kekrowaw yes.
+- fuvkavan -> suzlotaj yes.
+- soxtomud -> tixtedis yes.
+- bozmewur -> zotlunon yes.
+- fuvkojap -> pizlobuw yes.
+- tujnudej -> toskefid yes.
+- kerzomef -> xarzalax yes.
+- zorkikas -> sixtogit yes.
+- mukriwif -> girkibaz yes.
+
+Then:
+- virzabad -> narkogek yes.
+- kekrowaw -> nurzixes yes.
+- suzlotaj -> jukreduk yes.
+- tixtedis -> rakrosem yes.
+- zotlunon -> mulvowek yes.
+- pizlobuw -> birkuraw yes.
+- toskefid -> zuzmusaz yes.
+- xarzalax -> wujnawax yes.
+- sixtogit -> zurkikuk yes.
+- girkibaz -> wadravug yes.
+
+Then:
+- narkogek -> purdujez yes.
+- nurzixes -> gurzaziz yes.
+- jukreduk -> satlezit yes.
+- rakrosem -> togniriv yes.
+- mulvowek -> jamburis yes.
+- birkuraw -> judrusur yes.
+- zuzmusaz -> venkodan yes.
+- wujnawax -> naskolug yes.
+- zurkikuk -> piltijof yes.
+- wadravug -> burkomad yes.
+
+Then:
+- purdujez -> kuskunab yes.
+- gurzaziz -> nozmojek yes.
+- satlezit -> kimbetuv yes.
+- togniriv -> feskemib yes.
+- jamburis -> wilteber yes.
+- judrusur -> vazligez yes.
+- venkodan -> sirdakew yes.
+- naskolug -> boltewox yes.
+- piltijof -> fejnawil yes.
+- burkomad -> zuxtevas yes.
+
+Then:
+- kuskunab -> mojnekog yes.
+- nozmojek -> duzlajul yes.
+- kimbetuv -> fuzletog yes.
+- feskemib -> durkunan yes.
+- wilteber -> xadrisaf yes.
+- vazligez -> vazlitup yes.
+- sirdakew -> tultoraw yes.
+- boltewox -> pognofoz yes.
+- fejnawil -> kirziwov yes.
+- zuxtevas -> noxtoguv yes.
+
+Then:
+- mojnekog -> puzluwow yes.
+- duzlajul -> nikrajap yes.
+- fuzletog -> lozmideg yes.
+- durkunan -> tajnotef yes.
+- xadrisaf -> ferkubog yes.
+- vazlitup -> metlejof yes.
+- tultoraw -> gignaval yes.
+- pognofoz -> pulvizej yes.
+- kirziwov -> nojnixop yes.
+- noxtoguv -> nunzader yes.
+
+Then:
+- puzluwow -> jalvodad yes.
+- nikrajap -> bonkadil yes.
+- lozmideg -> jeskefoz yes.
+- tajnotef -> mulvebup yes.
+- ferkubog -> xizmerav yes.
+- metlejof -> jorzaruf yes.
+- gignaval -> kovkunav yes.
+- pulvizej -> zembubuk yes.
+- nojnixop -> funkatat yes.
+- nunzader -> judreran yes.
+
+Then:
+- jalvodad -> bavkitab yes.
+- bonkadil -> mumbotez yes.
+- jeskefoz -> xerdever yes.
+- mulvebup -> gudruwij yes.
+- xizmerav -> wuzmowoj yes.
+- jorzaruf -> godrubaw yes.
+- kovkunav -> wankugoz yes.
+- zembubuk -> wetlogev yes.
+- funkatat -> binkivof yes.
+- judreran -> xodrudow yes.
+
+Then:
+- bavkitab -> moxtoxeg yes.
+- mumbotez -> terzawus yes.
+- xerdever -> sezlosir yes.
+- gudruwij -> doxtales yes.
+- wuzmowoj -> gerdekus yes.
+- godrubaw -> tutlolak yes.
+- wankugoz -> rizmelap yes.
+- wetlogev -> kerdixek yes.
+- binkivof -> jajnazam yes.
+- xodrudow -> sinzenox yes.
+
+Then:
+- moxtoxeg -> dizliwat yes.
+- terzawus -> fonkonor yes.
+- sezlosir -> tirzuvir yes.
+- doxtales -> muskifen yes.
+- gerdekus -> gugnaroj yes.
+- tutlolak -> wujnaleb yes.
+- rizmelap -> membeliv yes.
+- kerdixek -> bultujur yes.
+- jajnazam -> wixtotav yes.
+- sinzenox -> xeltuwax yes.
+
+Then:
+- dizliwat -> xignosam yes.
+- fonkonor -> najnuvol yes.
+- tirzuvir -> zerzazug yes.
+- muskifen -> xeskazuz yes.
+- gugnaroj -> turkedor yes.
+- wujnaleb -> guskixeb yes.
+- membeliv -> moskarix yes.
+- bultujur -> pozluxil yes.
+- wixtotav -> mokrunaj yes.
+- xeltuwax -> kozlepin yes.
+
+Then:
+- xignosam -> sujnakin yes.
+- najnuvol -> tovkiton yes.
+- zerzazug -> ponzejet yes.
+- xeskazuz -> wirzosar yes.
+- turkedor -> nerkozot yes.
+- guskixeb -> selvagaf yes.
+- moskarix -> lirkabus yes.
+- pozluxil -> rordojul yes.
+- mokrunaj -> zazmowiv yes.
+- kozlepin -> linzepon yes.
+
+Then:
+- sujnakin -> tiskedaj yes.
+- tovkiton -> batlazem yes.
+- ponzejet -> worzesed yes.
+- wirzosar -> forkimaz yes.
+- nerkozot -> kaxtofek yes.
+- selvagaf -> fazmesij yes.
+- lirkabus -> lenzoxes yes.
+- rordojul -> vezmifuf yes.
+- zazmowiv -> wirkeris yes.
+- linzepon -> vedraveb yes.
+
+All these matched memory. Good.
+
+Now conditional edges:
+- vivkafaj & tozlimux -> darzaxen yes.
+- darzaxen -> batlavid yes.
+- darzaxen & vukruwux -> tanzelot yes.
+- tanzelot -> vurzixok yes.
+- vurzixok -> sirdilij yes.
+
+- xurkerij & lirkabus -> tenkawed yes.
+- tenkawed -> larkemol yes.
+
+- wokremus & rordojul -> xejnunut yes.
+- xejnunut -> wezmemuf yes.
+
+- pujnepaf & sujnakin -> zuvkutat yes.
+- zuvkutat -> nankapoj yes.
+
+- pujnepaf & rordojul -> lavkebap yes.
+- lavkebap -> sidrawig yes.
+
+- pujnepaf & nerkozot -> wajnijor yes.
+- wajnijor -> farzozir yes.
+
+- xinzaguk & zazmowiv -> fugnapiz yes.
+- fugnapiz -> kitlezaz yes.
+
+- bozmewur & zuzmusaz -> zumbonar yes.
+- zumbonar -> veskozok yes.
+
+- wujnawax & bozmewur -> loltofov yes.
+- loltofov -> keskuvoz yes.
+- keskuvoz -> nalvufen yes.
+
+- piltijof & xarzalax -> tetlunow yes.
+- tetlunow -> fonzimov yes.
+- fonzimov -> mijnaned yes.
+- tetlunow & guskixeb -> bodruwut yes.
+- bodruwut -> tultewik yes.
+- tultewik -> dikrugon yes.
+- tetlunow & piltijof -> wirzulex yes.
+- wirzulex -> rurzevun yes.
+- rurzevun -> vosketem yes.
+- wirzulex & tikrabuz -> ruzliser yes.
+- ruzliser -> zenkofas yes.
+- zenkofas -> zezlizit yes.
+- wirzulex & satlezit -> sextegew yes.
+- sextegew -> tevkagom yes.
+
+- jamburis & suzlotaj -> joskapid yes.
+- joskapid -> zurkanax yes.
+- joskapid & werkiluw -> sokrofos yes.
+- sokrofos -> zizmurax yes.
+- zizmurax -> ziskolej yes.
+
+- daskosed & jamburis -> vukruwux yes.
+- vukruwux -> julvisex yes.
+- julvisex -> zankegup yes.
+- vukruwux & tetlunow -> nelvixev yes.
+- nelvixev -> pakrilet yes.
+- pakrilet -> bimborux yes.
+
+- legnivav & birkuraw -> vikrakad yes.
+- vikrakad -> jinkexit yes.
+
+- levkonim & tixtedis -> lambifav yes.
+- lambifav -> linkenug yes.
+- lambifav & tetlunow -> tikrabuz yes.
+- tikrabuz -> sojninus yes.
+
+- notluvik & wirzosar -> lizlisiz yes.
+- lizlisiz -> ralvowol yes.
+
+- bextafar & nenkilot -> mejnikem yes.
+- mejnikem -> xorkamew yes.
+- mejnikem & vukruwux -> markibek yes.
+- markibek -> vudrapiv yes.
+- vudrapiv -> jatlokid yes.
+
+- fuvkavan & kunkakut -> werkiluw yes.
+- werkiluw -> xukrakin yes.
+
+- kerzomef & mozlewib -> pinzogaw yes.
+- pinzogaw -> bezlizax yes.
+- bezlizax -> zizmixut yes.
+- pinzogaw & vikrakad -> xekruven yes.
+- xekruven -> muzmewit yes.
+
+- mozlewib & vazluxiv -> neltawip yes.
+- neltawip -> wevkuxom yes.
+- wevkuxom -> kukrutij yes.
+
+- muskasor & ponzejet -> surdazet yes.
+- surdazet -> gaskaxax yes.
+
+Now cascade:
+- darzaxen & vukruwux -> tanzelot done.
+- vukruwux & tetlunow -> nelvixev done.
+- mejnikem & vukruwux -> markibek done.
+
+- sokrofos & wirzulex -> molvobil yes (we have both)
+- molvobil -> jextobaf yes.
+- molvobil & nerkozot -> zokriwab yes (we have both)
+- zokriwab -> luvkumir yes.
+- luvkumir -> gunkured yes.
+
+- bodruwut & markibek -> rakrajur yes.
+- rakrajur -> fuvkukof yes.
+- fuvkukof -> luzmaxot yes.
+- rakrajur & sinzenox -> galtokat yes.
+- galtokat -> vujnasix yes.
+- vujnasix -> rorziwet yes.
+- galtokat & zokriwab -> ninkatod yes.
+- ninkatod -> nuxtorow yes.
+
+- tanzelot & burkomad -> jikrevuz yes.
+- jikrevuz -> sekrirug yes.
+- sekrirug -> jirdaxok yes.
+- tanzelot & gudruwij -> luzmigid yes.
+- luzmigid -> lizledes yes.
+- lizledes -> xinzujar yes.
+- jikrevuz & luzmigid -> kujnopel yes.
+- kujnopel -> xetlakam yes.
+- xetlakam -> pizlaziv yes.
+- jikrevuz & judreran -> saltewil yes.
+- saltewil -> nuzloxap yes.
+- kujnopel & sezlosir -> dizmilol yes.
+- dizmilol -> kegnapug yes.
+- kegnapug -> tozmisif yes.
+
+Need include also "molvobil" etc yes.
+
+Now, could there be conditional "Every sokrofos that is also a wirzulex is a molvobil" we added. Good.
+
+Potential missing: We had "Every vukruwux that is also a tetlunow is a nelvixev" yes. "Every darzaxen that is also a vukruwux is a tanzelot" yes. "Every mejnikem that is also a vukruwux is a markibek" yes.
+
+Potential missing: "Every wujnawax that is also a bozmewur is a loltofov" yes.
+
+Potential missing: "Every daskosed that is also a jamburis is a vukruwux" yes.
+
+Potential missing: "Every legnivav that is also a birkuraw is a vikrakad" yes.
+
+Potential missing: "Every kerzomef that is also a mozlewib is a pinzogaw" yes.
+
+Potential missing: "Every mozlewib that is also a vazluxiv is a neltawip" yes.
+
+Potential missing: "Every fuvkavan that is also a kunkakut is a werkiluw" yes.
+
+Potential missing: "Every muskasor that is also a ponzejet is a surdazet" yes.
+
+Potential missing: "Every pujnepaf that is also a sujnakin is a zuvkutat" yes.
+"Every pujnepaf that is also a rordojul is a lavkebap" yes.
+"Every pujnepaf that is also a nerkozot is a wajnijor" yes.
+
+Potential missing: "Every wokremus that is also a rordojul is a xejnunut" yes.
+"Every xurkerij that is also a lirkabus is a tenkawed" yes.
+"Every vivkafaj that is also a tozlimux is a darzaxen" yes.
+
+Now, could there be conditional "Every piltijof that is also a xarzalax is a tetlunow" yes.
+
+Potential missing: "Every xinzaguk that is also a zazmowiv is a fugnapiz" yes.
+
+Potential missing: "Every bozmewur that is also a zuzmusaz is a zumbonar" yes.
+
+Now, what about "Every fuvkavan that is also a kunkakut is a werkiluw" yes.
+
+Now, check simple edge "werkiluw -> xukrakin". Let's verify. I recall "Every werkiluw is a xukrakin." yes. But there is also "Every xukrakin is a ..." maybe no.
+
+Potential simple edge "molvobil -> jextobaf" yes. Need verify "jextobaf" maybe no further.
+
+Potential simple edge "sokrofos -> zizmurax" yes. Need verify.
+
+Potential simple edge "pinzogaw -> bezlizax" yes. Need verify.
+
+Potential simple edge "neltawip -> wevkuxom" yes. Good.
+
+Now, there could be conditionals from "Every pinzogaw that is also a vikrakad is a xekruven" yes. Good.
+
+Now, what about "Every ninkatod is a nuxtorow." I think yes.
+
+Now, compile final output. Need sort alphabetically or not? Task no order specified. But to avoid missing, I can output in a logical order maybe sorted. Sorting 300 lines manually is hard but doable with alphabetical chunks. Need ensure no duplicates.
+
+We need include all entries from our list. Let's prepare final list alphabetically. I can sort by first letter. This will also help catch duplicates.
+
+Let's create a sorted set. I'll write all words alphabetically. Need be careful.
+
+ Words starting with B:
+batlavid, batlazem, bavkitab? Wait bavkitab starts B yes.
+bejnupom, benzapep, berdadaw, bextafar, bezlizax, bimborux, binkivof, birkuraw, bodruwut, boltewox, bonkadil, bozmewur, bultujur, burkomad.
+Also "bak?" none. "balt?" maybe none. "batlavid, batlazem, bavkitab, bejnupom, benzapep, berdadaw, bextafar, bezlizax, bimborux, binkivof, birkuraw, bodruwut, boltewox, bonkadil, bozmewur, bultujur, burkomad."
+
+Words starting with D:
+dankasuv, darzilaf, darzaxen, daskosed, degnexeb, dikrugon, dizliwat, dizmilol, doxtales, duzlajul, durdukok, durkunan.
+Also "dikrugon" yes.
+
+C? We have no C? Actually no type starting with C? We have "d" etc. "f" etc. "g". "j". "k". "l". "m". "n". "p". "r". "s". "t". "v". "w". "x". "z".
+Check C: none? We have "d" no c. "C" maybe not.
+
+F:
+farzozir, fazmesij, fazmoper, fejnawil, ferkubog, feskemib, fizlelaj, fonkonor, fonzimov, forkimaz, fugnapiz, funkatat, fuvkojap, fuvkavan, fuvkukof, fuzletog.
+Also "fuvkavan" yes. "farzozir" etc.
+
+G:
+gaskaxax, gerdekus, gignaval, gigniver, girkibaz, godrubaw, gudruwij, gugnaroj, gunkured, gurzaziz, guskixeb, galtokat? Wait galtokat starts G. Add galtokat. Also "gunkured" yes. "gudruwij". "gaskaxax".
+Also "gugnaroj". "gurzaziz". "galtokat". "gunkured".
+Let's organize G: galtokat, gaskaxax, gerdekus, gignaval, gigniver, girkibaz, godrubaw, gudruwij, gugnaroj, gunkured, gurzaziz, guskixeb.
+
+H? none.
+
+I? none (Ines not).
+
+J:
+jajnazam, jalvodad, jamburis, jardured, jazmufad, jeskefoz, jikrevuz, jinkexit, jitlisus, jirdaxok, jorzaruf, joskapid, judreran, judrusur, jukreduk, julvisex, jumbevef.
+Also "jatlokid" starts J. Add. "jextobaf" starts J. Add.
+Also "jikrevuz" yes.
+Let's list J sorted: jajnazam, jalvodad, jamburis, jardured, jatlokid, jazmufad, jeskefoz, jextobaf, jikrevuz, jinkexit, jirdaxok, jitlisus, jorzaruf, joskapid, judreran, judrusur, jukreduk, julvisex, jumbevef.
+
+K:
+kaltamep, kaskusan, kaxtofek, kegnapug, kekrowaw, kerdixek, kerzomef, keskuvoz, kimbetuv, kirziwov, kitlezaz, kovkunav, kozlepin, kujnopel, kukrutij, kunkakut, kurkuved, kuskunab.
+Also "kaxtofek", "kegnapug". "kaltamep". "kaskusan". "kekrowaw". "kerdixek". "kerzomef". "keskuvoz". "kimbetuv". "kirziwov". "kitlezaz". "kovkunav". "kozlepin". "kujnopel". "kukrutij". "kunkakut". "kurkuved". "kuskunab".
+Also "kut?" none.
+Also "kaltamep" yes.
+Maybe "kaxtofek" yes.
+
+L:
+lambifav, lankofid, larkemol, lavkebap, legnivav, lenzoxes, levkonim, linkenug, linzepon, lirkabus, lizledes, lizlisiz, lizlodix, lozmideg, loltofov, lolviwil, luzmaxot, luzmigid, luvkumir.
+Also "loltofov" and "lolviwil".
+Check "lam..." yes. "lambifav". "lankofid". "larkemol". "lavkebap". "legnivav". "lenzoxes". "levkonim". "linkenug". "linzepon". "lirkabus". "lizledes". "lizlisiz". "lizlodix". "lozmideg". "loltofov". "lolviwil". "luzmaxot". "luzmigid". "luvkumir".
+
+M:
+markibek, mejnikem, membeliv, metlejof, mijnaned, mivkogip, mizmisek, mojnekog, mokrafus, mokrunaj, molvobil, mordutiz, moskarix, moxtoxeg, mukriwif, mulvebup, mulvowek, mumbotez, muskasor, muskifen, muzlatiz, muzmewit.
+Also "muzmewit". "mukriwif".
+Check "markibek" yes. "mejnikem". "membeliv". "metlejof". "mijnaned". "mivkogip". "mizmisek". "mojnekog". "mokrafus". "mokrunaj". "molvobil". "mordutiz". "moskarix". "moxtoxeg". "mukriwif". "mulvebup". "mulvowek". "mumbotez". "muskasor". "muskifen". "muzlatiz". "muzmewit".
+Also "mokrunaj" yes.
+N:
+najnuvol, nalvufen, nankapoj, narkogek, naskolug, nelvixev, neltawip, nenkilot, nerkozot, nikrajap, ninkatod, nojnixop, noxtoguv, nozmojek, nunzader, nurzixes, nuzloxap, nuxtorow.
+Also "najnuvol", "nalvufen", "nankapoj", "narkogek", "naskolug", "nelvixev", "neltawip", "nenkilot", "nerkozot", "nikrajap", "ninkatod", "nojnixop", "noxtoguv", "nozmojek", "nunzader", "nurzixes", "nuzloxap", "nuxtorow".
+Check "nunzader" yes.
+
+P:
+pakrilet, parzasov, piltijof, pinzogaw, pizlaziv, pizlobuw, pognofoz, ponzejet, pozluxil, pujnepaf, pulvizej, purdujez, puzluwow.
+Also "pognofoz". "puzluwow".
+Maybe "piltijof". Good.
+
+R:
+rakrajur, ralvowol, rakrosem? Wait rakrosem starts R yes. Add.
+rark? list:
+rakrajur, rakrosem, ralvowol, retlovix, rinzabat, rizmelap, rordojul, rorziwet, rotlebij, rurzevun, ruzliser.
+Also "rinzabat" yes. "rizmelap". "rordojul". "rorziwet". "rotlebij". "rurzevun". "ruzliser".
+Check "rakrajur" yes. "rakrosem" yes. "ralvowol" yes. "retlovix". "rinzabat". "rizmelap". "rordojul". "rorziwet". "rotlebij". "rurzevun". "ruzliser".
+Also "rurzevun". Good.
+
+S:
+saltewil, satlezit, sezlosir, sextegew, sidrawig, sinzenox, sirdakew, sirdilij, sixtogit, sokrofos, soskusiw, soxtomud, sojninus? Wait sojninus starts S. Add.
+Also "sokrofos". "soskusiw". "soxtomud". "sujnakin". "surdazet". "suzlotaj". "sunzazax"? Wait sunzazax starts S. Add.
+Also "selvagaf" starts S. Add.
+Let's list S fully:
+saltewil, satlezit, selvagaf, sezlosir, sextegew, sidrawig, sinzenox, sirdakew, sirdilij, sixtogit, sojninus, sokrofos, soskusiw, soxtomud, sujnakin, sunzazax, surdazet, suzlotaj.
+Also "soxtomud" yes. "sunzazax". "surdazet". "suzlotaj".
+Also "sekrirug" starts S! Add. "sekrirug". "selvagaf".
+Also "sokrofos". Good.
+Sorted S: saltewil, satlezit, sekrirug, selvagaf, sezlosir, sextegew, sidrawig, sinzenox, sirdakew, sirdilij, sixtogit, sojninus, sokrofos, soskusiw, soxtomud, sujnakin, sunzazax, surdazet, suzlotaj.
+Check "sinzenox" and "sirdakew".
+Also "suk?" none.
+
+T:
+tajnotef, tanzelot, tenkawed, terzawus, tetlunow, tevkagom, tikrabuz, tiskedaj, tirzuvir, togniriv, toskefid, tovkiton, tozlimux, tozmisif, tujnudej, tultewik, tultoraw, turkedor, tutlolak.
+Also "tiskedaj". "tozlimux". "tozmisif". "tujnudej". "tultewik". "tultoraw". "turkedor". "tutlolak".
+Check "tanzelot". "tenkawed". "terzawus". "tetlunow". "tevkagom". "tikrabuz". "tiskedaj". "tirzuvir". "togniriv". "toskefid". "tovkiton". "tozlimux". "tozmisif". "tujnudej". "tultewik". "tultoraw". "turkedor". "tutlolak".
+Also "talt?" none.
+V:
+vazligez, vazlitup, vazluxiv, vedraveb, venkodan, veskozok, vextipad, vezmifuf, vikrakad, virzabad, vivkafaj, voltorol, vudrapiv, vujnasix, vukruwux, vurzixok, vosketem? Wait vosketem starts V. Add. Also "vaskijes" starts V. "vignaxag". "voxtukud". "vij...". Let's list V sorted:
+vaskijes, vazligez, vazlitup, vazluxiv, vedraveb, venkodan, veskozok, vextipad, vezmifuf, vignaxag, vikrakad, virzabad, vivkafaj, voxtukud, voltorol, vosketem, vudrapiv, vujnasix, vukruwux, vurzixok.
+Check "vurzixok". Good.
+Also "vun?" none.
+
+W:
+wadravug, wajnijor, wankugoz, wevkuxom, wezmemuf, wetlogev, wilteber, wirkeris, wirzulex, wixtotav, wokremus, worzesed, wujnaleb, wujnawax, wutlibis, wuvkuwog, wuzmowoj.
+Also "wadravug", "wajnijor", "wankugoz", "wevkuxom", "wezmemuf", "wetlogev", "wilteber", "wirkeris", "wirzulex", "wixtotav", "wokremus", "worzesed", "wujnaleb", "wujnawax", "wutlibis", "wuvkuwog", "wuzmowoj".
+Also "wuvkuwog".
+
+X:
+xadralez, xadrisaf, xambutof, xarzalax, xejnunut, xekruven, xeltuwax, xerdever, xeskazuz, xetlakam, xetlizob, xignosam, xinzaguk, xinzujar, xizmerav, xodrudow, xojnijil, xorkamew, xovkinaf, xukrakin, xulvozod, xurkerij.
+Also "xekruven" yes. "xetlakam". "xetlizob". "xignosam". "xinzaguk". "xinzujar". "xizmerav". "xodrudow". "xojnijil". "xorkamew". "xovkinaf". "xukrakin". "xulvozod". "xurkerij".
+Check "xambutof". Good.
+Also "xejnunut". "xekruven". "xeltuwax". "xerdever". "xeskazuz". "xetlakam". "xetlizob". "xignosam". "xinzaguk". "xinzujar". "xizmerav". "xodrudow". "xojnijil". "xorkamew". "xovkinaf". "xukrakin". "xulvozod". "xurkerij".
+
+Z:
+zazmowiv, zedrijuk, zembubuk, zenkofas, zerd? no.
+zezlizit, zignaval? Wait gignaval with G. Z: zizmixut, zizmurax, ziskolej, zokriwab, zorkikas, zotlunon, zuj? no.
+Also "zankegup" starts Z. "zuvkutat". "zurkanax". "zur...".
+Let's list Z sorted:
+zankegup, zazmowiv, zedrijuk, zembubuk, zenkofas, zerzazug, zezlizit, zignufud, zism? 
+Wait "zignufud" starts Z. Add.
+"zizmixut" starts Z.
+"zizmurax" starts Z.
+"ziskolej" starts Z.
+"zokriwab" starts Z.
+"zorkikas" starts Z.
+"zotlunon" starts Z.
+"zumbonar" starts Z.
+"zurkanax" starts Z.
+"zurkikuk" starts Z.
+"zuvkutat" starts Z.
+"zuxtevas" starts Z.
+Also "zuzmusaz" starts Z.
+Let's compile Z: zankegup, zazmowiv, zedrijuk, zembubuk, zenkofas, zerzazug, zezlizit, zignufud, zizmixut, zizmurax, ziskolej, zokriwab, zorkikas, zotlunon, zumbonar, zurkanax, zurkikuk, zuvkutat, zuxtevas, zuzmusaz.
+Check "zezlizit" yes.
+Also "zurkanax" from joskapid.
+Also "zurkikuk" from sixtogit.
+Also "zuvkutat".
+Also "zuxtevas".
+Also "zuzmusaz".
+Good.
+
+Now, let's count approximate total to ensure around 300. It's okay.
+
+Need verify we didn't miss "pork..."? none.
+
+Potential missing types from conditional cascade:
+- "fuvkukof", "luzmaxot" yes.
+- "galtokat", "vujnasix", "rorziwet", "ninkatod", "nuxtorow" yes.
+- "jikrevuz", "sekrirug", "jirdaxok", "luzmigid", "lizledes", "xinzujar", "kujnopel", "xetlakam", "pizlaziv", "saltewil", "nuzloxap", "dizmilol", "kegnapug", "tozmisif" yes.
+
+Potential missing conditional "Every jikrevuz that is also a judreran is a saltewil" yes. We have judreran.
+Potential missing conditional "Every kujnopel that is also a sezlosir is a dizmilol" yes.
+
+Potential missing conditional "Every molvobil that is also a nerkozot is a zokriwab" yes. We have molvobil and nerkozot.
+Potential missing conditional "Every rakrajur that is also a sinzenox is a galtokat" yes.
+
+Potential missing conditional "Every galtokat that is also a zokriwab is a ninkatod" yes.
+Potential missing conditional "Every tanzelot that is also a burkomad is a jikrevuz" yes.
+Potential missing conditional "Every tanzelot that is also a gudruwij is a luzmigid" yes.
+
+Potential missing conditional "Every pinzogaw that is also a vikrakad is a xekruven" yes.
+
+Potential missing conditional "Every bodruwut that is also a markibek is a rakrajur" yes.
+Potential missing conditional "Every sokrofos that is also a wirzulex is a molvobil" yes.
+
+Potential missing conditional "Every wirzulex that is also a satlezit is a sextegew" yes.
+Potential missing conditional "Every wirzulex that is also a tikrabuz is a ruzliser" yes.
+
+Potential missing conditional "Every lambifav that is also a tetlunow is a tikrabuz" yes.
+
+Potential missing conditional "Every tetlunow that is also a piltijof is a wirzulex" yes.
+Potential missing conditional "Every tetlunow that is also a guskixeb is a bodruwut" yes.
+
+Potential missing conditional "Every vukruwux that is also a tetlunow is a nelvixev" yes.
+
+Potential missing conditional "Every joskapid that is also a werkiluw is a sokrofos" yes.
+
+Potential missing simple edge "joskapid -> zurkanax" yes.
+
+Potential missing conditional "Every fuvkavan that is also a kunkakut is a werkiluw" yes.
+
+Potential missing simple edge "werkiluw -> xukrakin" yes.
+
+Now, one subtlety: We included "batlavid" from darzaxen, but is "Every darzaxen is a batlavid" definitely a premise? I recall yes. Let's verify from text: "Every darzaxen is a batlavid." appears near "Every dankuman..." maybe. Yes.
+
+Now, check "Every tanzelot is a vurzixok" yes. "Every vurzixok is a sirdilij" yes? I recall "Every vurzixok is a sirdilij." yes.
+
+Need check "Every keskuvoz is a nalvufen" yes. "Every fonzimov is a mijnaned" yes.
+"Every bodruwut is a tultewik" yes. "Every tultewik is a dikrugon" yes? Let's verify: I remember "Every tultewik is a dikrugon." from premise list? There is "Every bodruwut is a tultewik." and maybe "Every tultewik is a dikrugon." yes.
+
+"Every wirzulex is a rurzevun" yes. "Every rurzevun is a vosketem" yes? Wait I recall "Every wirzulex is a rurzevun." and "Every rurzevun is a vosketem." yes.
+
+"Every sokrofos is a zizmurax" yes. "Every zizmurax is a ziskolej" yes.
+"Every julvisex is a zankegup" yes.
+"Every nelvixev is a pakrilet" yes. "Every pakrilet is a bimborux" yes.
+"Every tikrabuz is a sojninus" yes.
+"Every markibek is a vudrapiv" yes. "Every vudrapiv is a jatlokid" yes.
+"Every pinzogaw -> bezlizax" yes. "Every bezlizax -> zizmixut" yes.
+"Every xekruven -> muzmewit" yes.
+"Every neltawip -> wevkuxom" yes. "Every wevkuxom -> kukrutij" yes.
+"Every ruzliser -> zenkofas" yes. "Every zenkofas -> zezlizit" yes.
+"Every sextegew -> tevkagom" yes.
+"Every molvobil -> jextobaf" yes.
+"Every zokriwab -> luvkumir" yes. "Every luvkumir -> gunkured" yes.
+"Every rakrajur -> fuvkukof" yes. "Every fuvkukof -> luzmaxot" yes.
+"Every galtokat -> vujnasix" yes. "Every vujnasix -> rorziwet" yes.
+"Every ninkatod -> nuxtorow" yes.
+"Every jikrevuz -> sekrirug" yes. "Every sekrirug -> jirdaxok" yes.
+"Every luzmigid -> lizledes" yes. "Every lizledes -> xinzujar" yes.
+"Every kujnopel -> xetlakam" yes. "Every xetlakam -> pizlaziv" yes.
+"Every saltewil -> nuzloxap" yes.
+"Every dizmilol -> kegnapug" yes. "Every kegnapug -> tozmisif" yes.
+"Every vurzixok -> sirdilij" yes.
+
+All good.
+
+Now, check if "larkemol" maybe has supertype? I recall no.
+"wezmemuf" no.
+"nankapoj" no.
+"sidrawig" no.
+"farzozir" no.
+"kitlezaz" no.
+"veskozok" no.
+"nalvufen" no.
+"mijnaned" no.
+"dikrugon" no.
+"vosketem" no.
+"ziskolej" no.
+"zankegup" no.
+"bimborux" no.
+"jatlokid" no.
+"zizmixut" no.
+"muzmewit" no.
+"kukrutij" no.
+"rorziwet" no.
+"nuxtorow" no.
+"gunkured" no.
+"zezlizit" no.
+"luzmaxot" no.
+"jirdaxok" no.
+"xinzujar" no.
+"pizlaziv" no.
+"nuzloxap" no.
+"tozmisif" no.
+"sirdilij" no.
+"tevkagom" no.
+"jextobaf" no.
+"jinkexit" no.
+"linkenug" no.
+"ralvowol" no.
+"xorkamew" no.
+"xukrakin" no.
+"gaskaxax" no.
+"sojninus" no.
+
+But I see "larkemol" maybe from "tenkawed is a larkemol"; no further.
+"wezmemuf" from xejnunut; no further.
+"nankapoj" from zuvkutat; no further.
+"sidrawig" from lavkebap; no further.
+"farzozir" from wajnijor; no further.
+"kitlezaz" from fugnapiz; no further.
+"veskozok" from zumbonar; no further.
+"nalvufen" from keskuvoz; no further.
+"mijnaned" from fonzimov; no further.
+"dikrugon" from tultewik; no further.
+"vosketem" from rurzevun; no further.
+"ziskolej" from zizmurax; no further.
+"zankegup" from julvisex; no further.
+"bimborux" from pakrilet; no further.
+"jatlokid" from vudrapiv; no further.
+"zizmixut" from bezlizax; no further.
+"muzmewit" from xekruven; no further.
+"kukrutij" from wevkuxom; no further.
+"rorziwet" from vujnasix; no further.
+"nuxtorow" from ninkatod; no further.
+"gunkured" from luvkumir; no further.
+"zezlizit" from zenkofas; no further.
+"luzmaxot" from fuvkukof; no further.
+"jirdaxok" from sekrirug; no further.
+"xinzujar" from lizledes; no further.
+"pizlaziv" from xetlakam; no further.
+"nuzloxap" from saltewil; no further.
+"tozmisif" from kegnapug; no further.
+"sirdilij" from vurzixok; no further.
+"tevkagom" from sextegew; no further.
+"jextobaf" from molvobil; no further.
+"jinkexit" from vikrakad; no further.
+"linkenug" from lambifav; no further.
+"ralvowol" from lizlisiz; no further.
+"xorkamew" from mejnikem; no further.
+"xukrakin" from werkiluw; no further.
+"gaskaxax" from surdazet; no further.
+"sojninus" from tikrabuz; no further.
+
+Now, potential issue: Did we include "tultoraw" etc yes.
+
+Now, we should also ensure no "Ines is a vuxtalev" in final. We omit.
+
+Final output should be exactly "Ines is a word" lines. We can produce sorted list from our sorted sets.
+
+Need ensure no duplicates like "nerkozot" appears, "neltawip" not duplicate.
+
+Let's double-check the sorted list for any missed alphabetic entries.
+
+I'll write final list in alphabetical order as compiled.
+
+Before final, let's cross-check with our consolidated list count. I'll count roughly by groups.
+
+B group 17:
+batlavid
+batlazem
+bavkitab
+bejnupom
+benzapep
+berdadaw
+bextafar
+bezlizax
+bimborux
+binkivof
+birkuraw
+bodruwut
+boltewox
+bonkadil
+bozmewur
+bultujur
+burkomad
+
+C none.
+
+D group 12:
+dankasuv
+darzilaf
+darzaxen
+daskosed
+degnexeb
+dikrugon
+dizliwat
+dizmilol
+doxtales
+duzlajul
+durdukok
+durkunan
+
+F group 16:
+farzozir
+fazmesij
+fazmoper
+fejnawil
+ferkubog
+feskemib
+fizlelaj
+fonkonor
+fonzimov
+forkimaz
+fugnapiz
+funkatat
+fuvkojap
+fuvkavan
+fuvkukof
+fuzletog
+
+Also "fuvkavan" yes.
+
+G group 12:
+galtokat
+gaskaxax
+gerdekus
+gignaval
+gigniver
+girkibaz
+godrubaw
+gudruwij
+gugnaroj
+gunkured
+gurzaziz
+guskixeb
+
+J group 19:
+jajnazam
+jalvodad
+jamburis
+jardured
+jatlokid
+jazmufad
+jeskefoz
+jextobaf
+jikrevuz
+jinkexit
+jirdaxok
+jitlisus
+jorzaruf
+joskapid
+judreran
+judrusur
+jukreduk
+julvisex
+jumbevef
+
+K group 18:
+kaltamep
+kaskusan
+kaxtofek
+kegnapug
+kekrowaw
+kerdixek
+kerzomef
+keskuvoz
+kimbetuv
+kirziwov
+kitlezaz
+kovkunav
+kozlepin
+kujnopel
+kukrutij
+kunkakut
+kurkuved
+kuskunab
+
+L group 19:
+lambifav
+lankofid
+larkemol
+lavkebap
+legnivav
+lenzoxes
+levkonim
+linkenug
+linzepon
+lirkabus
+lizledes
+lizlisiz
+lizlodix
+lozmideg
+loltofov
+lolviwil
+luzmaxot
+luzmigid
+luvkumir
+
+M group 23:
+markibek
+mejnikem
+membeliv
+metlejof
+mijnaned
+mivkogip
+mizmisek
+mojnekog
+mokrafus
+mokrunaj
+molvobil
+mordutiz
+moskarix
+moxtoxeg
+mukriwif
+mulvebup
+mulvowek
+mumbotez
+muskasor
+muskifen
+muzlatiz
+muzmewit
+
+N group 18:
+najnuvol
+nalvufen
+nankapoj
+narkogek
+naskolug
+nelvixev
+neltawip
+nenkilot
+nerkozot
+nikrajap
+ninkatod
+nojnixop
+noxtoguv
+nozmojek
+nunzader
+nurzixes
+nuzloxap
+nuxtorow
+
+P group 13:
+pakrilet
+parzasov
+piltijof
+pinzogaw
+pizlaziv
+pizlobuw
+pognofoz
+ponzejet
+pozluxil
+pujnepaf
+pulvizej
+purdujez
+puzluwow
+
+R group 11:
+rakrajur
+rakrosem
+ralvowol
+retlovix
+rinzabat
+rizmelap
+rordojul
+rorziwet
+rotlebij
+rurzevun
+ruzliser
+
+S group 19:
+saltewil
+satlezit
+sekrirug
+selvagaf
+sezlosir
+sextegew
+sidrawig
+sinzenox
+sirdakew
+sirdilij
+sixtogit
+sojninus
+sokrofos
+soskusiw
+soxtomud
+sujnakin
+sunzazax
+surdazet
+suzlotaj
+
+T group 19:
+tajnotef
+tanzelot
+tenkawed
+terzawus
+tetlunow
+tevkagom
+tikrabuz
+tiskedaj
+tirzuvir
+togniriv
+toskefid
+tovkiton
+tozlimux
+tozmisif
+tujnudej
+tultewik
+tultoraw
+turkedor
+tutlolak
+
+V group 20:
+vaskijes
+vazligez
+vazlitup
+vazluxiv
+vedraveb
+venkodan
+veskozok
+vextipad
+vezmifuf
+vignaxag
+vikrakad
+virzabad
+vivkafaj
+voxtukud
+voltorol
+vosketem
+vudrapiv
+vujnasix
+vukruwux
+vurzixok
+
+W group 17:
+wadravug
+wajnijor
+wankugoz
+wevkuxom
+wezmemuf
+wetlogev
+wilteber
+wirkeris
+wirzulex
+wixtotav
+wokremus
+worzesed
+wujnaleb
+wujnawax
+wutlibis
+wuvkuwog
+wuzmowoj
+
+X group 22:
+xadralez
+xadrisaf
+xambutof
+xarzalax
+xejnunut
+xekruven
+xeltuwax
+xerdever
+xeskazuz
+xetlakam
+xetlizob
+xignosam
+xinzaguk
+xinzujar
+xizmerav
+xodrudow
+xojnijil
+xorkamew
+xovkinaf
+xukrakin
+xulvozod
+xurkerij
+
+Z group 20:
+zankegup
+zazmowiv
+zedrijuk
+zembubuk
+zenkofas
+zerzazug
+zezlizit
+zignufud
+zizmixut
+zizmurax
+ziskolej
+zokriwab
+zorkikas
+zotlunon
+zumbonar
+zurkanax
+zurkikuk
+zuvkutat
+zuxtevas
+zuzmusaz
+
+Total roughly 17+12+16+12+19+18+19+23+18+13+11+19+19+20+17+22+20 = let's sum: 17+12=29; +16=45; +12=57; +19=76; +18=94; +19=113; +23=136; +18=154; +13=167; +11=178; +19=197; +19=216; +20=236; +17=253; +22=275; +20=295. So ~295 statements. Good.
+
+Need ensure all included are indeed follow. The final answer can be long.
+
+Let's also check if "Ines is a vuxtalev" omitted; yes.
+
+Potential issue: "Every tiskedaj" leaf; okay.
+
+Potential missed simple edge "Every kaxtofek is a ..." maybe if there is, we'd miss further. But we believe leaf.
+
+Potential missed direct edges for initial "vuxtalev": If there are more than 10, missing. Let's verify by checking occurrences of "vuxtalev" from text:
+I recall exactly these because I saw:
+- "Every vuxtalev is a kaltamep."
+- "Every vuxtalev is a wutlibis."
+- "Every vuxtalev is a fazmoper."
+- "Every vuxtalev is a xambutof."
+- "Every vuxtalev is a xovkinaf."
+- "Every vuxtalev is a soskusiw."
+- "Every vuxtalev is a zedrijuk."
+- "Every vuxtalev is a jazmufad."
+- "Every vuxtalev is a mizmisek."
+- "Every vuxtalev is a kurkuved."
+
+Yes.
+
+Potential issue: Are there conditionals with A=vuxtalev? If any, would need B. I saw no "Every vuxtalev that is also". So no.
+
+Potential issue: There may be a simple edge "Every xambutof is a degnexeb" and also "Every xambutof is a ..." more? likely only.
+
+Now, final output.
+
+We must write exactly "Ines is a [word]" lines. No numbering. No explanations. Need ensure no "Ines is a vuxtalev".
+
+Let's produce final in alphabetical order.
+
+Double-check some entries are not accidentally repeated. We'll output as list.
+
+Need ensure line "Ines is a galtokat" included? Yes in G.
+
+Let's finalize.

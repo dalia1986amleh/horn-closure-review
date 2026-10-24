@@ -1,0 +1,687 @@
+instance_id,experiment,condition,seed,entity,other_entity,depth,fan,leaves,joins,blocked_pairs,extra_rules,n_premise_lines,premise_chars,premises,start_fact,num_entailed_facts,n_label_items,n_label_entailed,n_label_non_entailed
+SEEDL4s2,seed_L4_s2,L4,31402,Rex,Nell,20,10,10,43,36,pad_tokens=0,686,23486,"Every xunzenug is a razmijen.
+Every zenzovuf is a kadrijus.
+Every zejnanos is a fordaxal.
+Every mudrezex that is also a lorkunud is a xelvaxew.
+Every liskewel that is also a kuxtenul is a jultilad.
+Every kajnufon that is also a pijnatum is a xejnebep.
+Every viskipin is a gambapuz.
+Every zelviwep is a bultixim.
+Every xeskixen that is also a guskosem is a watluxab.
+Every wojnemam is a rekribiw.
+Every wazlatov is a felvusun.
+Every liskasip is a bonkonip.
+Every xatlujor is a solvovef.
+Every fevkigev is a lonkevep.
+Every buvkinev is a kulvexew.
+Every fezmukol is a xuzmebim.
+Every dunkikij that is also a piltijur is a jarzurin.
+Every purzodov is a murkejep.
+Every xalvonax is a nerzexuj.
+Every fokrudov is a nazladod.
+Every rokrimip is a lextoroj.
+Every xizmizir is a xeskebam.
+Every farkofes is a tilvagol.
+Every zerzofox is a ranzogir.
+Every lultuduk is a nijnekut.
+Every nazladod is a rodrekux.
+Every rolveven that is also a pugnafuk is a kombobiw.
+Every gerziluk is a werdofij.
+Every konzezug is a tizlalul.
+Every ginkowaw is a zaltonix.
+Every pegnegoj is a gerziluk.
+Every nokrufij is a noskilet.
+Every gozmixuv is a vozmasam.
+Every zelvukot is a kuxtenul.
+Every bilvamid is a levkunal.
+Every puskujal is a nelvonit.
+Every genzirok is a nankutol.
+Every borzarar is a fevkosan.
+Every feskusub that is also a bognogux is a pizlebut.
+Every tultekim is a fekrigid.
+Every korkimov is a nerdiwon.
+Every xezlozax is a lavkoniw.
+Every vazmefag is a gukrexex.
+Every nambebuj is a lezmariz.
+Every rolveven that is also a gokrusaj is a borzarar.
+Every nijnekut is a guskosem.
+Every sozlepam that is also a zojnowil is a sunkufor.
+Every nankutol that is also a bozlusap is a zikrikaw.
+Every zolvadar is a bilvevud.
+Every galvusas is a tozmekog.
+Every zordoxew is a valvalij.
+Every luxtesap is a gokrusaj.
+Every pugnizif is a xurkejum.
+Every nakrozax that is also a taltaraz is a gezlewen.
+Every tankivob is a vambarew.
+Every vunkoxoj is a dovkexof.
+Every silvemuf is a vugnebar.
+Every rokrejus is a zezmewex.
+Every sorzogos is a murdukut.
+Every lenzasan is a lavkuvox.
+Every fardupiz is a ponzerub.
+Every ledrezus is a punzikur.
+Every tozmunov that is also a kevkedal is a xurdalis.
+Every vozlaril that is also a lavkoniw is a lenzasan.
+Every tedrevix is a xoltulud.
+Every loxtofiw is a fojnezez.
+Every zambekuw is a bikrozid.
+Every darzolup is a gextavup.
+Every tumbobuz is a bazmemin.
+Every giltetiw is a tojnevon.
+Every juskojos is a rirkinat.
+Every guskosem is a zunzakuj.
+Every zextiwim is a sextisum.
+Every poskiduj that is also a gokrusaj is a buvkinev.
+Every nolvugal is a vokrezuk.
+Every zojnowil is a voskiwap.
+Every najnaxoz is a ketlarol.
+Every xejnebep is a nunzawab.
+Every sujnajum is a baskezej.
+Every xurkejum is a tunkodes.
+Every rotledoz that is also a kurduvit is a binkumal.
+Every tixtumij is a sognefex.
+Every ferkudas is a purzixof.
+Every xankasem is a mirdapuk.
+Every mozlesuj is a fazlojed.
+Every jiskutup is a maskuwil.
+Every verkedel that is also a nultagik is a vazmefag.
+Every fuzlaven is a rizmunag.
+Every vuzlowaw is a verkedel.
+Every zijnegeg is a kuzmibuz.
+Every zankutap is a munzukem.
+Every dunkikij that is also a vambarew is a pudrotux.
+Every felvexaz is a pukrejoz.
+Every farkofes that is also a venkozat is a dalvowek.
+Every poxtador is a vordefut.
+Every buzmarix is a lonkulon.
+Every kedragij is a gardoker.
+Every nokrenam is a sakrexov.
+Every sorkekaz is a jivkuner.
+Every xuvkevam is a niskalib.
+Every zorkivos is a vuzlukux.
+Every xezmaboj is a rurditex.
+Every rirkinat is a kagnasen.
+Every maxtupap that is also a kirkusoj is a terdoxut.
+Every sevkuneg is a kurkexij.
+Every xaskuvit is a zirkupof.
+Every pegnumej is a mudrudak.
+Every virkunim that is also a tolvonon is a valtafif.
+Every xakrupub is a kirkusoj.
+Every zokrugax that is also a ledrezus is a jazmutaf.
+Every dunkikij is a jetlagad.
+Every dorzotob is a rukrokij.
+Every tirdiwuw is a muzmutub.
+Every tidrivik is a vinzekej.
+Every jultirox is a fonzebon.
+Every wuxtemiz is a kuxtowex.
+Every fordaxal is a dezmuved.
+Every venkozat that is also a fojnezez is a nenkuged.
+Every zilvegab is a munkidos.
+Every jozmaxod is a vorkewax.
+Every xurkemox is a weltofuw.
+Every gitlejem is a sixtaxim.
+Every terdoxut is a jonzafat.
+Every vatlubes that is also a poxtador is a liskasip.
+Every golvosuj is a vambujof.
+Every dignixar that is also a pakrojen is a dejnuzol.
+Every buzmarix that is also a rejnulog is a buvkefoj.
+Every kavkuxuz is a xankasem.
+Every tedrevix that is also a niskisad is a lujnejus.
+Every rotledoz is a danzadib.
+Every verkedel is a jignapor.
+Every jajnunun is a zankutap.
+Every muzmanam is a godrujez.
+Every dazmoxev that is also a guskosem is a purkonal.
+Every noltikas is a nozmatot.
+Every kijnitep is a vuzloruv.
+Every jultowaw is a pinzevip.
+Every fivkopud is a wulvadis.
+Every sozlepam is a jerdokok.
+Every dedrejuf is a kerkepit.
+Every vambarew is a diskuxuk.
+Every davkegak is a zadrefel.
+Every volvenez is a lozlenor.
+Every xambazal is a mognivoz.
+Every nankutol that is also a vozmasam is a najnaxoz.
+Every zonzufed is a galvusas.
+Every maskadob is a zoskaxik.
+Every vazlaben that is also a bazmemin is a nukraziw.
+Nell is a xaskuvit.
+Every wuxtodut that is also a buzmarix is a zadrulaw.
+Every kizlebav is a tarzunot.
+Every zezlewob is a zirduwal.
+Every teltokax is a bizlexub.
+Every sakrexov that is also a niskojiw is a silvemuf.
+Every mejnoged is a buxtujiz.
+Every xizmizir that is also a tozmunov is a ronzinem.
+Every xuzmebim is a golvosuj.
+Every dakroder is a kankugix.
+Every zirkupof is a dunkikij.
+Every lavkuvox is a litlekiw.
+Every junzider is a gedrovop.
+Every pilvurim is a xumbafek.
+Every farkinus is a pijnatum.
+Every lujnejus that is also a tultekim is a pugnizif.
+Every tignozaj is a pidriloz.
+Every pugnafuk is a konkomat.
+Every sixtaxim is a tirdoweg.
+Every silvemuf that is also a kunzefid is a viskipin.
+Every keskifif is a fenzekik.
+Every rizmudow is a jultirox.
+Every virkunim is a zidraxut.
+Every tilvagol is a kugninax.
+Every faskonuf is a jugnelum.
+Every lirduvum is a magnadiz.
+Every suvkafom is a zurduxik.
+Every workanow is a luzmozid.
+Every kurkexij is a rozmusiz.
+Every kombobiw is a wiskimuw.
+Every xeskixen that is also a mozmijup is a kerzenol.
+Every gorkigaj is a genzirok.
+Every gedrovop is a kolvegej.
+Every zonzinuf is a jarkujed.
+Every davkegak that is also a zenzovuf is a suvkafom.
+Every digniwed that is also a virkunim is a jiskutup.
+Every tuvkitur is a digniwed.
+Every muzmekib is a nodruzif.
+Every nakrozax is a nizmakif.
+Every paxtutuj is a gizlolix.
+Every fozlagow is a bunkesol.
+Every nankutol is a vuzlowaw.
+Every wixtujet is a daxtilaz.
+Every murdukut is a berzigas.
+Every rolveven is a giltijis.
+Every gizmeruz is a dagnivam.
+Every gokrusaj is a jordigid.
+Every xurdalis is a lurkamof.
+Every kulvekag is a worzapak.
+Every taltewif is a lorkunud.
+Every dolvodif that is also a guskosem is a xalvonax.
+Every katlofed is a kaskipig.
+Every zaltutut is a tignozaj.
+Every fizmivob is a wikreluz.
+Every zembiper is a zordoxew.
+Every puskinis is a bizmijeg.
+Every zenkazis is a kedragij.
+Every zadrefel is a bukrunij.
+Every mirdapuk that is also a zenkazis is a niskisad.
+Every mejnoged that is also a rankaped is a tovkifar.
+Every bulvepib is a rokrimip.
+Every xedrimud is a wuxtupaz.
+Every jonzafat is a nignejiw.
+Every bugnuweg is a mizmejax.
+Every xaskuvit is a lizlagox.
+Every diskenex is a vikrirus.
+Every sokrafes is a xujnijob.
+Every kukrosix is a purzodov.
+Every paltekaj is a benkinub.
+Every madrakak is a zerkopuk.
+Every loxtokaz is a zorzewen.
+Every dirzuzuz is a xoskaduf.
+Every rizmudow that is also a tirdoweg is a paltekaj.
+Every dazmoxev that is also a mozmijup is a ziltatup.
+Every zidraxut is a zambekuw.
+Every tirdiwuw that is also a retliwej is a fevkigev.
+Every gezlewen is a rextebum.
+Every muzmekib that is also a kinkijin is a tultekim.
+Every rekribiw is a fardupiz.
+Every turdatiw that is also a guskosem is a vozmujek.
+Every rurditex is a sextumav.
+Every tegnowen is a zenkazis.
+Every buxtujiz is a mudrezex.
+Every purzixof is a teltokax.
+Every sinkubas is a jezlexot.
+Every nignomuw is a kaxtugug.
+Every valtafif is a jambufiz.
+Every dukratoz is a zezlukaf.
+Every xankasem that is also a vambarew is a xedrimud.
+Every zokrugax is a filtajev.
+Every dedrejuf that is also a fozlofun is a jokromez.
+Every nodruzif is a gerzefet.
+Every pojnopar is a jultowaw.
+Every fekrigid is a juvkerin.
+Every kaltegog is a poxtador.
+Every dilvozip is a revkisom.
+Every gulvetot is a dalvaxox.
+Every voskiwap is a vivkofaz.
+Every sozmopes is a ferkudas.
+Every dirkinuk is a tirdiwuw.
+Every kirditud is a borkokum.
+Every piltijur is a loltavuj.
+Every xedrokem is a xakrupub.
+Every puskinis that is also a lenzasan is a xunzenug.
+Every zikrikaw is a xordutep.
+Every zirduwal is a vatlubes.
+Every zanzilak is a linkafug.
+Every lilvabeg is a rirzuzed.
+Every xovkonan is a poskiduj.
+Every xaskuvit is a kekrobul.
+Every xaskuvit is a zijnedaz.
+Every pajnadom is a lalvazez.
+Every tolvonon that is also a dirkinuk is a mignaxij.
+Every muzmekib that is also a gizlolix is a jozmaxod.
+Every tovkifar that is also a zambekuw is a nignomuw.
+Every rurkitir is a konzezug.
+Every kazliwar is a tegnowen.
+Every munkidos is a rinkogaz.
+Every rardekop is a jotlejiw.
+Every riltavaz is a zorkivos.
+Every lozlenor is a xextefos.
+Every xuvkevam that is also a taltaraz is a faxtasom.
+Every lonkulon is a dambuxag.
+Every fojnezez is a goskabog.
+Every noskilet is a kevkemiv.
+Every xelvaxew is a dakroder.
+Every rotledoz that is also a zenzovuf is a vodrefix.
+Every mordetiv is a pojnopar.
+Every nelvonit is a zuzmaguf.
+Every dazmoxev that is also a zorzewen is a xambutaf.
+Every werdofij is a rankerek.
+Every fokrudov that is also a vordefut is a tedrevix.
+Every konzezug that is also a fuzlaven is a wixtosix.
+Every dazmoxev is a nugnokiw.
+Every lotlizon is a banzemuv.
+Every panzemek is a gudrokun.
+Every ranzogir is a nakrozax.
+Every pidruxej that is also a bizlexub is a pilvurim.
+Every mozmijup is a silvodox.
+Every vozmasam is a movkuper.
+Every kadrasim is a bokriboj.
+Every sextumav is a jordejot.
+Every xaskuvit is a kulvekag.
+Every lurzezub is a farkofes.
+Every tidrivik that is also a gardoker is a luxtodom.
+Every rodrekux is a taltewif.
+Every rankaped is a kerkixow.
+Every rozmusiz is a mextebal.
+Every nenkuged is a sagniwis.
+Every faxtasom is a kaxtonoj.
+Every fenkukor is a giltetiw.
+Every solvovef is a sorkekaz.
+Every xaskuvit is a mozlupob.
+Every wuxtodut that is also a fuzlaven is a kadrasim.
+Every wuxtodut is a gozlepub.
+Every muzmutub is a xonkelew.
+Every zerzofox is a verkidut.
+Every lezmariz that is also a zadrefel is a kunzefid.
+Every vaskuled that is also a golvosuj is a zaltutut.
+Every jezlexot is a bozlusap.
+Every gonzugis is a loxtofiw.
+Every bizmijeg is a zombudam.
+Every zerkopuk is a fozlofun.
+Every zerzofox is a zunzidon.
+Every niskojiw is a gizlinod.
+Every girzafat is a wojnokuf.
+Every vidruviz is a kaltegog.
+Every dezmuved is a kinkijin.
+Every xaskuvit is a sirzulev.
+Every wozlisit is a puskujal.
+Every fozlofun that is also a tarzekit is a pidruxej.
+Every bazmemin is a nambebuj.
+Every dejnuzol is a lujnunug.
+Every kezlulox is a jagnoram.
+Every baskezej is a lignofik.
+Every mojnibog is a vunkoxoj.
+Every gudrokun is a banzusav.
+Every bozlusap is a xujnenol.
+Every suzmukof is a kazliwar.
+Rex is a zerzofox.
+Every banzusav is a fizmivob.
+Every lelvezuw is a noltikas.
+Every tarzesaf is a jakrorob.
+Every pudrotux is a firdobok.
+Every fotleved is a tolvonon.
+Every nidruwap is a ragnazad.
+Every wojnemam that is also a mozmijup is a tenkavod.
+Every fajnibit is a rizmudow.
+Every zerzofox is a kavkuxuz.
+Every xuzlifip is a bugnuweg.
+Every kuxtowex is a xatlenug.
+Every dudrijar is a ziskajob.
+Every botlaxas is a bovkipib.
+Every dutlilej is a tirdujez.
+Every davkegak that is also a fivkopud is a lilvabeg.
+Every jordigid is a luvkiwiv.
+Every godriwin is a zonzufed.
+Every milviwud is a konzazes.
+Every sirzulev is a retliwej.
+Every ditlewup is a vezmakar.
+Every kembiduv is a sezlafib.
+Every tirdujez is a tulvufel.
+Every sakrexov is a tumbobuz.
+Every kunzefid that is also a jokromez is a lotlizon.
+Every rotledoz that is also a fivkopud is a bilvamid.
+Every lelvalip is a zenzovuf.
+Every xuvkevam that is also a solvalof is a ditlewup.
+Every ximbedim is a jelvesub.
+Every xambutaf is a mutlijit.
+Every razmijen is a sekrelur.
+Every daxtilaz is a zutlasiv.
+Every nugnokiw is a gorkigaj.
+Every punkemaj that is also a tezmawem is a durkegow.
+Every gextavup is a jognosin.
+Every vodrefix is a xevkewel.
+Every meskogup is a vaskuled.
+Every gizlolix is a wekramup.
+Every pinkonel is a dolvodif.
+Every xankasem that is also a piltijur is a nolvugal.
+Every zidraxut that is also a jultirox is a wazlatov.
+Every gambapuz is a dojnibis.
+Every lalvazez is a lultuduk.
+Every favkabam is a zejnanos.
+Every duxtovos that is also a bognogux is a gizmeruz.
+Every zuzmaguf is a burkufad.
+Every vozmujek is a burkamav.
+Every botlezes is a loxtokaz.
+Every xodripav is a sujnajum.
+Every soltojur that is also a zorzewen is a nujnirox.
+Every mextemuj is a virkunim.
+Every luxtodom is a tekrodam.
+Every jordejot is a lelvezuw.
+Every munzukem is a duxtitir.
+Every kerzenol is a duzlonin.
+Every kolvegej is a tombenak.
+Every lizlagox is a xuvkevam.
+Every xeskixen is a foxtetit.
+Every jokromez is a diskenex.
+Every punkemaj that is also a zadrulaw is a tarzesaf.
+Every xoltulud is a gumbejan.
+Every kerkixow is a venzosuz.
+Every verkidut is a xeskixen.
+Every fozlofun is a tidrivik.
+Every najniluf is a mixtegaj.
+Every fotleved that is also a danzadib is a puskinis.
+Every punzikur is a voltixij.
+Every fultuwul is a kezmeduz.
+Every ziskajob is a tezmawem.
+Every vuzlukux is a fenkukor.
+Every xivkulav is a zilvegab.
+Every zembexar is a wodrosop.
+Every zijnedaz is a turdatiw.
+Every sunkufor is a weskomab.
+Every jarzurin is a xizmomex.
+Every lavkoniw is a mezmipex.
+Every gavkanal is a nalvofop.
+Every xeskixen that is also a zorzewen is a lirduvum.
+Every vatlubes is a rankaped.
+Every fazlojed is a luxtesap.
+Every sejninom is a multuliw.
+Every valtafif that is also a rizmunag is a wuxtodut.
+Every murkejep is a kirditud.
+Every poskiduj is a zelviwep.
+Every givkamab is a suzmukof.
+Every solvalof is a jajnanes.
+Every gazlowek is a biskasub.
+Every fatlufox is a loltugaw.
+Every bultixim is a solvalof.
+Every sunkufor that is also a pakrojen is a dignixar.
+Every zordujuw is a tokruxoz.
+Every kirkusoj is a vudrobir.
+Every senkijov is a suzmizul.
+Every senzubom is a bulvepib.
+Every pakrojen is a xivkulav.
+Every rankerek is a fotleved.
+Every lavkoniw that is also a goskabog is a senkijov.
+Every soltojur is a barkamij.
+Every ponzopej is a jezlugur.
+Every movkuper is a sezmaful.
+Every luvkiwiv is a sejninom.
+Every pilvufon is a sognukin.
+Every goskabog is a dukratoz.
+Every lezmariz is a venkozat.
+Every pukrejoz that is also a fonzebon is a fuxtewum.
+Every jognosin is a niskojiw.
+Every weskomab is a niltozut.
+Every warkevov is a boltivap.
+Every pidruxej that is also a godriwin is a ledrezus.
+Every fokrudov that is also a vordefut is a juskojos.
+Every kinkijin is a rognapax.
+Every zerzofox is a workanow.
+Every derditaz is a dedripiv.
+Every dolvodif that is also a pijnatum is a rokrejus.
+Every kevkemiv is a fokrudov.
+Every zirzufab is a tunzesan.
+Every vaskopuk is a zojnowil.
+Every mextebal is a sorzogos.
+Every nerdizar is a davkegak.
+Every gizlinod is a tarzekit.
+Every vivkofaz is a madrakak.
+Every zerzofox is a pinkonel.
+Every niskalib is a zijnegeg.
+Every nizmakif is a vidruviz.
+Every xaskuvit is a nerdizar.
+Every luzmozid is a teskepoz.
+Every jarkujed is a pakrojen.
+Every kujnuwuv is a wozlisit.
+Every ronzinem is a lenkapek.
+Every wojnemam that is also a zorzewen is a nirzapuv.
+Every maxtupap that is also a kombobiw is a dignekef.
+Every durkegow is a fatlufox.
+Every mignaxij is a fignowub.
+Every buvkefoj is a tugnimov.
+Every punkemaj is a navkamix.
+Every lorkunud is a mextemuj.
+Every dojnenoz is a ximbedim.
+Every kombobiw that is also a maxtupap is a tozmunov.
+Every lignofik is a bognogux.
+Every dazmoxev that is also a pijnatum is a rardekop.
+Every bovkipib is a wegnitij.
+Every zezlukaf is a sulvifuj.
+Every duxtitir that is also a jignapor is a ponzopej.
+Every pegnegoj that is also a kedragij is a vultefej.
+Every fuxtewum is a zanzilak.
+Every lextoroj that is also a gonzugis is a wixtapil.
+Every korzutev is a mordetiv.
+Every zerzofox is a zirzufab.
+Every pukrejoz is a dedrejuf.
+Every duxtovos is a vijnumoz.
+Every tenkavod is a judranal.
+Every zezlewob that is also a jekroxis is a gazlowek.
+Every watluxab is a voltimok.
+Every xatlenug is a korkimov.
+Every zadrulaw that is also a punkemaj is a najniluf.
+Every nukraziw is a rerkaxig.
+Every pinzevip is a kenzamum.
+Every kurduvit is a nekrazen.
+Every bizlexub is a xatlujor.
+Every tezmawem is a jikrabod.
+Every nerdiwon is a katlofed.
+Every bunkesol is a perzewav.
+Every maxtupap is a xetlirul.
+Every zaltutut that is also a bognogux is a duxtovos.
+Every kuzmibuz is a nultagik.
+Every rejnulog is a rerzufif.
+Every radrozak is a panzemek.
+Every tozmunov is a gavkanal.
+Every bonkupaf is a zonzinuf.
+Every worzapak is a darzolup.
+Every wixtosix is a xozleped.
+Every firzoxuw that is also a loxtokaz is a maxtupap.
+Every sognefex is a xezlozax.
+Every mozlupob is a nokrenam.
+Every tezlodav is a nombojuv.
+Every tatlawaj is a xodripav.
+Every lavkoniw that is also a kajnufon is a muzmekib.
+Every nultagik is a gonzugis.
+Every ponzopej that is also a kugninax is a firzoxuw.
+Every lextoroj that is also a gonzugis is a dojnenoz.
+Every xonkelew is a radrozak.
+Every liskewel is a taltaraz.
+Every jekroxis that is also a kenzamum is a xunkufuw.
+Every fenzekik is a paxtutuj.
+Every tirdoweg is a berdonek.
+Every jinzojev is a kurduvit.
+Every binkumal is a kulvipev.
+Every duxtitir is a felvexaz.
+Every vokratin is a vaskopuk.
+Every najniluf that is also a voskuwex is a milviwud.
+Every bukrunij is a zordujuw.
+Every walvenon is a dirkinuk.
+Every kerkepit is a dorzotob.
+Every jignapor is a mozlesuj.
+Every zerzofox is a givkamab.
+Every foskubol is a magnigak.
+Every zerzofox is a kultopox.
+Every tozmekog is a botlezes.
+Every rognapax is a gozmixuv.
+Every kevkedal is a sazmiwot.
+Every jultilad is a fokridug.
+Every dignixar is a kezlulox.
+Every tokruxoz is a riltavaz.
+Every jazmutaf is a zextiwim.
+Every turdatiw that is also a pijnatum is a bovkibez.
+Every xeskixen that is also a pijnatum is a warkevov.
+Every kuxtenul is a revkisom.
+Every mudrudak is a renzison.
+Every kerkepit that is also a xeskixen is a girzafat.
+Every duvkimod is a legnozet.
+Every jikrabod is a voskuwex.
+Every pizlebut is a telvepes.
+Every retliwej is a jajnunun.
+Every ginkowaw that is also a xatlenug is a xizmizir.
+Every werzared is a zeltinij.
+Every zerzofox is a nokrufij.
+Every vordefut is a walvenon.
+Every godrujez is a tatlawaj.
+Every venkozat is a birzagot.
+Every nejnodok is a xambudev.
+Every buvkefoj that is also a puskujal is a tezlodav.
+Every bognogux is a porzezov.
+Every vozlaril is a xorzitig.
+Every kenzamum is a xezmuloz.
+Every vorzivir is a dilvozip.
+Every jugnelum is a mejnoged.
+Every rotledoz that is also a sorkekaz is a foskubol.
+Every genkuriv is a rirzizav.
+Every turdatiw is a vokratin.
+Every pugnafuk that is also a viskipin is a ginkowaw.
+Every wikreluz is a fivkopud.
+Every vinzekej is a feskusub.
+Every jekroxis is a meskogup.
+Every vultefej that is also a puskinis is a rejnulog.
+Every tunzesan is a pegnegoj.
+Every davkegak that is also a sorkekaz is a kizlebav.
+Every konkomat is a minkugax.
+Every teskepoz is a faskonuf.
+Every revkisom is a botlaxas.
+Every tovkifar is a gitlilux.
+Every duvkijuk is a govkinot.
+Every xaskuvit is a xiltabik.
+Every tojnevon is a sextumav.
+Every jinzojev that is also a zojnowil is a zolvadar.
+Every purkonal is a xujnupop.
+Every nirzapuv is a ferdavup.
+Every borkokum is a pajnadom.
+Every birzagot is a dutlilej.
+Every pijnatum is a kevkotux.
+Every xiltabik is a soltojur.
+Every legnozet is a sevkuneg.
+Every zorzewen is a kunkisif.
+Every zunzidon is a wojnemam.
+Every xujnenol is a sozlepam.
+Every sezmaful is a mozmijup.
+Every vijnumoz is a kembuzuk.
+Every gardoker is a kajnufon.
+Every laskifeg is a vazlaben.
+Every mixtegaj is a laltofox.
+Every renzison is a muzmanam.
+Every niskisad is a torkabam.
+Every ziltatup is a nolvafaw.
+Every fonzebon is a lurzezub.
+Every tombenak is a keskifif.
+Every ragnazad that is also a tirdoweg is a xambazal.
+Every firzoxuw is a bankozin.
+Every naxturoj is a gitlejem.
+Every bankozin is a korzudol.
+Every kedragij that is also a noltikas is a pilvufon.
+Every dolvodif is a fezmukol.
+Every nakrozax that is also a solvalof is a vajnulap.
+Every lazmenok is a rurkitir.
+Every dordojup is a fuzlaven.
+Every ponzerub is a jekroxis.
+Every rerzufif is a bovkadan.
+Every banzemuv is a sekruxat.
+Every zadrulaw is a golvaxeb.
+Every xunkufuw is a movkodir.
+Every dedripiv is a zezlewob.
+Every multuliw is a liskewel.
+Every tarzekit is a fozlagow.
+Every zutlasiv is a fozlabep.
+Every bovkibez is a lembumav.
+Every sulvifuj is a lazmenok.
+Every kugninax is a nazletiw.
+Every tovkifar that is also a lenzasan is a buzmarix.
+Every vajnulap is a wumbunod.
+Every xorzitig is a duvkijuk.
+Every barkamij is a sinkubas.
+Every mezmipex is a duvkimod.
+Every dalvowek that is also a jordigid is a rolveven.
+Every wixtapil is a sokrafes.
+Every biltowuj is a rankupos.
+Every dudrijar that is also a xakrupub is a nejnodok.
+Every taltaraz is a vatliwuf.
+Every kunzefid is a kembiduv.
+Every perzewav is a sozmopes.
+Every murzofot is a naxturoj.
+Every govkinot is a kujnuwuv.
+Every feskusub is a korzutev.
+Every jetlagad is a zembiper.
+Every lextoroj is a fajnibit.
+Every tulvufel is a godriwin.
+Every soltojur that is also a mozmijup is a rurkudud.
+Every mirdapuk is a pegnumej.
+Every bonkonip is a wojnesir.
+Every tezlodav that is also a najniluf is a kijnitep.
+Every voskuwex is a tankivob.
+Every mudrezex is a vozlaril.
+Every vambujof is a tixtumij.
+Every danzadib is a zelvukot.
+Every vaskuled is a biltowuj.
+Every nazletiw is a wixtujet.
+Every lujnejus is a werzared.
+Every xaskuvit is a senzubom.
+Every dignekef is a vaxtuwaj.
+Every fozlabep is a volvenez.
+Every bikrozid is a gaskimox.
+Every nignomuw that is also a sezmaful is a punkemaj.
+Every wixtapil that is also a gulvetot is a zokrugax.
+Every davkegak that is also a kurduvit is a xurkemox.
+Every jerdokok is a xuzlifip.
+Every gaskimox is a murzofot.
+Every tizlalul is a lelvalip.
+Every vultefej is a tikrixar.
+Every wekramup is a jinzojev.
+Every kaskipig is a feskumar.
+Every mizmejax is a xedrokem.
+Every dalvowek is a kuzleriw.
+Every kultopox is a rotledoz.
+Every ragnazad is a tuvkitur.
+Every valvalij is a nidruwap.
+Every rukrokij is a wuxtemiz.
+Every kekrobul is a dazmoxev.
+Every foxtetit is a derditaz.
+Every rizmunag is a xovkonan.
+Every kajnufon is a junzider.
+Every venzosuz is a dordojup.
+Every kaxtugug is a kakrukip.
+Every digniwed is a bonkupaf.
+Every ponzopej that is also a jokromez is a pugnafuk.
+Every filtajev is a xonkarit.
+Every tolvonon is a favkabam.
+Every nozmatot is a farkinus.
+Every xoskaduf is a dudrijar.
+Every xextefos that is also a werdofij is a maskadob.
+Every pidruxej is a genkuriv.
+Every nujnirox is a marzakag.
+Every burkufad is a zembexar.
+Every rankupos is a dirzuzuz.
+Every vudrobir is a kevkedal.
+Every rinkogaz is a fultuwul.
+Every jetlagad that is also a jognosin is a gulvetot.
+Every gukrexex is a wumbonif.
+Every wegnitij is a kukrosix.
+Every sazmiwot is a piltijur.
+Every dovkexof is a laskifeg.
+Every porzezov is a mojnibog.
+Every rurkudud is a gorzadov.",Rex is a zerzofox.,304,0,0,0

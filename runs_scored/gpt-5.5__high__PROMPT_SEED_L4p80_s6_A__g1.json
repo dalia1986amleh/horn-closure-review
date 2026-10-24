@@ -1,0 +1,13 @@
+{
+ "model": "gpt-5.5",
+ "effort": "high",
+ "prompt_file": "prompts_v2/PROMPT_SEED_L4p80_s6_A.txt",
+ "tag": "g1",
+ "seconds": 185.5,
+ "status": "completed",
+ "incomplete": "None",
+ "input_tokens": 75146,
+ "output_tokens": 18550,
+ "reasoning_tokens": 16046,
+ "sent_utc": "2026-10-16 17:52:57"
+}

@@ -1,0 +1,127 @@
+Use only the premises below. All words are invented; do not use outside knowledge.
+Do NOT use code, tools, calculators or web search. Work it out yourself.
+"Every A is a B" means anything that is an A is also a B.
+"Every A that is also a B is a C" applies only to something that is both an A and a B.
+
+Premises:
+Every kankurap that is also a wojnokiw is a meskokiw.
+Every ninzobed is a vinketod.
+Every juzlefer is a paxtural.
+Every xovkobad is a juzlefer.
+Every zarkivax is a lenzozuv.
+Every nozlumep is a zarkivax.
+Every lizlagaw is a jordixad.
+Every zunzuxix is a wokrivew.
+Every varkorup is a kunzixen.
+Every fedrinuv is a doskepak.
+Every bixtuxut that is also a boxtusos is a fozludod.
+Every tegnazes is a puvkotur.
+Every karzaben that is also a lalveliw is a wirkifem.
+Every zenkinug is a gikresas.
+Every ruzmufen is a dojnegez.
+Every zonkumun is a rezmosen.
+Every fozludod is a saxtoron.
+Every nozlumep is a kijnikax.
+Every jignofar is a vambefar.
+Every fejnetip is a toskekaw.
+Every pextugur is a jotlowud.
+Every tumbaxeg is a rezlotup.
+Every gevkowuz is a mokruzaf.
+Every genkorej is a xijnetub.
+Every mizmakow is a wojnokiw.
+Every wazmimev is a sizmonoj.
+Every saxtoron is a wegnogez.
+Every pajnutok is a nedrejik.
+Every dozmixos that is also a boxtusos is a lazmivog.
+Every xivkopev that is also a tankimor is a dozmixos.
+Every lenzozuv is a kenzivap.
+Every watlaxun is a jetlolok.
+Every xivkopev is a jignofar.
+Every jordixad is a nizlarik.
+Tobin is a nozlumep.
+Every dojnegez is a jikrener.
+Every kenzivap is a ruzmufen.
+Every mokruzaf is a jirkufoz.
+Every kenzivap that is also a vizmevog is a pextisob.
+Every wurkobib is a zonkumun.
+Every vonzagak is a vizmevog.
+Every meskokiw is a punkegub.
+Every sizmonoj is a vizmevog.
+Every derkapew is a vonzagak.
+Every dirzenab is a zenkinug.
+Every menkavim is a jokresaw.
+Every varkorup is a wurkobib.
+Every legnojik is a pajnutok.
+Every jovkaxed that is also a pextugur is a rilvadis.
+Every kikrasur is a xovkobad.
+Every wikrazij is a legnojik.
+Dev is a varkorup.
+Every watlaxun that is also a fedrinuv is a dakrijal.
+Every wikrazij that is also a vinketod is a bixtuxut.
+Every vuskaboj is a tegnazes.
+Every dozmixos is a genkorej.
+Every wunkefug is a ninzobed.
+Every nozlumep is a zozmalus.
+Every kunzixen is a zavkunax.
+Every jikrener that is also a zaxtixum is a zunzuxix.
+Every kijnikax is a derkapew.
+Every wilvuret is a nognoniv.
+Every rezmosen that is also a xovkobad is a mextaruf.
+Every zavkunax is a wikrazij.
+Every karzaben that is also a tankimor is a jajnifus.
+Every karzaben is a zoltoveb.
+Every rilvadis is a kudreduk.
+Every zaxtixum is a rinzeguj.
+Every jokresaw is a lalveliw.
+Every wojnokiw is a watlaxun.
+Every vinketod is a xivkopev.
+Every jovkaxed is a zaxtixum.
+Every dakrijal is a jolvuxal.
+Every tankimor is a puxtozoj.
+Every pextisob is a gazlakun.
+Every vambefar is a tumbaxeg.
+Every fozludod that is also a nedrejik is a fejnetip.
+Every lirzalan is a sagnisax.
+Every zaxtixum that is also a tegnazes is a tirkutox.
+Every puxtozoj is a jovkaxed.
+Every bixtuxut is a ninkimes.
+Every nizlarik is a tankimor.
+Every nozlumep is a wilvuret.
+Every zozmalus is a gevkowuz.
+Every boxtusos is a wilvonog.
+Every zonzogam is a bujnixub.
+Every mextaruf is a xegnetun.
+Every karzaben that is also a kenzivap is a terkanug.
+Every ninkimes is a kukrinup.
+Every vizmevog is a kikrasur.
+Every nognoniv is a karzaben.
+Every burkumig is a vuskaboj.
+Every vinketod that is also a tankimor is a boxtusos.
+Every varkorup is a wunkefug.
+Every tirkutox is a wavkogib.
+Every jikrener is a pextugur.
+Every jajnifus is a butlonej.
+Every terkanug is a zonzogam.
+Every wikrazij that is also a vizmevog is a peltosoj.
+Every zezmegag is a durkifab.
+Every puvkinuz is a voxtugig.
+Every lalveliw is a fedrinuv.
+Every sagnisax is a zaxtixum.
+Every dirzenab that is also a pextisob is a puvkinuz.
+Every varkorup is a lizlagaw.
+Every jirkufoz is a burkumig.
+Every ruzmufen that is also a vizmevog is a dirzenab.
+Every rezmosen is a menkavim.
+Every kankurap is a jextowej.
+Every terkanug that is also a pextisob is a kankurap.
+Every peltosoj is a kanzigaf.
+Every jextowej is a nextodax.
+Every wirkifem is a jeskemet.
+Every nedrejik is a zezmegag.
+Every zoltoveb is a mizmakow.
+Every lazmivog is a dezmumeb.
+
+Task: list every statement of the form "Tobin is a ___" that follows from the premises.
+- Do not repeat the given fact about Tobin.
+- Write one statement per line, exactly as "Tobin is a word". No numbering, no explanations.
+- Include every statement that follows and no statement that does not follow.

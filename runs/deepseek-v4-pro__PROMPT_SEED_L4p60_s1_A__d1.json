@@ -1,0 +1,14 @@
+{
+ "model": "deepseek-v4-pro",
+ "base_url": "https://api.deepseek.com",
+ "prompt_file": "prompts_v2/PROMPT_SEED_L4p60_s1_A.txt",
+ "tag": "d1",
+ "seconds": 1169.2,
+ "finish_reason": "stop",
+ "input_tokens": 59451,
+ "output_tokens": 103716,
+ "reasoning_tokens": 101170,
+ "has_reasoning_text": true,
+ "max_output_tokens": 128000,
+ "sent_utc": "2026-10-15 13:49:50"
+}

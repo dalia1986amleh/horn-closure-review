@@ -1,0 +1,125 @@
+Use only the premises below. All words are invented; do not use outside knowledge.
+Do NOT use code, tools, calculators or web search. Work it out yourself.
+"Every A is a B" means anything that is an A is also a B.
+"Every A that is also a B is a C" applies only to something that is both an A and a B.
+
+Premises:
+Sally is a muzmusus.
+Every xorkizeg is a getlawul.
+Every tunkuvaw is a soskerub.
+Every ranzixod is a ferzuvej.
+Every poxturoz is a xorkizeg.
+Every belvasat is a ridrewug.
+Every muzmusus is a zelvefip.
+Every jolvisem is a jenzovil.
+Every pultaxog is a fankimev.
+Every waxtumaj is a bikronot.
+Every jerdosex is a tetlaxip.
+Every nambexox is a vunzejir.
+Every lugnujuf is a nirzoduw.
+Every sudrudej is a benkudiw.
+Every beskipow is a jenkatix.
+Every xugnoxan is a jerduveg.
+Every feltijul is a dovkewoz.
+Every xombifiw is a xerdonas.
+Every neskuzis is a vixtotan.
+Every detlamuj is a bikregid.
+Every jotlelel is a jirkarug.
+Every zonkosub is a lordilek.
+Every nirzoduw is a keltevap.
+Every nevkefes is a tekririg.
+Every xugnoxan is a wudresug.
+Every ronkaget is a xezmoxop.
+Every benkefid is a xognubij.
+Every jenkatix is a vuzluxas.
+Every jirkarug is a vurkatis.
+Every soskerub is a wirkonav.
+Every mezlabil is a beskipow.
+Every dovkewoz is a dextivaf.
+Every kevkufez is a fejnetaz.
+Every menzojaf is a rakrexuf.
+Dev is a bonkaneb.
+Every lorkipax is a moltiwed.
+Every tekririg is a neskuzis.
+Every nojninoz is a fetlozij.
+Every xognekog is a wirkonav.
+Every kevkezen is a terdiwug.
+Every jerduveg is a murzubes.
+Every rarzawof is a jiltifes.
+Every puskuwer is a lorkipax.
+Every xezmoxop is a jokribir.
+Every zakretew is a neskared.
+Every zelvefip is a xognekog.
+Every zixtubim is a menzojaf.
+Every dextivaf is a zakretew.
+Every murzubes is a rinkates.
+Every rinkates is a mezlabil.
+Every xerdonas is a zuvkepit.
+Every vunzejir is a kevkezen.
+Every keltevap is a fojnujar.
+Every wudresug is a sezmibel.
+Every vurkatis is a nojninoz.
+Every vixtotan is a sidripij.
+Every waltilem is a ronkaget.
+Every fignixet is a puskuwer.
+Every xombifiw is a lugnujuf.
+Every sidripij is a joltosex.
+Every zembivos is a ludrufox.
+Every ridrewug is a betlivoz.
+Every bejnepix is a tekririg.
+Every bembatok is a rerkagat.
+Every bonkaneb is a xugnoxan.
+Every gombikir is a fignixet.
+Every peltunoz is a sedrukox.
+Every getlawul is a zarkipoj.
+Every detlamuj is a xombifiw.
+Every kinkuvar is a muvkapew.
+Every joltajar is a kurdaxeg.
+Every muzmusus is a kevkufez.
+Every loltivax is a sovkepon.
+Every lordilek is a duzlamik.
+Every bonkaneb is a detlamuj.
+Every kizmumog is a pultaxog.
+Every jenzovil is a peltunoz.
+Every wirkonav is a sudrudej.
+Every wenkokib is a benkefid.
+Every wudresug is a werzatam.
+Every lorkikew is a kinkuvar.
+Every fejnetaz is a wenkokib.
+Every sovkepon is a seltekun.
+Every bikregid is a nevkefes.
+Every buskumen is a bembatok.
+Every jerduveg is a joltajar.
+Every furkivuj is a bejnepix.
+Every xognekog is a gombikir.
+Every muvkapew is a gizmovak.
+Every fejnetaz is a rarzawof.
+Every zelvefip is a vizloxir.
+Every seltekun is a lorkikew.
+Every jiltifes is a jolvisem.
+Every kevkufez is a loltivax.
+Every sezmibel is a zixtubim.
+Every werzatam is a feltijul.
+Every ferzuvej is a poxturoz.
+Every vizloxir is a ranzixod.
+Every rakrexuf is a waxtumaj.
+Every titlazil is a bevkunir.
+Every kurdaxeg is a nambexox.
+Every vizloxir is a zonkosub.
+Every loltivax is a kizmumog.
+Every fankimev is a buskumen.
+Every fojnujar is a zembivos.
+Every sorzesif is a titlazil.
+Every pudrevez is a jerdosex.
+Every benkudiw is a belvasat.
+Every xognubij is a pudrevez.
+Every zuvkepit is a waltilem.
+Every duzlamik is a sorzesif.
+Every fetlozij is a bevkurak.
+Every moltiwed is a koxtaxoj.
+Every bikregid is a jotlelel.
+
+Task: list every statement of the form "Sally is a ___" that follows from the premises.
+- Do not repeat the given fact about Sally.
+- Write one statement per line, exactly as "Sally is a word". No numbering, no explanations.
+- Include every statement that follows and no statement that does not follow.

@@ -1,0 +1,107 @@
+{
+ "DeepSeek: primary": {
+  "9k": 0.995,
+  "40k": 0.878,
+  "80k": 0.693,
+  "9k->40k": {
+   "mean": -0.117,
+   "lower": 7,
+   "higher": 0
+  },
+  "9k->80k": {
+   "mean": -0.301,
+   "lower": 8,
+   "higher": 0
+  }
+ },
+ "GPT-5.5: primary (normalised)": {
+  "9k": 1.0,
+  "40k": 0.998,
+  "80k": 0.923,
+  "9k->40k": {
+   "mean": -0.002,
+   "lower": 3,
+   "higher": 1
+  },
+  "9k->80k": {
+   "mean": -0.077,
+   "lower": 6,
+   "higher": 1
+  }
+ },
+ "GPT-5.5: strict": {
+  "9k": 0.75,
+  "40k": 0.873,
+  "80k": 0.923,
+  "9k->40k": {
+   "mean": 0.123,
+   "lower": 3,
+   "higher": 3
+  },
+  "9k->80k": {
+   "mean": 0.173,
+   "lower": 4,
+   "higher": 3
+  }
+ },
+ "Gemini: primary (one run chosen at random)": {
+  "9k": 0.988,
+  "40k": 0.918,
+  "80k": 0.866,
+  "9k->40k": {
+   "mean": -0.07,
+   "lower": 5,
+   "higher": 2
+  },
+  "9k->80k": {
+   "mean": -0.122,
+   "lower": 6,
+   "higher": 0
+  }
+ },
+ "Gemini: mean of repeats": {
+  "9k": 0.988,
+  "40k": 0.94,
+  "80k": 0.866,
+  "9k->40k": {
+   "mean": -0.048,
+   "lower": 5,
+   "higher": 2
+  },
+  "9k->80k": {
+   "mean": -0.122,
+   "lower": 6,
+   "higher": 0
+  }
+ },
+ "Gemini: first runs": {
+  "9k": 0.988,
+  "40k": 0.918,
+  "80k": 0.866,
+  "9k->40k": {
+   "mean": -0.07,
+   "lower": 5,
+   "higher": 2
+  },
+  "9k->80k": {
+   "mean": -0.122,
+   "lower": 6,
+   "higher": 0
+  }
+ },
+ "Gemini: latest runs": {
+  "9k": 0.988,
+  "40k": 0.962,
+  "80k": 0.866,
+  "9k->40k": {
+   "mean": -0.026,
+   "lower": 5,
+   "higher": 2
+  },
+  "9k->80k": {
+   "mean": -0.122,
+   "lower": 6,
+   "higher": 0
+  }
+ }
+}

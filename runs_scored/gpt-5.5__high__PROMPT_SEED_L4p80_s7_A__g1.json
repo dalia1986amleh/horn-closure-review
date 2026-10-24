@@ -1,0 +1,22 @@
+{
+ "model": "gpt-5.5",
+ "model_returned_by_api": "gpt-5.5-2026-04-23",
+ "response_id": "resp_03caf2cec3f38100006ad77f32fe6887d2b4a1bc0475f859d0",
+ "provider": "openai",
+ "effort": "high",
+ "temperature": "not set (reasoning models fix it)",
+ "max_output_tokens": 128000,
+ "seed": "not supported by the Responses API",
+ "truncated": false,
+ "empty_output": false,
+ "refusal": false,
+ "prompt_file": "prompts_v2/PROMPT_SEED_L4p80_s7_A.txt",
+ "tag": "g1",
+ "seconds": 209.1,
+ "status": "completed",
+ "incomplete": "None",
+ "input_tokens": 75623,
+ "output_tokens": 22141,
+ "reasoning_tokens": 19953,
+ "sent_utc": "2026-10-20 14:51:47"
+}
